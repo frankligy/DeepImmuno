@@ -9,9 +9,13 @@ Enjoy and don't hesitate to ask me questions (contact at the bottom), I will be 
 ## DeepImmuno-CNN
 
 #### Dependencies
+
 python = 3.6
+
 tensorflow = 2.3.0
+
 numpy = 1.18.5
+
 pandas = 1.1.1
 
 #### How to use?
@@ -58,8 +62,11 @@ optional arguments:
 #### Dependencies
 
 python = 3.6
+
 pytorch = 1.4.0
+
 numpy = 1.18.4
+
 pandas = 1.0.5
 
 #### How to use
