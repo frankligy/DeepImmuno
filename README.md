@@ -1,6 +1,7 @@
 # DeepImmuno
 Deep-learning empowered prediction and generation of immunogenic epitopes for T cell immunity. 
 > Please refer to **DeepImmuno-CNN** if you want to predict immunogenicity
+
 > Plase refer to **DeepImmuno-GAN** if you want to generate immunogenic peptide
 
 Enjoy and don't hesitate to ask me questions (contact at the bottom), I will be responsive!
