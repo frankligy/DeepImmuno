@@ -1,0 +1,32 @@
+H EISD840101
+D Consensus normalized hydrophobicity scale (Eisenberg, 1984)
+R PMID:6383201
+A Eisenberg, D.
+T Three-dimensional structure of membrane and surface proteins
+J Ann. Rev. Biochem. 53, 595-623 (1984) Original references: Eisenberg, D., 
+  Weiss, R.M., Terwilliger, T.C. and Wilcox, W. Faraday Symp. Chem. Soc. 17, 
+  109-120 (1982) Eisenberg, D., Weiss, R.M. and Terwilliger, T.C. The 
+  hydrophobic moment detects periodicity in protein hydrophobicity Proc. Natl. 
+  Acad. Sci. USA 81, 140-144 (1984)
+C RADA880101    0.968  JACR890101    0.938  RADA880107    0.927
+  ROSM880105    0.923  WOLR810101    0.914  WOLR790101    0.909
+  RADA880104    0.908  JANJ790102    0.900  JURD980101    0.895
+  NADH010102    0.887  CHOC760103    0.885  BLAS910101    0.884
+  EISD860101    0.884  KYTJ820101    0.878  FAUJ830101    0.875
+  JANJ780102    0.874  OLSK800101    0.869  COWR900101    0.863
+  NADH010101    0.861  NADH010103    0.840  NAKH900110    0.838
+  EISD860103    0.837  DESM900102    0.828  RADA880108    0.817
+  BIOV880102    0.814  BIOV880101    0.811  YUTK870101    0.809
+  NADH010104    0.809  ROSG850102    0.806  BASU050103    0.806
+  WOLS870101   -0.820  GRAR740102   -0.823  MEIH800102   -0.829
+  HOPT810101   -0.846  GUYH850101   -0.849  PUNT030102   -0.854
+  LEVM760101   -0.859  OOBM770101   -0.878  JANJ780103   -0.881
+  FAUJ880109   -0.890  GUYH850104   -0.892  CHOC760102   -0.892
+  KIDA850101   -0.900  JANJ780101   -0.907  KUHL950101   -0.907
+  PUNT030101   -0.914  VHEG790101   -0.924  ROSM880102   -0.925
+  ENGD860101   -0.936  PRAM900101   -0.936  ROSM880101   -0.947
+  GUYH850105   -0.951
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.25   -1.76   -0.64   -0.72    0.04   -0.69   -0.62    0.16   -0.40    0.73
+    0.53   -1.10    0.26    0.61   -0.07   -0.26   -0.18    0.37    0.02    0.54
+//

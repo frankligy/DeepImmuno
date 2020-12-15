@@ -1,0 +1,14 @@
+H ISOY800108
+D Normalized relative frequency of coil (Isogai et al., 1980)
+R PMID:7378550
+A Isogai, Y., Nemethy, G., Rackovsky, S., Leach, S.J. and Scheraga,H.A
+T Characterization of multiple bends in proteins
+J Biopolymers 19, 1183-1210 (1980) Recalculated by Kidera using a different set 
+  of proteins
+C MAXF760104    0.945  RICJ880115    0.889  RACS820109    0.848
+  RACS820106    0.831  TANS770107    0.827  AURR980117    0.822
+  TANS770109    0.816  ISOY800105    0.812  MAXF760105    0.810
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.47    0.52    2.16    1.15    0.41    0.95    0.64    3.03    0.89    0.62
+    0.53    0.98    0.68    0.61    0.63    1.03    0.39    0.63    0.83    0.76
+//

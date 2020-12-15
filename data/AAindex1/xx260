@@ -1,0 +1,12 @@
+H QIAN880104
+D Weights for alpha-helix at the window position of -3 (Qian-Sejnowski, 1988)
+R PMID:3172241
+A Qian, N. and Sejnowski, T.J.
+T Predicting the secondary structure of globular proteins using neural network 
+  models
+J J. Mol. Biol. 202, 865-884 (1988)
+C QIAN880106    0.851  QIAN880105    0.824  AURR980108    0.815
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.29   -0.03   -0.04    0.11   -0.05    0.26    0.28   -0.67   -0.26    0.00
+    0.47   -0.19    0.27    0.24   -0.34   -0.17   -0.20    0.25   -0.30   -0.01
+//

@@ -1,0 +1,13 @@
+H KARS160103
+D Total weighted degree of the graph (obtained by adding all the weights of
+  all the vertices) (Karkbara-Knisley, 2016)
+R
+A Karkbara, S. and Knisley, D.
+T A graph-theoretic model of single point mutations in the cystic fibrosis
+  transmembrane conductance regulator
+J J. Adv. Biotechnol. Vol.6, No.1, 780-786 (2016)
+C
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    2.00   12.00    8.00    8.00    4.00   10.00   10.00    0.00   14.00    8.00
+    8.00   10.00    8.00   14.00    8.00    4.00    6.00   24.00   18.00    6.00
+//

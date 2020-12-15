@@ -1,0 +1,13 @@
+H KARS160117
+D Total weighted atomic number of the graph (obtained by summing all the atomic
+  number of each of the vertices in the graph) (Karkbara-Knisley, 2016)
+R
+A Karkbara, S. and Knisley, D.
+T A graph-theoretic model of single point mutations in the cystic fibrosis
+  transmembrane conductance regulator
+J J. Adv. Biotechnol. Vol.6, No.1, 780-786 (2016)
+C
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   12.00   45.00  33.007   34.00   28.00   39.00   40.00    7.00   47.00   30.00
+   30.00   37.00   40.00   48.00   24.00   22.00   27.00   68.00   56.00  24.007
+//

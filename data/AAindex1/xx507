@@ -1,0 +1,14 @@
+H GEOR030108
+D Linker propensity from helical (annotated by DSSP) dataset (George-Heringa, 
+  2003)
+R PMID:12538906
+A George, R.A. and Heringa, J.
+T An analysis of protein domain linkers: their classification and role in 
+  protein folding
+J Protein Eng. 15, 871-879 (2003)
+C AURR980111    0.846  AURR980112    0.846  AURR980115    0.821
+  AURR980110    0.804  AURR980114    0.804
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   1.092   1.239   0.927   0.919   0.662   1.124   1.199   0.698   1.012   0.912
+   1.276   1.008   1.171    1.09     0.8   0.886   0.832   0.981   1.075   0.908
+//

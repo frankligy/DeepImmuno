@@ -1,0 +1,13 @@
+H DIGM050101
+D Hydrostatic pressure asymmetry index, PAI (Di Giulio, 2005)
+R PMID: 15716096
+A Di Giulio M.
+T A comparison of proteins from Pyrococcus furiosus and Pyrococcus abyssi: 
+  barophily in the physicochemical properties of amino acids and in the genetic 
+  code
+J Gene 346, 1-6 (2005)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   1.076   1.361   1.056   1.290   0.753   0.729   1.118   1.346   0.985   0.926
+   1.054   1.105   0.974   0.869   0.820   1.342   0.871   0.666   0.531   1.131
+//

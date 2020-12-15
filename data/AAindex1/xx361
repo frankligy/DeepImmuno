@@ -1,0 +1,11 @@
+H SNEP660104
+D Principal component IV (Sneath, 1966)
+R PMID:4291386
+A Sneath, P.H.A.
+T Relations between chemical structure and biological activity in peptides
+J J. Theor. Biol. 12, 157-195 (1966)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  -0.062  -0.167   0.166  -0.079   0.380  -0.025  -0.184  -0.017   0.056  -0.309
+  -0.264  -0.371   0.077   0.074  -0.036   0.470   0.348   0.050   0.220  -0.212
+//

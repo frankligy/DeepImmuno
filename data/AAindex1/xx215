@@ -1,0 +1,12 @@
+H OOBM770104
+D Average non-bonded energy per residue (Oobatake-Ooi, 1977)
+R PMID:904331
+A Oobatake, M. and Ooi, T.
+T An analysis of non-bonded energy of proteins
+J J. Theor. Biol. 67, 567-584 (1977) Last two calcualted by Kidera; multiplied 
+  by the number of heavy atoms
+C OOBM770105    0.980
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  -9.475 -16.225 -12.480 -12.144 -12.210 -13.689 -13.815  -7.592 -17.550 -15.608
+ -15.728 -12.366 -15.704 -20.504 -11.893 -10.518 -12.369 -26.166 -20.232 -13.867
+//

@@ -1,0 +1,16 @@
+H BUNA790101
+D alpha-NH chemical shifts (Bundi-Wuthrich, 1979)
+R
+A Bundi, A. and Wuthrich, K.
+T 1H-nmr parameters of the common amino acid residues measured in aqueous 
+  solutions of the linear tetrapeptides H-Gly-Gly-X-L-Ala-OH
+J Biopolymers 18, 285-297 (1979) (Pro !)
+C BLAM930101    0.945  ONEK900101    0.902  ROBB760104    0.823
+  FAUJ880113    0.818  CHOP780213   -0.822  ISOY800104   -0.842
+  MUNV940104   -0.865  TANS770104   -0.867  MUNV940105   -0.874
+  GEOR030109   -0.901  AVBF000104   -0.922  ONEK900102   -0.949
+  FINA910102   -0.992
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   8.249   8.274   8.747   8.410   8.312   8.411   8.368   8.391   8.415   8.195
+   8.423   8.408   8.418   8.228      0.   8.380   8.236   8.094   8.183   8.436
+//

@@ -1,0 +1,12 @@
+H ROBB760112
+D Information measure for coil (Robson-Suzuki, 1976)
+R PMID:1003471
+A Robson, B. and Suzuki, E.
+T Conformational properties of amino acid residues in globular proteins
+J J. Mol. Biol. 107, 327-356 (1976)
+C PALJ810115    0.885  CHOP780211    0.841  QIAN880133    0.814
+  ISOY800103    0.807  QIAN880132    0.800
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    -2.5    -1.2     4.6     0.0    -4.7    -0.5    -4.4     4.9     1.6    -3.3
+    -2.0    -0.8    -4.1    -4.1     5.8     2.5     1.7     1.2    -0.6    -3.5
+//

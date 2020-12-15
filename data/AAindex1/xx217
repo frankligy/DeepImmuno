@@ -1,0 +1,12 @@
+H OOBM850101
+D Optimized beta-structure-coil equilibrium constant (Oobatake et al., 1985)
+R
+A Oobatake, M., Kubota, Y. and Ooi, T.
+T Optimization of amino acid parameters for correspondence of sequence to 
+  tertiary structures of proteuins
+J Bull. Inst. Chem. Res., Kyoto Univ. 63, 82-94 (1985)
+C QIAN880119    0.825
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    2.01    0.84    0.03   -2.05    1.98    1.02    0.93    0.12   -0.14    3.70
+    2.73    2.55    1.75    2.68    0.41    1.47    2.39    2.49    2.23    3.50
+//

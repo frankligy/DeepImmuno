@@ -1,0 +1,15 @@
+H NAGK730102
+D Normalized frequency of bata-structure (Nagano, 1973)
+R PMID:4728695
+A Nagano, K.
+T Local analysis of the mechanism of protein folding. I. Prediction of helices, 
+  loops, and beta-structures from primary structure
+J J. Mol. Biol. 75, 401-420 (1973)
+C ROBB760106    0.887  KANM800102    0.878  PALJ810104    0.867
+  CHOP780208    0.860  CHOP780202    0.858  BASU050103    0.837
+  BEGF750102    0.833  GEIM800107    0.830  ROBB760105    0.815
+  CRAJ730102    0.815  PTIO830102    0.811  PUNT030102   -0.836
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.96    0.67    0.72    0.90    1.13    1.18    0.33    0.90    0.87    1.54
+    1.26    0.81    1.29    1.37    0.75    0.77    1.23    1.13    1.07    1.41
+//

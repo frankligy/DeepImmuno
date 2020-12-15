@@ -1,0 +1,11 @@
+H ROBB760109
+D Information measure for N-terminal turn (Robson-Suzuki, 1976)
+R PMID:1003471
+A Robson, B. and Suzuki, E.
+T Conformational properties of amino acid residues in globular proteins
+J J. Mol. Biol. 107, 327-356 (1976)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    -3.3     0.0     5.4     3.9    -0.3    -0.4    -1.8    -1.2     3.0    -0.5
+    -2.3    -1.2    -4.3     0.8     6.5     1.8    -0.7    -0.8     3.1    -3.5
+//

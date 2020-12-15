@@ -1,0 +1,12 @@
+H PONP800104
+D Surrounding hydrophobicity in alpha-helix (Ponnuswamy et al., 1980)
+R PMID:7397216
+A Ponnuswamy, P.K., Prabhakaran, M. and Manavalan, P.
+T Hydrophobic packing and spatial arrangement of amino acid residues in 
+  globular proteins
+J Biochim. Biophys. Acta 623, 301-316 (1980)
+C CHOC760104    0.844
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   13.65   11.28   12.24   10.98   14.49   11.30   12.55   15.36   11.59   14.63
+   14.01   11.96   13.40   14.08   11.51   11.26   13.00   12.06   12.64   12.88
+//

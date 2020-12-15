@@ -1,0 +1,19 @@
+H PONJ960101
+D Average volumes of residues (Pontius et al., 1996)
+R PMID: 8950272
+A Pontius, J., Richelle, J. and Wodak, S.J.
+T Deviations from standard atomic volumes as a quality measure for protein 
+  crystal structures
+J J. Mol. Biol 264, 121-136 (1996) (Disulfide bonded cysteine, 102.4)
+C HARY940101    0.989  CHOC750101    0.966  FAUJ880103    0.963
+  TSAJ990102    0.962  CHOC760101    0.961  TSAJ990101    0.960
+  BIGC670101    0.950  GOLD730102    0.947  FASG760101    0.945
+  KRIW790103    0.943  CHAM820101    0.938  GRAR740103    0.937
+  LEVM760102    0.930  LEVM760105    0.928  CHAM830106    0.917
+  FAUJ880106    0.913  DAWD720101    0.873  ROSG850101    0.862
+  RADA880106    0.860  LEVM760107    0.827  ZHOH040102    0.823
+  RADA880103   -0.873
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    91.5   196.1   138.3   135.2   114.4   156.4   154.6    67.5   163.2   162.6
+   163.4   162.5   165.9   198.8   123.4   102.0   126.0   209.8   237.2   138.4
+//

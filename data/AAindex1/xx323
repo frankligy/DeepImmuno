@@ -1,0 +1,11 @@
+H RICJ880103
+D Relative preference value at N-cap (Richardson-Richardson, 1988)
+R PMID:3381086
+A Richardson, J.S. and Richardson, D.C.
+T Amino acid preferences for specific locations at the ends of alpha helices
+J Science 240, 1648-1652 (1988)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     0.5     0.4     3.5     2.1     0.6     0.4     0.4     1.8     1.1     0.2
+     0.2     0.7     0.8     0.2     0.8     2.3     1.6     0.3     0.8     0.1
+//

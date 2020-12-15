@@ -1,0 +1,12 @@
+H BHAR880101
+D Average flexibility indices (Bhaskaran-Ponnuswamy, 1988)
+R
+A Bhaskaran, R. and Ponnuswamy, P.K.
+T Positional flexibilities of amino acid residues in globular proteins
+J Int. J. Peptide Protein Res. 32, 241-255 (1988)
+C VINM940103    0.869  KARP850102    0.806  WERD780101   -0.803
+  RICJ880111   -0.813
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.357   0.529   0.463   0.511   0.346   0.493   0.497   0.544   0.323   0.462
+   0.365   0.466   0.295   0.314   0.509   0.507   0.444   0.305   0.420   0.386
+//

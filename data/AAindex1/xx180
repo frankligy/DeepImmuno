@@ -1,0 +1,26 @@
+H MEEJ810102
+D Retention coefficient in NaH2PO4 (Meek-Rossetti, 1981)
+R
+A Meek, J.L. and Rossetti, Z.L.
+T Factors affecting retention and resolution of peptides in high-performance 
+  liquid chromatography
+J J. Chromatogr. 211, 15-28 (1981)
+C MEEJ810101    0.987  GUOD860101    0.949  ZHOH040101    0.922
+  ZHOH040103    0.902  NOZY710101    0.899  PLIV810101    0.898
+  FAUJ830101    0.890  ROSM880104    0.885  MEEJ800102    0.881
+  BASU050102    0.871  ARGP820101    0.853  JOND750101    0.852
+  WILM950101    0.849  COWR900101    0.849  MIYS850101    0.844
+  CIDH920105    0.844  CIDH920102    0.843  CIDH920104    0.837
+  VENT840101    0.831  BLAS910101    0.830  BIOV880101    0.824
+  ROBB790101    0.821  BROC820101    0.820  TAKK010101    0.819
+  RADA880102    0.813  NISK860101    0.810  WILM950102    0.809
+  EISD860101    0.808  SIMZ760101    0.808  GOLD730101    0.806
+  ROSM880105    0.804  MIYS990104   -0.807  GRAR740102   -0.811
+  MIYS990105   -0.817  GUYH850103   -0.823  OOBM770103   -0.831
+  KIDA850101   -0.851  MIYS990102   -0.853  WEBA780101   -0.854
+  MIYS990101   -0.854  BULH740101   -0.880  PARJ860101   -0.897
+  WOLS870101   -0.905
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     1.0    -2.0    -3.0    -0.5     4.6    -2.0     1.1     0.2    -2.2     7.0
+     9.6    -3.0     4.0    12.6     3.1    -2.9    -0.6    15.1     6.7     4.6
+//

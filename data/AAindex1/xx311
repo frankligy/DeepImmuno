@@ -1,0 +1,12 @@
+H RACS820113
+D Value of theta(i) (Rackovsky-Scheraga, 1982)
+R
+A Rackovsky, S. and Scheraga, H.A.
+T Differential geometry and polymer conformation. 4. Conformational and 
+  nucleation properties of individual amino acids
+J Macromolecules 15, 1340-1346 (1982)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   17.05   21.25   34.81   19.27   28.84   15.42   20.12   38.14   23.07   16.66
+   10.89   16.46   20.61   16.26   23.94   19.95   18.92   23.36   26.49   17.06
+//

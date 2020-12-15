@@ -1,0 +1,15 @@
+H CHOP780213
+D Frequency of the 2nd residue in turn (Chou-Fasman, 1978b)
+R PMID:364941
+A Chou, P.Y. and Fasman, G.D.
+T Prediction of the secondary structure of proteins from their amino acid 
+  sequence
+J Adv. Enzymol. 47, 45-148 (1978)
+C TANS770104    0.954  ISOY800104    0.916  QIAN880134    0.870
+  QIAN880135    0.851  MUNV940104    0.836  FINA910102    0.832
+  MUNV940105    0.826  GEOR030109    0.800  BUNA790101   -0.822
+  BLAM930101   -0.824  PTIO830101   -0.835
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.076   0.106   0.083   0.110   0.053   0.098   0.060   0.085   0.047   0.034
+   0.025   0.115   0.082   0.041   0.301   0.139   0.108   0.013   0.065   0.048
+//

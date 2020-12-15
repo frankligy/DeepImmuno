@@ -1,0 +1,20 @@
+H LEVM760105
+D Radius of gyration of side chain (Levitt, 1976)
+R PMID:957439
+A Levitt, M.
+T A simplified representation of protein conformations for rapid simulation of 
+  protein folfing
+J J. Mol. Biol. 104, 59-107 (1976) (Gly 0.089)
+C LEVM760102    0.987  CHOC760101    0.968  CHAM830106    0.958
+  FASG760101    0.951  FAUJ880103    0.945  CHOC750101    0.939
+  PONJ960101    0.928  TSAJ990102    0.928  TSAJ990101    0.922
+  HARY940101    0.919  CHAM820101    0.915  BIGC670101    0.913
+  GOLD730102    0.911  GRAR740103    0.900  KRIW790103    0.900
+  DAWD720101    0.898  FAUJ880104    0.896  FAUJ880106    0.889
+  RADA880106    0.871  OOBM770102    0.868  HUTJ700102    0.864
+  WOLS870102    0.836  HUTJ700103    0.834  CHAM830105    0.829
+  RADA880103   -0.893
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.77    2.38    1.45    1.43    1.22    1.75    1.77    0.58    1.78    1.56
+    1.54    2.08    1.80    1.90    1.25    1.08    1.24    2.21    2.13    1.29
+//

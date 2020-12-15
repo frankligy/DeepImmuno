@@ -1,0 +1,13 @@
+H ARGP820103
+D Membrane-buried preference parameters (Argos et al., 1982)
+R PMID:7151796
+A Argos, P., Rao, J.K.M. and Hargrave, P.A.
+T Structural prediction of membrane-bound proteins
+J Eur. J. Biochem. 128, 565-575 (1982)
+C ARGP820102    0.961  MIYS850101    0.822  NAKH900106    0.810
+  EISD860103    0.810  KYTJ820101    0.806  JURD980101    0.800
+  PUNT030101   -0.810  MIYS990102   -0.814  MIYS990101   -0.817
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.56    0.45    0.27    0.14    1.23    0.51    0.23    0.62    0.29    1.67
+    2.93    0.15    2.96    2.03    0.76    0.81    0.91    1.08    0.68    1.14
+//

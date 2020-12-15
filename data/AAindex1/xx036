@@ -1,0 +1,20 @@
+H CHOP780101
+D Normalized frequency of beta-turn (Chou-Fasman, 1978a)
+R PMID:354496
+A Chou, P.Y. and Fasman, G.D.
+T Empirical predictions of protein conformation
+J Ann. Rev. Biochem. 47, 251-276 (1978)
+C PALJ810106    0.977  TANS770110    0.956  CHAM830101    0.946
+  CHOP780203    0.940  CHOP780216    0.929  CHOP780210    0.921
+  ROBB760113    0.907  GEIM800108    0.899  QIAN880133    0.897
+  QIAN880132    0.896  LEVM780103    0.893  PRAM900104    0.891
+  LEVM780106    0.890  ROBB760108    0.887  BEGF750103    0.885
+  ISOY800103    0.885  CRAJ730103    0.882  GEIM800111    0.878
+  PALJ810105    0.868  ROBB760110    0.863  NAGK730103    0.827
+  QIAN880131    0.824  AURR980114   -0.803  BEGF750101   -0.803
+  QIAN880107   -0.809  KANM800103   -0.824  AURR980109   -0.837
+  SUEM840101   -0.845
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.66    0.95    1.56    1.46    1.19    0.98    0.74    1.56    0.95    0.47
+    0.59    1.01    0.60    0.60    1.52    1.43    0.96    0.96    1.14    0.50
+//

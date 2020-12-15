@@ -1,0 +1,13 @@
+H TANS770102
+D Normalized frequency of isolated helix (Tanaka-Scheraga, 1977)
+R PMID:557155
+A Tanaka, S. and Scheraga, H.A.
+T Statistical mechanical treatment of protein conformation. 5. A multiphasic 
+  model for specific-sequence copolymers of amino acids
+J Macromolecules 10, 9-20 (1977) Recalculated by Kidera as normalized 
+  frequencies
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.946   1.128   0.432   1.311   0.481   1.615   0.698   0.360   2.168   1.283
+   1.192   1.203   0.000   0.963   2.093   0.523   1.961   1.925   0.802   0.409
+//

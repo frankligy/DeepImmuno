@@ -1,0 +1,11 @@
+H GEIM800109
+D Aperiodic indices for alpha-proteins (Geisow-Roberts, 1980)
+R
+A Geisow, M.J. and Roberts, R.D.B.
+T Amino acid preferences for secondary structure vary with protein class
+J Int. J. Biol. Macromol. 2, 387-389 (1980)
+C PALJ810107   -0.909  GEIM800102   -0.993
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.80    0.96    1.10    1.60      0.    1.60    0.40      2.    0.96    0.85
+    0.80    0.94    0.39    1.20    2.10    1.30    0.60      0.    1.80    0.80
+//

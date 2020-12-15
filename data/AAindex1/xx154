@@ -1,0 +1,13 @@
+H LEVM760103
+D Side chain angle theta(AAR) (Levitt, 1976)
+R PMID:957439
+A Levitt, M.
+T A simplified representation of protein conformations for rapid simulation of 
+  protein folfing
+J J. Mol. Biol. 104, 59-107 (1976) (Gly missing)
+C AVBF000102    0.816  RICJ880115   -0.829  LEVM760104   -0.840
+  KIMC930101   -0.861
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   121.9   121.4   117.5   121.2   113.7   118.0   118.2      0.   118.2   118.9
+   118.1   122.0   113.1   118.2    81.9   117.9   117.1   118.4   110.0   121.7
+//

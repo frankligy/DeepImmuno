@@ -1,0 +1,18 @@
+H ISOY800103
+D Normalized relative frequency of bend (Isogai et al., 1980)
+R PMID:7378550
+A Isogai, Y., Nemethy, G., Rackovsky, S., Leach, S.J. and Scheraga,H.A
+T Characterization of multiple bends in proteins
+J Biopolymers 19, 1183-1210 (1980) Recalculated by Kidera using a different set 
+  of proteins
+C LEVM780106    0.941  PRAM900104    0.934  CHOP780203    0.933
+  LEVM780103    0.932  GEIM800108    0.930  GEIM800111    0.929
+  PALJ810105    0.928  CHOP780216    0.921  QIAN880133    0.908
+  TANS770110    0.897  QIAN880132    0.892  CHOP780101    0.885
+  CHAM830101    0.881  CHOP780210    0.829  QIAN880134    0.828
+  PALJ810116    0.814  PALJ810114    0.809  PALJ810106    0.807
+  ROBB760112    0.807  AVBF000102   -0.821  SUEM840101   -0.850
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.78    1.06    1.56    1.50    0.60    0.78    0.97    1.73    0.83    0.40
+    0.57    1.01    0.30    0.67    1.55    1.19    1.09    0.74    1.14    0.44
+//

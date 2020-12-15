@@ -1,0 +1,13 @@
+H AVBF000107
+D Slopes tripeptide FDPB PARSE neutral (Avbelj, 2000)
+R PMID:10903873
+A Avbelj, F.
+T Amino acid conformational preferences and solvation of polar backbone atoms 
+  in peptides and proteins
+J J. Mol. Biol. 300, 1335-1359 (2000) (Pro missing)
+C FAUJ880107    0.884  AVBF000105    0.879  AVBF000103    0.875
+  AVBF000104    0.839  AVBF000108    0.832
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  -0.729  -0.535  -0.597  -0.545  -0.408  -0.492  -0.532  -0.860  -0.519  -0.361
+  -0.462  -0.508  -0.518  -0.454      NA  -0.278  -0.367  -0.455  -0.439  -0.323
+//

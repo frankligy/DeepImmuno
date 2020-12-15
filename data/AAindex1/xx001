@@ -1,0 +1,17 @@
+H ARGP820101
+D Hydrophobicity index (Argos et al., 1982)
+R PMID:7151796
+A Argos, P., Rao, J.K.M. and Hargrave, P.A.
+T Structural prediction of membrane-bound proteins
+J Eur. J. Biochem. 128, 565-575 (1982)
+C JOND750101    1.000  SIMZ760101    0.967  GOLD730101    0.936
+  TAKK010101    0.906  MEEJ810101    0.891  ROSM880104    0.872
+  CIDH920105    0.867  LEVM760106    0.865  CIDH920102    0.862
+  MEEJ800102    0.855  MEEJ810102    0.853  ZHOH040101    0.841
+  CIDH920103    0.827  PLIV810101    0.820  CIDH920104    0.819
+  LEVM760107    0.806  NOZY710101    0.800  GUYH850103   -0.808
+  PARJ860101   -0.835  WOLS870101   -0.838  BULH740101   -0.854
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.61    0.60    0.06    0.46    1.07      0.    0.47    0.07    0.61    2.22
+    1.53    1.15    1.18    2.02    1.95    0.05    0.05    2.65    1.88    1.32
+//

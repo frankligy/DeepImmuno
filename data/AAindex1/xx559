@@ -1,0 +1,13 @@
+H KARS160116
+D Weighted diameter based on the atomic number (maximum eccentricity)
+  (Karkbara-Knisley, 2016)
+R
+A Karkbara, S. and Knisley, D.
+T A graph-theoretic model of single point mutations in the cystic fibrosis
+  transmembrane conductance regulator
+J J. Adv. Biotechnol. Vol.6, No.1, 780-786 (2016)
+C
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    6.00   38.00   20.00   20.00   22.00   24.00   26.00    6.00   31.00   18.00
+   18.00   31.00   34.00   24.00   12.00   20.00   14.00   36.00   38.00   12.00
+//

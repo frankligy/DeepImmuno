@@ -1,0 +1,11 @@
+H RICJ880113
+D Relative preference value at C2 (Richardson-Richardson, 1988)
+R PMID:3381086
+A Richardson, J.S. and Richardson, D.C.
+T Amino acid preferences for specific locations at the ends of alpha helices
+J Science 240, 1648-1652 (1988)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     1.4     2.1     0.9     0.7     1.2     1.6     1.7     0.2     1.8     0.4
+     0.8     1.9     1.3     0.3     0.2     1.6     0.9     0.4     0.3     0.7
+//

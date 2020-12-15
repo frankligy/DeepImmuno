@@ -1,0 +1,17 @@
+H KUMS000102
+D Distribution of amino acid residues in the 18 non-redundant families of 
+  mesophilic proteins (Kumar et al., 2000)
+R PMID:10775659
+A Kumar, S., Tsai, C.J. and Nussinov, R.
+T Factors enhancing protein thermostability
+J Protein Eng. 13, 179-191 (2000)
+C KUMS000101    0.971  JUKT750101    0.948  FUKS010110    0.943
+  JUNJ780101    0.927  DAYM780101    0.925  CEDJ970101    0.914
+  JOND920101    0.909  CEDJ970104    0.908  FUKS010111    0.898
+  NAKH900101    0.894  CEDJ970102    0.881  FUKS010109    0.850
+  NAKH920107    0.839  NAKH900109    0.837  FUKS010112    0.819
+  CEDJ970103    0.812
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     9.2     3.6     5.1     6.0     1.0     2.9     6.0     9.4     2.1     6.0
+     7.7     6.5     2.4     3.4     4.2     5.5     5.7     1.2     3.7     8.2
+//

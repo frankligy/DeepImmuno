@@ -1,0 +1,19 @@
+H LEVM760107
+D van der Waals parameter epsilon (Levitt, 1976)
+R PMID:957439
+A Levitt, M.
+T A simplified representation of protein conformations for rapid simulation of 
+  protein folfing
+J J. Mol. Biol. 104, 59-107 (1976)
+C CHAM820101    0.891  FAUJ880103    0.875  TSAJ990101    0.866
+  GOLD730102    0.865  BIGC670101    0.863  TSAJ990102    0.861
+  GARJ730101    0.860  KRIW790103    0.860  CHOC750101    0.858
+  ZHOH040101    0.855  ROSG850101    0.852  NOZY710101    0.845
+  ZHOH040102    0.843  GRAR740103    0.841  PONJ960101    0.827
+  TAKK010101    0.819  SNEP660103    0.818  HARY940101    0.815
+  FASG760101    0.815  CHOC760101    0.807  JOND750101    0.806
+  ARGP820101    0.806  LEVM760106    0.804  WEBA780101   -0.923
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.025    0.20    0.10    0.10    0.10    0.10    0.10   0.025    0.10    0.19
+    0.19    0.20    0.19    0.39    0.17   0.025    0.10    0.56    0.39    0.15
+//

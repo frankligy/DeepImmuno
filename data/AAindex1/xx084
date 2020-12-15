@@ -1,0 +1,13 @@
+H FAUJ880108
+D Localized electrical effect (Fauchere et al., 1988)
+R PMID:3209351
+A Fauchere, J.L., Charton, M., Kier, L.B., Verloop, A. and Pliska, V.
+T Amino acid side chain parameters for correlation studies in biology and 
+  pharmacology
+J Int. J. Peptide Protein Res. 32, 269-278 (1988) (Pro missing) Original 
+  reference: Charton, M. and Charton, B.I. J. Theor. Biol. 102, 121-134 (1983)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -0.01    0.04    0.06    0.15    0.12    0.05    0.07    0.00    0.08   -0.01
+   -0.01    0.00    0.04    0.03      0.    0.11    0.04    0.00    0.03    0.01
+//

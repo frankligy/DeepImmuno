@@ -1,0 +1,18 @@
+H JOND750101
+D Hydrophobicity (Jones, 1975)
+R PMID:1127956
+A Jones, D.D.
+T Amino acid properties and side-chain orientation in proteins: A cross 
+  correlation approach
+J J. Theor. Biol. 50, 167-183 (1975)
+C ARGP820101    1.000  SIMZ760101    0.966  GOLD730101    0.935
+  TAKK010101    0.906  MEEJ810101    0.891  ROSM880104    0.872
+  CIDH920105    0.866  LEVM760106    0.864  CIDH920102    0.861
+  MEEJ800102    0.855  MEEJ810102    0.852  ZHOH040101    0.841
+  CIDH920103    0.826  PLIV810101    0.819  CIDH920104    0.818
+  LEVM760107    0.806  GUYH850103   -0.807  PARJ860101   -0.834
+  WOLS870101   -0.837  BULH740101   -0.853
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.87    0.85    0.09    0.66    1.52    0.00    0.67    0.10    0.87    3.15
+    2.17    1.64    1.67    2.87    2.77    0.07    0.07    3.77    2.67    1.87
+//

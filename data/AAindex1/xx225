@@ -1,0 +1,23 @@
+H PALJ810104
+D Normalized frequency of beta-sheet from CF (Palau et al., 1981)
+R PMID:7118409
+A Palau, J., Argos, P. and Puigdomenech, P.
+T Protein secondary structure
+J Int. J. Peptide Protein Res. 19, 394-401 (1981) LG :a set of protein samples 
+  formed by 44 proteins. CF :a set of protein samples formed by 33 proteins.
+C CHOP780202    0.970  KANM800102    0.948  PTIO830102    0.937
+  LIFS790101    0.929  GEIM800107    0.928  LEVM780105    0.921
+  QIAN880121    0.910  PALJ810103    0.907  ROBB760106    0.894
+  QIAN880120    0.886  BASU050103    0.882  BASU050101    0.873
+  LEVM780102    0.868  PRAM900103    0.868  NAGK730102    0.867
+  LIFS790103    0.860  PONP930101    0.857  GEIM800105    0.856
+  KANM800104    0.851  CHOP780209    0.849  PALJ810112    0.849
+  ROBB760105    0.835  VENT840101    0.831  BASU050102    0.826
+  QIAN880119    0.822  AVBF000101    0.818  CRAJ730102    0.817
+  SWER830101    0.809  CORJ870102    0.809  NISK860101    0.809
+  MANP780101    0.805  BEGF750102    0.801  VINM940101   -0.801
+  MIYS990104   -0.810  MIYS990103   -0.811  MUNV940103   -0.888
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.90    0.75    0.82    0.75    1.12    0.95    0.44    0.83    0.86    1.59
+    1.24    0.75    0.94    1.41    0.46    0.70    1.20    1.28    1.45    1.73
+//

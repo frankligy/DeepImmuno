@@ -1,0 +1,13 @@
+H AVBF000105
+D Slopes tripeptide, FDPB VFF noside (Avbelj, 2000)
+R PMID:10903873
+A Avbelj, F.
+T Amino acid conformational preferences and solvation of polar backbone atoms 
+  in peptides and proteins
+J J. Mol. Biol. 300, 1335-1359 (2000) (Pro missing)
+C AVBF000103    0.965  AVBF000106    0.939  FAUJ880107    0.931
+  AVBF000107    0.879  AVBF000108    0.816  YANJ020101    0.807
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  -0.393  -0.317  -0.268  -0.247  -0.222  -0.291  -0.260  -0.570  -0.244  -0.144
+  -0.281  -0.294  -0.274  -0.189      NA  -0.280  -0.152  -0.206  -0.155  -0.080
+//

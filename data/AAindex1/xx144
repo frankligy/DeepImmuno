@@ -1,0 +1,11 @@
+H KHAG800101
+D The Kerr-constant increments (Khanarian-Moore, 1980)
+R
+A Khanarian, G. and Moore, W.J.
+T The Kerr effect of amino acids in water
+J Aust. J. Chem. 33, 1727-1741 (1980) (Cys Lys Tyr !)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    49.1    133.    -3.6      0.      0.     20.      0.    64.6    75.7    18.9
+    15.6      0.     6.8    54.7    43.8    44.4    31.0    70.5      0.    29.5
+//

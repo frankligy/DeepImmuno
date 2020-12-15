@@ -1,0 +1,23 @@
+H CHOC760102
+D Residue accessible surface area in folded protein (Chothia, 1976)
+R PMID:994183
+A Chothia, C.
+T The nature of the accessible and buried surfaces in proteins
+J J. Mol. Biol. 105, 1-14 (1976)
+C JANJ780101    0.973  GUYH850104    0.970  JANJ780103    0.959
+  GUYH850105    0.946  OOBM770101    0.925  FAUJ880109    0.872
+  ROSM880102    0.845  MEIH800102    0.839  PRAM900101    0.826
+  ENGD860101    0.826  PUNT030101    0.809  RACS770102    0.809
+  GUYH850101    0.807  KIDA850101    0.804  MEIH800103   -0.802
+  EISD860103   -0.802  JACR890101   -0.803  NADH010104   -0.809
+  JANJ790101   -0.809  RADA880101   -0.814  ROSG850102   -0.819
+  DESM900102   -0.823  RADA880104   -0.830  WOLR790101   -0.834
+  KYTJ820101   -0.838  WOLR810101   -0.840  NADH010103   -0.840
+  CHOC760104   -0.845  WARP780101   -0.849  JURD980101   -0.851
+  OLSK800101   -0.886  EISD840101   -0.892  NADH010102   -0.893
+  CHOC760103   -0.912  RADA880107   -0.925  JANJ780102   -0.935
+  JANJ790102   -0.969
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     25.     90.     63.     50.     19.     71.     49.     23.     43.     18.
+     23.     97.     31.     24.     50.     44.     47.     32.     60.     18.
+//

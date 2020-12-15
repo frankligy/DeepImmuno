@@ -1,0 +1,12 @@
+H CHOP780215
+D Frequency of the 4th residue in turn (Chou-Fasman, 1978b)
+R PMID:364941
+A Chou, P.Y. and Fasman, G.D.
+T Prediction of the secondary structure of proteins from their amino acid 
+  sequence
+J Adv. Enzymol. 47, 45-148 (1978)
+C ROBB760111    0.825
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.058   0.085   0.091   0.081   0.128   0.098   0.064   0.152   0.054   0.056
+   0.070   0.095   0.055   0.065   0.068   0.106   0.079   0.167   0.125   0.053
+//

@@ -1,0 +1,23 @@
+H ROBB760106
+D Information measure for pleated-sheet (Robson-Suzuki, 1976)
+R PMID:1003471
+A Robson, B. and Suzuki, E.
+T Conformational properties of amino acid residues in globular proteins
+J J. Mol. Biol. 107, 327-356 (1976)
+C ROBB760105    0.949  KANM800102    0.938  CHOP780202    0.931
+  QIAN880120    0.908  QIAN880121    0.907  LIFS790101    0.906
+  GEIM800107    0.899  QIAN880119    0.897  PALJ810104    0.894
+  NAGK730102    0.887  PALJ810103    0.886  PTIO830102    0.882
+  KANM800104    0.877  LEVM780105    0.869  PONP930101    0.866
+  CRAJ730102    0.865  GEIM800105    0.856  BASU050101    0.851
+  CHOP780208    0.846  BASU050103    0.840  GEIM800106    0.838
+  PALJ810110    0.836  AVBF000101    0.834  CORJ870101    0.829
+  PONP800101    0.829  LIFS790103    0.827  MANP780101    0.824
+  PONP800102    0.822  CORJ870107    0.819  PONP800103    0.812
+  NISK860101    0.810  BEGF750102    0.809  PONP800108    0.808
+  CORJ870104    0.808  MIYS990104   -0.815  GEIM800110   -0.819
+  CORJ870108   -0.820  MIYS990103   -0.836  MUNV940103   -0.888
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    -2.7     0.4    -4.2    -4.4     3.7     0.8    -8.1    -3.9    -3.0     7.7
+     3.7    -2.9     3.7     3.0    -6.6    -2.4     1.7     0.3     3.3     7.1
+//

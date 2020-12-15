@@ -1,0 +1,12 @@
+H OOBM850105
+D Optimized side chain interaction parameter (Oobatake et al., 1985)
+R
+A Oobatake, M., Kubota, Y. and Ooi, T.
+T Optimization of amino acid parameters for correspondence of sequence to 
+  tertiary structures of proteuins
+J Bull. Inst. Chem. Res., Kyoto Univ. 63, 82-94 (1985)
+C QIAN880127   -0.813
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    4.55    5.97    5.56    2.85   -0.78    4.15    5.16    9.14    4.48    2.10
+    3.24   10.68    2.18    4.37    5.14    6.78    8.60    1.97    2.40    3.81
+//

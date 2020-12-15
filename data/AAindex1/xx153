@@ -1,0 +1,19 @@
+H LEVM760102
+D Distance between C-alpha and centroid of side chain (Levitt, 1976)
+R PMID:957439
+A Levitt, M.
+T A simplified representation of protein conformations for rapid simulation of 
+  protein folfing
+J J. Mol. Biol. 104, 59-107 (1976)
+C LEVM760105    0.987  CHOC760101    0.972  FASG760101    0.966
+  CHAM830106    0.962  FAUJ880103    0.947  CHOC750101    0.933
+  PONJ960101    0.930  TSAJ990102    0.918  CHAM820101    0.915
+  TSAJ990101    0.910  HARY940101    0.905  FAUJ880106    0.900
+  BIGC670101    0.896  GOLD730102    0.893  GRAR740103    0.885
+  KRIW790103    0.884  WOLS870102    0.881  DAWD720101    0.873
+  RADA880106    0.871  OOBM770102    0.869  FAUJ880104    0.867
+  CHAM830105    0.843  HUTJ700102    0.835  RADA880103   -0.913
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.77    3.72    1.98    1.99    1.38    2.58    2.63    0.00    2.76    1.83
+    2.08    2.94    2.34    2.97    1.42    1.28    1.43    3.58    3.36    1.49
+//

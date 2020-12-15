@@ -1,0 +1,13 @@
+H CHAM830102
+D A parameter defined from the residuals obtained from the best correlation of 
+  the Chou-Fasman parameter of beta-sheet (Charton-Charton, 1983)
+R PMID:6876837
+A Charton, M. and Charton, B.
+T The dependence of the Chou-Fasman parameters on amino acid side chain 
+  structure
+J J. Theor. Biol. 111, 447-450 (1983) (Pro !)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  -0.118   0.124   0.289   0.048   0.083  -0.105  -0.245   0.104   0.138   0.230
+  -0.052   0.032  -0.258   0.015      0.   0.225   0.166   0.158   0.094   0.513
+//

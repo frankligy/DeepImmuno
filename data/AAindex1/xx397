@@ -1,0 +1,12 @@
+H ZIMJ680101
+D Hydrophobicity (Zimmerman et al., 1968)
+R PMID:5700434
+A Zimmerman, J.M., Eliezer, N. and Simha, R.
+T The characterization of amino acid sequences in proteins by statistical 
+  methods
+J J. Theor. Biol. 21, 170-201 (1968)
+C SIMZ760101    0.821
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.83    0.83    0.09    0.64    1.48    0.00    0.65    0.10    1.10    3.07
+    2.52    1.60    1.40    2.75    2.70    0.14    0.54    0.31    2.97    1.79
+//

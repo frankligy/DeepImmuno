@@ -1,0 +1,23 @@
+H FAUJ880103
+D Normalized van der Waals volume (Fauchere et al., 1988)
+R PMID:3209351
+A Fauchere, J.L., Charton, M., Kier, L.B., Verloop, A. and Pliska, V.
+T Amino acid side chain parameters for correlation studies in biology and 
+  pharmacology
+J Int. J. Peptide Protein Res. 32, 269-278 (1988) (Pro !) Original reference of 
+  these two data: Fauchere, L.J. In "QSAR in Design of Bioactive Compounds", 
+  (Kuchar, M., ed.), Prous, Barcelona pp.135-144 (1984)
+C CHAM820101    0.992  CHOC750101    0.990  CHOC760101    0.985
+  TSAJ990102    0.985  TSAJ990101    0.983  FASG760101    0.979
+  BIGC670101    0.972  GOLD730102    0.972  KRIW790103    0.965
+  PONJ960101    0.963  GRAR740103    0.959  HARY940101    0.951
+  LEVM760102    0.947  LEVM760105    0.945  CHAM830106    0.927
+  FAUJ880106    0.908  ROSG850101    0.892  DAWD720101    0.880
+  LEVM760107    0.875  RADA880106    0.869  MCMT640101    0.847
+  ZHOH040102    0.816  WOLS870102    0.814  CHAM830105    0.813
+  HUTJ700102    0.807  FAUJ880104    0.804  OOBM770102    0.801
+  RADA880103   -0.923
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.00    6.13    2.95    2.78    2.43    3.95    3.78    0.00    4.66    4.00
+    4.00    4.77    4.43    5.89    2.72    1.60    2.60    8.08    6.47    3.00
+//

@@ -1,0 +1,17 @@
+H LEVM780104
+D Normalized frequency of alpha-helix, unweighted (Levitt, 1978)
+R PMID:708713
+A Levitt, M.
+T Conformational preferences of amino acids in globular proteins
+J Biochemistry 17, 4277-4285 (1978)
+C PALJ810101    0.988  PRAM900102    0.964  LEVM780101    0.964
+  KANM800101    0.958  GEIM800101    0.950  NAGK730101    0.918
+  ROBB760101    0.911  TANS770101    0.908  PALJ810102    0.906
+  MAXF760101    0.904  ISOY800101    0.904  RACS820108    0.889
+  CHOP780201    0.886  GEIM800104    0.872  CRAJ730101    0.869
+  KANM800103    0.859  BURA740101    0.833  QIAN880107    0.822
+  PALJ810109    0.819  AURR980115    0.818  QIAN880106    0.804
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.32    0.98    0.95    1.03    0.92    1.10    1.44    0.61    1.31    0.93
+    1.31    1.25    1.39    1.02    0.58    0.76    0.79    0.97    0.73    0.93
+//

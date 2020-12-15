@@ -1,0 +1,15 @@
+H FUKS010107
+D Interior composition of amino acids in extracellular proteins of mesophiles 
+  (percent) (Fukuchi-Nishikawa, 2001)
+R PMID:11399062
+A Fukuchi, S. and Nishikawa, K.
+T Protein surface amino acid compositions distinctively differ between 
+  thermophilic and mesophilic bacteria
+J J. Mol. Biol. 309, 835-843 (2001)
+C FUKS010106    0.924  NAKH900109    0.903  FUKS010105    0.891
+  NAKH900111    0.867  CEDJ970103    0.860  NAKH920105    0.833
+  FUKS010108    0.832  NAKH920108    0.817
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    9.95    3.05    4.84    4.46    1.30    2.64    2.58    8.87    1.99    7.73
+    9.66    2.00    2.45    5.41    3.20    6.03    5.62    2.60    6.15    9.46
+//

@@ -1,0 +1,17 @@
+H WIMW960101
+D Free energies of transfer of AcWl-X-LL peptides from bilayer interface to 
+  water (Wimley-White, 1996)
+R PMID:8836100
+A Wimley, W.C. and White, S.
+T Experimentally determined hydrophobicity scale for proteins at membrane 
+  interfaces
+J Nature Structual biol. 3, 842-848 (1996)
+C ZASB820101    0.885  MEEJ800101    0.838  CIDH920102    0.837
+  MEEJ800102    0.821  ZHOH040101    0.821  NOZY710101    0.818
+  PARJ860101   -0.804  VINM940101   -0.804  GRAR740102   -0.804
+  FUKS010102   -0.808  LEVM760101   -0.812  OOBM770103   -0.814
+  WOEC730101   -0.821  HOPT810101   -0.855
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    4.08    3.91    3.83    3.02    4.49    3.67    2.23    4.24    4.08    4.52
+    4.81    3.77    4.48    5.38    3.80    4.12    4.11    6.10    5.19    4.18
+//

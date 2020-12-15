@@ -1,0 +1,13 @@
+H KARS160108
+D Average weighted degree (total degree, divided by the number of vertices)
+  (Karkbara-Knisley, 2016)
+R
+A Karkbara, S. and Knisley, D.
+T A graph-theoretic model of single point mutations in the cystic fibrosis
+  transmembrane conductance regulator
+J J. Adv. Biotechnol. Vol.6, No.1, 780-786 (2016)
+C
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.00    1.50    1.60    1.60   1.333   1.667   1.667    0.00    2.00   1.600
+    1.60   1.667    1.60   1.750    2.00   1.333    1.50   2.182   2.000    1.50
+//

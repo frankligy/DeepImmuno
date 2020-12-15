@@ -1,0 +1,18 @@
+H FAUJ880102
+D Smoothed upsilon steric parameter (Fauchere et al., 1988)
+R PMID:3209351
+A Fauchere, J.L., Charton, M., Kier, L.B., Verloop, A. and Pliska, V.
+T Amino acid side chain parameters for correlation studies in biology and 
+  pharmacology
+J Int. J. Peptide Protein Res. 32, 269-278 (1988) (Pro missing) Original 
+  reference of these two data: Fauchere, L.J. In "QSAR in Design of Bioactive 
+  Compounds", (Kuchar, M., ed.), Prous, Barcelona pp.135-144 (1984)
+C AVBF000102    0.881  CHAM810101    0.881  PTIO830101    0.832
+  CHOP780216   -0.807  CHAM830101   -0.809  GEIM800108   -0.819
+  MUNV940104   -0.824  PRAM900104   -0.844  LEVM780103   -0.846
+  QIAN880132   -0.849  QIAN880133   -0.851  QIAN880134   -0.852
+  LEVM780106   -0.865  GEIM800111   -0.873  KIMC930101   -0.886
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.53    0.69    0.58    0.59    0.66    0.71    0.72    0.00    0.64    0.96
+    0.92    0.78    0.77    0.71      0.    0.55    0.63    0.84    0.71    0.89
+//

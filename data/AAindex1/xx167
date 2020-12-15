@@ -1,0 +1,15 @@
+H LIFS790102
+D Conformational preference for parallel beta-strands (Lifson-Sander, 1979)
+R PMID:503185
+A Lifson, S. and Sander, C.
+T Antiparallel and parallel beta-strands differ in amino acid residue 
+  preference
+J Nature 282, 109-111 (1979)
+C PTIO830102    0.874  MANP780101    0.870  PONP800107    0.849
+  PONP930101    0.833  JURD980101    0.824  KYTJ820101    0.824
+  OLSK800101    0.818  CHOC760103    0.810  KANM800104    0.809
+  PONP800101    0.804  LIFS790101    0.803  KANM800102    0.801
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.00    0.68    0.54    0.50    0.91    0.28    0.59    0.79    0.38    2.60
+    1.42    0.59    1.49    1.30    0.35    0.70    0.59    0.89    1.08    2.63
+//

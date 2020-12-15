@@ -1,0 +1,13 @@
+H ISOY800102
+D Normalized relative frequency of extended structure (Isogai et al., 1980)
+R PMID:7378550
+A Isogai, Y., Nemethy, G., Rackovsky, S., Leach, S.J. and Scheraga,H.A
+T Characterization of multiple bends in proteins
+J Biopolymers 19, 1183-1210 (1980) Recalculated by Kidera using a different set 
+  of proteins
+C MAXF760102    0.931  TANS770103    0.929  ROBB760105    0.847
+  GEIM800105    0.843  PALJ810103    0.807  WOEC730101   -0.803
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.86    0.98    0.74    0.69    1.39    0.89    0.66    0.70    1.06    1.31
+    1.01    0.77    1.06    1.16    1.16    1.09    1.24    1.17    1.28    1.40
+//

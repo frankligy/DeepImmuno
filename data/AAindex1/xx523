@@ -1,0 +1,22 @@
+H ROSM880104
+D Hydropathies of amino acid side chains, neutral form (Roseman, 1988)
+R PMID:3398047
+A Roseman, M.A.
+T Hydrophilicity of Polar Amino Acid Side-chains is Markedly Reduced by 
+  Flanking Peptide Bonds
+J J. Mol. Biol. 200, 513-522 (1988) (Arg Pro missing)
+C MEEJ810101    0.911  CIDH920105    0.886  MEEJ810102    0.885
+  ARGP820101    0.872  JOND750101    0.872  GUOD860101    0.868
+  PLIV810101    0.866  CIDH920103    0.866  CIDH920104    0.860
+  CIDH920102    0.859  ZHOH040101    0.858  SIMZ760101    0.855
+  NOZY710101    0.847  BASU050102    0.846  SWER830101    0.844
+  CORJ870102    0.844  TAKK010101    0.840  BASU050101    0.830
+  VENT840101    0.829  ZHOH040103    0.826  MIYS850101    0.824
+  GOLD730101    0.808  ROBB790101    0.807  BLAS910101    0.802
+  NISK860101    0.801  GUYH850103   -0.807  MIYS990102   -0.839
+  MIYS990101   -0.843  WOLS870101   -0.870  BULH740101   -0.884
+  PARJ860101   -0.896
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.39      NA   -1.91   -0.71    0.25   -1.30   -0.18    0.00   -0.60    1.82
+    1.82    0.32    0.96    2.27      NA   -1.24   -1.00    2.13    1.47    1.30
+//

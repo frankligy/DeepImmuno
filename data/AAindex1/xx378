@@ -1,0 +1,12 @@
+H VELV850101
+D Electron-ion interaction potential (Veljkovic et al., 1985)
+R
+A Veljkovic, V., Cosic, I., Dimitrijevic, B. and Lalovic, D.
+T Is it possible to analyze DNA and protein sequences by the method of digital 
+  signal processing?
+J IEEE Trans. Biomed. Eng. 32, 337-341 (1985)
+C COSI940101    1.000
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  .03731  .09593  .00359  .12630  .08292  .07606  .00580  .00499  .02415  .00000
+  .00000  .03710  .08226  .09460  .01979  .08292  .09408  .05481  .05159  .00569
+//

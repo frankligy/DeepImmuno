@@ -1,0 +1,14 @@
+H ZIMJ680102
+D Bulkiness (Zimmerman et al., 1968)
+R PMID:5700434
+A Zimmerman, J.M., Eliezer, N. and Simha, R.
+T The characterization of amino acid sequences in proteins by statistical 
+  methods
+J J. Theor. Biol. 21, 170-201 (1968)
+C FAUJ880101    0.888  ZHOH040102    0.878  LEVM760106    0.873
+  TAKK010101    0.840  BULH740102    0.825  GOLD730101    0.818
+  SIMZ760101    0.810
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   11.50   14.28   12.82   11.68   13.46   14.45   13.57    3.40   13.69   21.40
+   21.40   15.71   16.25   19.80   17.43    9.47   15.77   21.67   18.03   21.57
+//

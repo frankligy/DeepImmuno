@@ -1,0 +1,15 @@
+H WOLS870102
+D Principal property value z2 (Wold et al., 1987)
+R
+A Wold, S., Eriksson, L., Hellberg, S., Jonsson, J., Sjostrom, M., Skagerberg, 
+  B. and Wikstrom, C.
+T Principal property values for six non-natural amino acids and their 
+  application to a structure-activity relationship for oxytocin peptide 
+  analogues
+J Can. J. Chem. 65, 1814-1820 (1987)
+C LEVM760102    0.881  FASG760101    0.866  FAUJ880106    0.866
+  CHOC760101    0.845  LEVM760105    0.836  FAUJ880103    0.814
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -1.73    2.52    1.45    1.13   -0.97    0.53    0.39   -5.36    1.74   -1.68
+   -1.03    1.41   -0.27    1.30    0.88   -1.63   -2.09    3.65    2.32   -2.53
+//

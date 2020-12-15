@@ -1,0 +1,11 @@
+H COHE430101
+D Partial specific volume (Cohn-Edsall, 1943)
+R 
+A Cohn, E.J. and Edsall, J.T.
+T 
+J "Protein, Amino Acid, and Peptides", Reinhold, New York (1943)
+C BULH740102    0.923
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.75    0.70    0.61    0.60    0.61    0.67    0.66    0.64    0.67    0.90
+    0.90    0.82    0.75    0.77    0.76    0.68    0.70    0.74    0.71    0.86
+//

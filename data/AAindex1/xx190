@@ -1,0 +1,14 @@
+H NAKH900103
+D AA composition of mt-proteins (Nakashima et al., 1990)
+R PMID:2235995
+A Nakashima, H., Nishikawa, K. and Ooi, T.
+T Distinct character in hydrophobicity of amino acid composition of 
+  mitochondrial proteins
+J Proteins 8, 173-178 (1990)
+C NAKH900105    0.992  NAKH900112    0.966  NAKH900107    0.927
+  FUKS010108    0.864  NAKH900111    0.832  NAKH920105    0.829
+  NAKH920108    0.826  CEDJ970103    0.815
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    5.74    1.92    5.25    2.11    1.03    2.30    2.63    5.66    2.30    9.12
+   15.36    3.20    5.30    6.51    4.79    7.55    7.51    2.51    4.08    5.12
+//

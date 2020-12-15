@@ -1,0 +1,18 @@
+H FUKS010112
+D Entire chain compositino of amino acids in nuclear proteins (percent) 
+  (Fukuchi-Nishikawa, 2001)
+R PMID:11399062
+A Fukuchi, S. and Nishikawa, K.
+T Protein surface amino acid compositions distinctively differ between 
+  thermophilic and mesophilic bacteria
+J J. Mol. Biol. 309, 835-843 (2001)
+C CEDJ970104    0.956  NAKH900101    0.948  CEDJ970102    0.946
+  JOND920101    0.943  NAKH920106    0.921  FUKS010110    0.904
+  FUKS010109    0.890  NAKH920104    0.882  CEDJ970101    0.882
+  JUKT750101    0.875  NAKH920101    0.856  DAYM780101    0.856
+  CEDJ970103    0.850  NAKH920103    0.842  JUNJ780101    0.836
+  NAKH920107    0.824  KUMS000102    0.819
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    6.65    5.17    4.40    5.50    1.79    4.52    6.89    5.72    2.13    5.47
+   10.15    7.59    2.24    4.34    4.56    6.52    5.08    1.24    3.01    7.00
+//

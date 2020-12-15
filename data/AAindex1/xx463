@@ -1,0 +1,23 @@
+H FUKS010104
+D Surface composition of amino acids in nuclear proteins (percent) 
+  (Fukuchi-Nishikawa, 2001)
+R PMID:11399062
+A Fukuchi, S. and Nishikawa, K.
+T Protein surface amino acid compositions distinctively differ between 
+  thermophilic and mesophilic bacteria
+J J. Mol. Biol. 309, 835-843 (2001)
+C FUKS010102    0.938  VINM940101    0.919  FUKS010101    0.885
+  HOPT810101    0.884  MIYS990105    0.870  LEVM760101    0.869
+  MIYS990104    0.862  KRIW790102    0.853  PARS000102    0.850
+  OOBM770103    0.849  MIYS990103    0.845  FASG890101    0.844
+  VINM940103    0.838  KRIW790101    0.828  MEIH800102    0.822
+  KARP850102    0.822  GUYH850102    0.819  NAKH920106    0.818
+  KIDA850101    0.814  VINM940102    0.807  NADH010102   -0.801
+  ZHOH040103   -0.803  NADH010103   -0.805  CORJ870101   -0.814
+  WERD780101   -0.832  NISK860101   -0.832  FAUJ830101   -0.832
+  RADA880108   -0.851  BIOV880101   -0.873  ROSG850102   -0.877
+  BIOV880102   -0.887  CASG920101   -0.892
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    5.22    7.30    6.06    7.91    1.01    6.00   10.66    5.81    2.27    2.36
+    4.52   12.68    1.85    1.68    5.70    6.99    5.16    0.56    2.16    4.10
+//

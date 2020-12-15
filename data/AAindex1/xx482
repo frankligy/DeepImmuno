@@ -1,0 +1,12 @@
+H MITS020101
+D Amphiphilicity index (Mitaku et al., 2002)
+R PMID:12016058
+A Mitaku, S., Hirokawa, T. and Tsuji, T.
+T Amphiphilicity index of polar amino acids as an aid in the characterization 
+  of amino acid preference at membrane-water interfaces
+J Bioinformatics. 18, 608-616 (2002)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+       0    2.45       0       0       0    1.25    1.27       0    1.45       0
+       0    3.67       0       0       0       0       0    6.93    5.06       0
+//

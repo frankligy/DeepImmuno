@@ -1,0 +1,22 @@
+H PTIO830101
+D Helix-coil equilibrium constant (Ptitsyn-Finkelstein, 1983)
+R PMID:6673754
+A Ptitsyn, O.B. and Finkelstein, A.V.
+T Theory of protein secondary structure and algorithm of its prediction
+J Biopolymers 22, 15-25 (1983) Charged state for Arg, His, Lys, Asp, and Glu
+C ROBB760103    0.903  QIAN880109    0.886  QIAN880108    0.884
+  SUEM840101    0.877  BLAM930101    0.868  QIAN880111    0.857
+  ONEK900101    0.847  QIAN880107    0.846  QIAN880110    0.835
+  AURR980113    0.833  FAUJ880102    0.832  FINA770101    0.826
+  AURR980109    0.820  ROBB760104    0.817  AURR980114    0.809
+  MUNV940104   -0.807  QIAN880131   -0.826  ONEK900102   -0.830
+  ISOY800104   -0.832  MUNV940105   -0.833  QIAN880132   -0.833
+  CHOP780213   -0.835  GEIM800108   -0.840  CHAM830101   -0.841
+  MUNV940102   -0.844  LEVM780106   -0.854  CHOP780216   -0.855
+  PRAM900104   -0.858  LEVM780103   -0.860  QIAN880133   -0.864
+  GEIM800111   -0.876  MUNV940101   -0.880  QIAN880135   -0.899
+  QIAN880134   -0.920
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.10    0.95    0.80    0.65    0.95    1.00    1.00    0.60    0.85    1.10
+    1.25    1.00    1.15    1.10    0.10    0.75    0.75    1.10    1.10    0.95
+//

@@ -1,0 +1,13 @@
+H KIMC930101
+D Thermodynamic beta sheet propensity (Kim-Berg, 1993)
+R PMID:8459852
+A Kim, C.A. and Berg, J.M.
+T Thermodynamic beta-sheet propensities measured using a zinc-finger host 
+  peptide
+J Nature 362, 267-270 (1993)
+C LEVM760104    0.842  AVBF000101   -0.814  CHAM810101   -0.848
+  LEVM760103   -0.861  FAUJ880102   -0.886  AVBF000102   -0.900
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -0.35   -0.44   -0.38   -0.41   -0.47   -0.40   -0.41     0.0   -0.46   -0.56
+   -0.48   -0.41   -0.46   -0.55   -0.23   -0.39   -0.48   -0.48   -0.50   -0.53
+//

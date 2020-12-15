@@ -1,0 +1,16 @@
+H FUKS010108
+D Interior composition of amino acids in nuclear proteins (percent) 
+  (Fukuchi-Nishikawa, 2001)
+R PMID:11399062
+A Fukuchi, S. and Nishikawa, K.
+T Protein surface amino acid compositions distinctively differ between 
+  thermophilic and mesophilic bacteria
+J J. Mol. Biol. 309, 835-843 (2001)
+C NAKH920105    0.968  NAKH900111    0.954  NAKH920108    0.948
+  FUKS010106    0.927  FUKS010105    0.923  CEDJ970103    0.897
+  NAKH900112    0.896  NAKH900109    0.872  NAKH900103    0.864
+  NAKH900105    0.846  FUKS010107    0.832  NAKH900107    0.830
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    8.26    2.80    2.54    2.80    2.67    2.86    2.67    5.62    1.98    8.95
+   16.46    1.89    2.67    7.32    3.30    6.00    5.00    2.01    3.96   10.24
+//

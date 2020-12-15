@@ -1,0 +1,17 @@
+H NAGK730101
+D Normalized frequency of alpha-helix (Nagano, 1973)
+R PMID:4728695
+A Nagano, K.
+T Local analysis of the mechanism of protein folding. I. Prediction of helices, 
+  loops, and beta-structures from primary structure
+J J. Mol. Biol. 75, 401-420 (1973)
+C PALJ810101    0.953  CRAJ730101    0.925  TANS770101    0.925
+  LEVM780104    0.918  GEIM800101    0.912  ROBB760101    0.910
+  PRAM900102    0.894  LEVM780101    0.894  CHOP780201    0.886
+  KANM800101    0.883  BURA740101    0.883  MAXF760101    0.877
+  PALJ810102    0.876  ISOY800101    0.862  GEIM800104    0.828
+  RACS820108    0.820  NAGK730103   -0.870
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.29    0.83    0.77    1.00    0.94    1.10    1.54    0.72    1.29    0.94
+    1.23    1.23    1.23    1.23    0.70    0.78    0.87    1.06    0.63    0.97
+//

@@ -1,0 +1,23 @@
+H PRAM900104
+D Relative frequency in reverse-turn (Prabhakaran, 1990)
+R PMID:2390062
+A Prabhakaran, M.
+T The distribution of physical, chemical and conformational properties in 
+  signal and nascent peptides
+J Biochem. J. 269, 691-696 (1990) Original reference of these three data: 
+  Creighton, T.E. In "Protein Structure and Melecular Properties", (Freeman, 
+  W.H., ed.), San Francisco P.235 (1983)
+C LEVM780103    1.000  LEVM780106    0.983  GEIM800111    0.954
+  CHOP780216    0.951  QIAN880133    0.947  QIAN880134    0.934
+  ISOY800103    0.934  QIAN880132    0.932  GEIM800108    0.931
+  CHOP780203    0.928  CHAM830101    0.909  PALJ810105    0.906
+  QIAN880135    0.903  CHOP780101    0.891  TANS770110    0.873
+  CHOP780210    0.850  PALJ810106    0.844  RACS770101    0.809
+  KANM800103   -0.814  AURR980109   -0.815  QIAN880108   -0.819
+  QIAN880107   -0.829  AVBF000102   -0.834  ROBB760103   -0.840
+  FAUJ880102   -0.844  QIAN880109   -0.846  PTIO830101   -0.858
+  SUEM840101   -0.865
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.78    0.88    1.28    1.41    0.80    0.97      1.    1.64    0.69    0.51
+    0.59    0.96    0.39    0.58    1.91    1.33    1.03    0.75    1.05    0.47
+//

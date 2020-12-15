@@ -1,0 +1,19 @@
+H BIGC670101
+D Residue volume (Bigelow, 1967)
+R PMID:6048539
+A Bigelow, C.C.
+T On the average hydrophobicity of proteins and the relation between it and 
+  protein structure
+J J. Theor. Biol. 16, 187-211 (1967) (Asn Gln 5.0)
+C GOLD730102    1.000  KRIW790103    0.993  TSAJ990101    0.993
+  TSAJ990102    0.992  CHOC750101    0.990  GRAR740103    0.984
+  FAUJ880103    0.972  CHAM820101    0.966  HARY940101    0.960
+  CHOC760101    0.960  PONJ960101    0.950  FASG760101    0.919
+  LEVM760105    0.913  ROSG850101    0.910  DAWD720101    0.903
+  LEVM760102    0.896  ZHOH040102    0.884  LEVM760106    0.876
+  CHAM830106    0.870  LEVM760107    0.863  FAUJ880106    0.860
+  RADA880106    0.856  MCMT640101    0.814  RADA880103   -0.865
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    52.6   109.1    75.7    68.4    68.3    89.7    84.7    36.3    91.9   102.0
+   102.0   105.1    97.7   113.9    73.6    54.9    71.2   135.4   116.2    85.1
+//

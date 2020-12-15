@@ -1,0 +1,16 @@
+H GEIM800104
+D Alpha-helix indices for alpha/beta-proteins (Geisow-Roberts, 1980)
+R
+A Geisow, M.J. and Roberts, R.D.B.
+T Amino acid preferences for secondary structure vary with protein class
+J Int. J. Biol. Macromol. 2, 387-389 (1980)
+C PALJ810109    0.937  KANM800101    0.916  LEVM780101    0.907
+  PRAM900102    0.907  GEIM800101    0.903  MAXF760101    0.897
+  ISOY800101    0.891  PALJ810102    0.886  LEVM780104    0.872
+  CHOP780201    0.868  ROBB760101    0.855  RACS820108    0.851
+  PALJ810101    0.841  TANS770101    0.841  CRAJ730101    0.838
+  NAGK730101    0.828  BURA740101    0.819  AURR980112    0.815
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.19      1.    0.94    1.07    0.95    1.32    1.64    0.60    1.03    1.12
+    1.18    1.27    1.49    1.02    0.68    0.81    0.85    1.18    0.77    0.74
+//

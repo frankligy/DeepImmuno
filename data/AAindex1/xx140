@@ -1,0 +1,19 @@
+H KANM800104
+D Average relative probability of inner beta-sheet (Kanehisa-Tsong, 1980)
+R PMID:7426680
+A Kanehisa, M.I. and Tsong, T.Y.
+T Local hydrophobicity stabilizes secondary structures in proteins
+J Biopolymers 19, 1617-1628 (1980)
+C KANM800102    0.928  ROBB760105    0.885  ROBB760106    0.877
+  GEIM800107    0.876  GEIM800105    0.861  PTIO830102    0.858
+  PALJ810104    0.851  BASU050101    0.850  PONP800108    0.849
+  BASU050103    0.848  LEVM780105    0.841  QIAN880119    0.841
+  CHOP780202    0.839  LIFS790101    0.834  PONP930101    0.833
+  CORJ870101    0.833  QIAN880121    0.829  MANP780101    0.827
+  JURD980101    0.826  KYTJ820101    0.824  PALJ810103    0.823
+  PONP800101    0.823  PALJ810112    0.813  PONP800102    0.813
+  LIFS790102    0.809  QIAN880120    0.803  MUNV940103   -0.857
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.75    0.79    0.33    0.31    1.46    0.75    0.46    0.83    0.83    1.87
+    1.56    0.66    0.86    1.37    0.52    0.82    1.36    0.79    1.08    2.00
+//

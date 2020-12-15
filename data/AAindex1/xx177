@@ -1,0 +1,14 @@
+H MEEJ800101
+D Retention coefficient in HPLC, pH7.4 (Meek, 1980)
+R PMID:6929513
+A Meek, J.L.
+T Prediction of peptide retention times in high-pressure liquid chromatography 
+  on the basis of amino acid composition
+J Proc. Natl. Acad. Sci. USA 77, 1632-1636 (1980)
+C MEEJ800102    0.886  ZIMJ680105    0.842  BROC820102    0.840
+  WIMW960101    0.838  GOLD730101    0.808  PARJ860101   -0.806
+  WOLS870101   -0.823
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     0.5     0.8     0.8    -8.2    -6.8    -4.8   -16.9     0.0    -3.5    13.9
+     8.8     0.1     4.8    13.2     6.1     1.2     2.7    14.9     6.1     2.7
+//

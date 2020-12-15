@@ -1,0 +1,14 @@
+H FINA770101
+D Helix-coil equilibrium constant (Finkelstein-Ptitsyn, 1977)
+R PMID:843599
+A Finkelstein, A.V. and Ptitsyn, O.B.
+T Theory of protein molecule self-organization. II. A comparison of calculated 
+  thermodynamic parameters of local secondary structures with experiments
+J Biopolymers 16, 497-524 (1977) (Pro 0.096)
+C SUEM840101    0.883  AURR980114    0.875  AURR980113    0.849
+  PTIO830101    0.826  KANM800103    0.823  QIAN880107    0.814
+  QIAN880106    0.810  MAXF760101    0.810  AURR980109    0.802
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.08    1.05    0.85    0.85    0.95    0.95    1.15    0.55    1.00    1.05
+    1.25    1.15    1.15    1.10    0.71    0.75    0.75    1.10    1.10    0.95
+//

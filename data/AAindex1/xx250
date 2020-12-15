@@ -1,0 +1,12 @@
+H PRAM820103
+D Correlation coefficient in regression analysis (Prabhakaran-Ponnuswamy, 1982)
+R
+A Prabhakaran, M. and Ponnuswamy, P.K.
+T Shape and surface features of globular proteins
+J Macromolecules 15, 314-320 (1982) Regression analysis of solvent contact area 
+  and spatial position
+C PRAM820102    0.802
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.687   0.590   0.489   0.632   0.263   0.527   0.669   0.670   0.594   0.564
+   0.541   0.407   0.328   0.577   0.600   0.692   0.713   0.632   0.495   0.529
+//

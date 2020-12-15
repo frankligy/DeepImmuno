@@ -1,0 +1,12 @@
+H YANJ020101
+D Side-chain conformation by gaussian evolutionary method (Yang et al., 2002)
+R PMID:12142444
+A Yang, J.M., Tsai, C.H., Hwang, M.J., Tsai, H.K., Hwang, J.K. and Kao, C.Y.
+T GEM: a Gaussian Evolutionary Method for predicting protein side-chain 
+  conformations
+J Protein Sci. 11, 1897-1907 (2002) (Gly Ala missing)
+C AVBF000105    0.807
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+      NA    0.62    0.76    0.66    0.83    0.59    0.73      NA    0.92    0.88
+    0.89    0.77    0.77    0.92    0.94    0.58    0.73    0.86    0.93    0.88
+//

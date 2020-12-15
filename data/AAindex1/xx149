@@ -1,0 +1,18 @@
+H KRIW790103
+D Side chain volume (Krigbaum-Komoriya, 1979)
+R PMID:760806
+A Krigbaum, W.R. and Komoriya, A.
+T Local interactions as a structure determinant for protein molecules: II
+J Biochim. Biophys. Acta 576, 204-228 (1979) (Gly Pro 7.8)
+C GOLD730102    0.994  BIGC670101    0.993  GRAR740103    0.989
+  TSAJ990101    0.988  TSAJ990102    0.987  CHOC750101    0.982
+  FAUJ880103    0.965  CHAM820101    0.963  HARY940101    0.956
+  CHOC760101    0.948  PONJ960101    0.943  ROSG850101    0.920
+  FASG760101    0.910  LEVM760105    0.900  DAWD720101    0.893
+  ZHOH040102    0.884  LEVM760102    0.884  RADA880106    0.883
+  CHAM830106    0.876  LEVM760106    0.862  LEVM760107    0.860
+  FAUJ880106    0.845  MCMT640101    0.810  RADA880103   -0.871
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    27.5   105.0    58.7    40.0    44.6    80.7    62.0     0.0    79.0    93.5
+    93.5   100.0    94.1   115.5    41.9    29.3    51.3   145.5   117.3    71.5
+//

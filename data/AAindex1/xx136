@@ -1,0 +1,17 @@
+H JUNJ780101
+D Sequence frequency (Jungck, 1978)
+R PMID:691072
+A Jungck, J.R.
+T The genetic code as a periodic table
+J J. Mol. Evol. 11, 211-224 (1978)
+C DAYM780101    0.986  JUKT750101    0.980  CEDJ970101    0.968
+  JOND920101    0.932  KUMS000102    0.927  CEDJ970104    0.921
+  CEDJ970102    0.920  NAKH900101    0.918  FUKS010111    0.906
+  FUKS010110    0.868  NAKH920107    0.856  KUMS000101    0.854
+  NAKH900102    0.853  FUKS010112    0.836  NAKH920106    0.829
+  NAKH920101    0.826  NAKH920103    0.820  NAKH920104    0.807
+  CEDJ970103    0.806  CEDJ970105    0.803
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    685.    382.    397.    400.    241.    313.    427.    707.    155.    394.
+    581.    575.    132.    303.    366.    593.    490.     99.    292.    553.
+//

@@ -1,0 +1,15 @@
+H FINA910104
+D Helix termination parameter at posision j+1 (Finkelstein et al., 1991)
+R PMID:1946339
+A Finkelstein, A.V., Badretdinov, A.Y. and Ptitsyn, O.B.
+T Physical reasons for secondary structure stability: alpha-helices in short 
+  peptides
+J Proteins 10, 287-299 (1991) In these four data, each of Arg, Asp, Glu, His 
+  and Lys has two value. See comment lines. Arg pH < 12 ( 1 when pH > 12 ) Asp 
+  pH > 4 ( 1 when pH < 4 ) Glu pH > 4.3 ( 1 when pH < 4.3 ) His pH > 6.3 ( 1.7 
+  when pH < 6.3 ) Lys pH < 10.5 ( 1 when pH > 10.5 )
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+      1.    1.70      1.    0.70      1.      1.    0.70    1.50      1.      1.
+      1.    1.70      1.      1.    0.10      1.      1.      1.      1.      1.
+//

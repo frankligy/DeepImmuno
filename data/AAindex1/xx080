@@ -1,0 +1,16 @@
+H FAUJ880104
+D STERIMOL length of the side chain (Fauchere et al., 1988)
+R PMID:3209351
+A Fauchere, J.L., Charton, M., Kier, L.B., Verloop, A. and Pliska, V.
+T Amino acid side chain parameters for correlation studies in biology and 
+  pharmacology
+J Int. J. Peptide Protein Res. 32, 269-278 (1988) (Pro !) Original reference of 
+  these three data: Verloop, A. In "IUPAC, Pesticide Chemistry", Vol.1 
+  (Miyamoto, J. and Kearney, P.C., eds.),Pergamon, Oxford pp.339-334 (1983)
+C LEVM760105    0.896  LEVM760102    0.867  HUTJ700103    0.839
+  CHOC760101    0.835  HUTJ700102    0.835  FASG760101    0.825
+  CHAM830106    0.817  FAUJ880103    0.804  RADA880103   -0.806
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    2.87    7.82    4.58    4.74    4.47    6.11    5.97    2.06    5.23    4.92
+    4.92    6.89    6.36    4.62    4.11    3.97    4.11    7.68    4.73    4.11
+//

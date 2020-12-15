@@ -1,0 +1,13 @@
+H BULH740102
+D Apparent partial specific volume (Bull-Breese, 1974)
+R PMID:4839053
+A Bull, H.B. and Breese, K.
+T Surface tension of amino acid solutions: A hydrophobicity scale of the amino 
+  acid residues
+J Arch. Biochem. Biophys. 161, 665-670 (1974) (Tyr !)
+C COHE430101    0.923  ZIMJ680102    0.825  GOLD730101    0.825
+  SIMZ760101    0.815
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.691   0.728   0.596   0.558   0.624   0.649   0.632   0.592   0.646   0.809
+   0.842   0.767   0.709   0.756   0.730   0.594   0.655   0.743   0.743   0.777
+//

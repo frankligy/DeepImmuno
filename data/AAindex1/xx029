@@ -1,0 +1,12 @@
+H CHAM830107
+D A parameter of charge transfer capability (Charton-Charton, 1983)
+R PMID:6876837
+A Charton, M. and Charton, B.
+T The dependence of the Chou-Fasman parameters on amino acid side chain 
+  structure
+J J. Theor. Biol. 111, 447-450 (1983) (Pro !)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+      0.      0.      1.      1.      0.      0.      1.      1.      0.      0.
+      0.      0.      0.      0.      0.      0.      0.      0.      0.      0.
+//

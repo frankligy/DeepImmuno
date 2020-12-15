@@ -1,0 +1,20 @@
+H VENT840101
+D Bitterness (Venanzi, 1984)
+R PMID:6521488
+A Venanzi, T.J.
+T Hydrophobicity parameters and the bitter taste of L-amino acids
+J J. Theor. Biol. 111, 447-450 (1984)
+C NOZY710101    0.897  BASU050101    0.858  ZHOH040101    0.858
+  BASU050102    0.851  GUOD860101    0.848  PTIO830102    0.842
+  WILM950101    0.840  CORJ870102    0.837  SWER830101    0.836
+  ZHOH040102    0.831  MEEJ810102    0.831  PALJ810104    0.831
+  ROSM880104    0.829  RADA880102    0.826  CHOP780209    0.817
+  BASU050103    0.814  LIFS790101    0.814  MEEJ810101    0.813
+  CIDH920105    0.813  TAKK010101    0.812  ZHOH040103    0.807
+  SIMZ760101    0.806  PONP800107    0.805  CHOP780202    0.805
+  GOLD730101    0.802  MIYS990102   -0.820  MIYS990101   -0.821
+  WOLS870101   -0.835  PARJ860101   -0.846  BULH740101   -0.907
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+      0.      0.      0.      0.      0.      0.      0.      0.      0.      1.
+      1.      0.      0.      1.      0.      0.      0.      1.      1.      1.
+//

@@ -1,0 +1,20 @@
+H MUNV940102
+D Free energy in alpha-helical region (Munoz-Serrano, 1994)
+R PMID:7731949
+A Munoz, V. and Serrano, L.
+T Intrinsic secondary structure propensities of the amino acids, using 
+  statistical phi-psi matrices: comparison with experimental scales
+J Proteins 20, 301-311 (1994)
+C MUNV940101    0.964  RACS820114    0.877  ONEK900102    0.860
+  AURR980108   -0.803  ROBB760104   -0.803  CHOP780201   -0.812
+  QIAN880105   -0.816  AURR980109   -0.818  AURR980114   -0.820
+  KANM800103   -0.823  PALJ810102   -0.824  FAUJ880113   -0.826
+  ROBB760101   -0.827  MAXF760101   -0.829  QIAN880108   -0.839
+  KANM800101   -0.843  PTIO830101   -0.844  AURR980110   -0.846
+  AURR980115   -0.852  AURR980112   -0.853  QIAN880106   -0.867
+  BLAM930101   -0.876  ISOY800101   -0.877  QIAN880107   -0.882
+  RACS820108   -0.894  ONEK900101   -0.910  ROBB760103   -0.913
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.619   0.753   1.089   0.932   1.107   0.770   0.675   1.361   1.034   0.876
+   0.740   0.784   0.736   0.968   1.780   0.969   1.053   0.910   1.009   0.939
+//

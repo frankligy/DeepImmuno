@@ -1,0 +1,17 @@
+H CRAJ730101
+D Normalized frequency of middle helix (Crawford et al., 1973)
+R PMID:4510294
+A Crawford, J.L., Lipscomb, W.N. and Schellman, C.G.
+T The reverse turn as a polypeptide conformation in globular proteins
+J Proc. Natl. Acad. Sci. USA 70, 538-542 (1973) Reported values normalized by 
+  the total percentage
+C NAGK730101    0.925  BURA740101    0.900  PALJ810101    0.891
+  PRAM900102    0.887  LEVM780101    0.887  ROBB760101    0.875
+  PALJ810102    0.872  GEIM800101    0.870  LEVM780104    0.869
+  CHOP780201    0.851  TANS770101    0.843  KANM800101    0.842
+  ISOY800101    0.840  RACS820108    0.839  GEIM800104    0.838
+  MAXF760101    0.826  PALJ810109    0.811  NAGK730103   -0.850
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.33    0.79    0.72    0.97    0.93    1.42    1.66    0.58    1.49    0.99
+    1.29    1.03    1.40    1.15    0.49    0.83    0.94    1.33    0.49    0.96
+//

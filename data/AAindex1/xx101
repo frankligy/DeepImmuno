@@ -1,0 +1,13 @@
+H GEIM800106
+D Beta-strand indices for beta-proteins (Geisow-Roberts, 1980)
+R
+A Geisow, M.J. and Roberts, R.D.B.
+T Amino acid preferences for secondary structure vary with protein class
+J Int. J. Biol. Macromol. 2, 387-389 (1980)
+C GEIM800107    0.878  PALJ810110    0.851  CHOP780202    0.839
+  ROBB760106    0.838  QIAN880120    0.825  KANM800102    0.821
+  LIFS790103    0.814  MUNV940103   -0.800  GEIM800110   -0.929
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.86    1.15    0.60    0.66    0.91    1.11    0.37    0.86    1.07    1.17
+    1.28    1.01    1.15    1.34    0.61    0.91    1.14    1.13    1.37    1.31
+//

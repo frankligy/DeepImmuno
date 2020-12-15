@@ -1,0 +1,13 @@
+H KARS160109
+D Maximum eigenvalue of the weighted Laplacian matrix of the graph
+  (Karkbara-Knisley, 2016)
+R
+A Karkbara, S. and Knisley, D.
+T A graph-theoretic model of single point mutations in the cystic fibrosis
+  transmembrane conductance regulator
+J J. Adv. Biotechnol. Vol.6, No.1, 780-786 (2016)
+C
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    2.00  12.499  11.539  11.539   6.243  12.207  11.530    0.00  12.876  10.851
+  11.029  10.363    9.49  14.851   12.00    5.00   9.928  13.511  12.868   9.928
+//

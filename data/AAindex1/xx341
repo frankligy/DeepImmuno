@@ -1,0 +1,16 @@
+H ROBB760104
+D Information measure for C-terminal helix (Robson-Suzuki, 1976)
+R PMID:1003471
+A Robson, B. and Suzuki, E.
+T Conformational properties of amino acid residues in globular proteins
+J J. Mol. Biol. 107, 327-356 (1976)
+C QIAN880108    0.879  BLAM930101    0.878  QIAN880109    0.871
+  ONEK900101    0.844  CHOP780205    0.841  BUNA790101    0.823
+  PTIO830101    0.817  QIAN880110    0.806  QIAN880134   -0.802
+  MUNV940102   -0.803  ISOY800104   -0.817  RACS820110   -0.818
+  MUNV940101   -0.831  MUNV940104   -0.840  FINA910102   -0.844
+  MUNV940105   -0.859  ONEK900102   -0.861
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     2.3     1.4    -3.3    -4.4     6.1     2.7     2.5    -8.3     5.9    -0.5
+     0.1     7.3     3.5     1.6   -24.4    -1.9    -3.7    -0.9    -0.6     2.3
+//

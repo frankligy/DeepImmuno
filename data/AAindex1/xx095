@@ -1,0 +1,13 @@
+H GARJ730101
+D Partition coefficient (Garel et al., 1973)
+R PMID:4700470
+A Garel, J.P., Filliol, D. and Mandel, P.
+T Coefficients de partage d'aminoacides, nucleobases, nucleosides et 
+  nucleotides dans un systeme solvant salin
+J J. Chromatogr. 78, 381-391 (1973)
+C LEVM760107    0.860  NOZY710101    0.821  OOBM850102   -0.877
+  WEBA780101   -0.924
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.28    0.10    0.25    0.21    0.28    0.35    0.33    0.17    0.21    0.82
+    1.00    0.09    0.74    2.18    0.39    0.12    0.21    5.70    1.26    0.60
+//

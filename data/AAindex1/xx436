@@ -1,0 +1,17 @@
+H BLAM930101
+D Alpha helix propensity of position 44 in T4 lysozyme (Blaber et al., 1993)
+R PMID:8503008
+A Blaber, M., Zhang, X.J. and Matthews, B.W.
+T Structural basis of amino acid alpha helix propensity
+J Science 260, 1637-1640 (1993)
+C ONEK900101    0.965  BUNA790101    0.945  ROBB760103    0.883
+  ROBB760104    0.878  PTIO830101    0.868  QIAN880108    0.860
+  FAUJ880113    0.839  QIAN880109    0.828  CHOP780213   -0.824
+  QIAN880134   -0.836  TANS770104   -0.837  ISOY800104   -0.860
+  RACS820114   -0.862  AVBF000104   -0.872  MUNV940102   -0.876
+  MUNV940101   -0.882  GEOR030109   -0.889  MUNV940104   -0.904
+  MUNV940105   -0.925  FINA910102   -0.961  ONEK900102   -0.974
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.96    0.77    0.39    0.42    0.42    0.80    0.53    0.00    0.57    0.84
+    0.92    0.73    0.86    0.59   -2.50    0.53    0.54    0.58    0.72    0.63
+//

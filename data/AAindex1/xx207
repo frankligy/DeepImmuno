@@ -1,0 +1,16 @@
+H NAKH920107
+D AA composition of EXT of multi-spanning proteins (Nakashima-Nishikawa, 1992)
+R PMID:1607012
+A Nakashima, H. and Nishikawa, K.
+T The amino acid composition is different between the cytoplasmic and 
+  extracellular sides in membrane proteins
+J FEBS Lett. 303, 141-146 (1992)
+C JOND920101    0.893  CEDJ970102    0.891  NAKH920104    0.889
+  NAKH920103    0.882  NAKH900101    0.863  JUKT750101    0.862
+  DAYM780101    0.861  CEDJ970101    0.860  CEDJ970104    0.857
+  JUNJ780101    0.856  FUKS010111    0.841  KUMS000102    0.839
+  FUKS010112    0.824  FUKS010110    0.810  KUMS000101    0.800
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    5.08    4.75    5.75    5.96    2.95    4.24    6.04    8.20    2.10    4.95
+    8.03    4.93    2.61    4.36    4.84    6.41    5.87    2.31    4.55    6.07
+//

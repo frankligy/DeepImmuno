@@ -1,0 +1,14 @@
+H WILM950104
+D Hydrophobicity coefficient in RP-HPLC, C18 with 0.1%TFA/2-PrOH/MeCN/H2O 
+  (Wilce et al. 1995)
+R 
+A Wilce, M.C., Aguilar, M.I. and Hearn, M.T.
+T Physicochemical basis of amino acid hydrophobicity scales: evaluation of four 
+  new scales of amino acid hydrophobicity coefficients derived from RP-HPLC of 
+  peptides
+J Anal Chem. 67, 1210-1219 (1995)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -2.34    1.60    2.81   -0.48    5.03    0.16    1.30   -1.06   -3.00    7.26
+    1.09    1.56    0.62    2.57   -0.15    1.93    0.19    3.59   -2.58    2.06
+//

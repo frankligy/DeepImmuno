@@ -1,0 +1,22 @@
+H ROBB760103
+D Information measure for middle helix (Robson-Suzuki, 1976)
+R PMID:1003471
+A Robson, B. and Suzuki, E.
+T Conformational properties of amino acid residues in globular proteins
+J J. Mol. Biol. 107, 327-356 (1976)
+C QIAN880108    0.914  PTIO830101    0.903  QIAN880107    0.889
+  KANM800103    0.887  BLAM930101    0.883  ONEK900101    0.878
+  QIAN880109    0.868  AURR980109    0.857  QIAN880106    0.854
+  BEGF750101    0.852  RACS820108    0.851  ISOY800101    0.841
+  AURR980113    0.838  AURR980108    0.835  RICJ880109    0.831
+  QIAN880105    0.811  ROBB760101    0.807  QIAN880110    0.807
+  CHOP780201    0.806  FAUJ880113    0.802  AURR980114    0.801
+  GEIM800108   -0.802  RACS820114   -0.806  QIAN880133   -0.807
+  QIAN880132   -0.827  ISOY800104   -0.830  QIAN880135   -0.834
+  PRAM900104   -0.840  CHOP780216   -0.841  LEVM780103   -0.843
+  GEIM800111   -0.843  QIAN880134   -0.855  ONEK900102   -0.867
+  CHAM830101   -0.878  MUNV940102   -0.913  MUNV940101   -0.918
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     6.7     0.3    -6.1    -3.1    -4.9     0.6     2.2    -6.8    -1.0     3.2
+     5.5     0.5     7.2     2.8   -22.8    -3.0    -4.0     4.0    -4.6     2.5
+//

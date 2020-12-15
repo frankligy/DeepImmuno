@@ -1,0 +1,17 @@
+H LEVM780105
+D Normalized frequency of beta-sheet, unweighted (Levitt, 1978)
+R PMID:708713
+A Levitt, M.
+T Conformational preferences of amino acids in globular proteins
+J Biochemistry 17, 4277-4285 (1978)
+C PALJ810103    0.980  KANM800102    0.938  CHOP780202    0.930
+  LIFS790101    0.928  GEIM800105    0.926  PALJ810104    0.921
+  QIAN880120    0.913  QIAN880119    0.903  PRAM900103    0.899
+  LEVM780102    0.899  LIFS790103    0.897  PTIO830102    0.894
+  GEIM800107    0.884  QIAN880121    0.876  PALJ810112    0.870
+  ROBB760106    0.869  ROBB760105    0.842  KANM800104    0.841
+  AVBF000101    0.824  QIAN880118    0.819  MUNV940103   -0.891
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.86    0.97    0.73    0.69    1.04    1.00    0.66    0.89    0.85    1.47
+    1.04    0.77    0.93    1.21    0.68    1.02    1.27    1.26    1.31    1.43
+//

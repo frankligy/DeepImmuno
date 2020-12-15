@@ -1,0 +1,14 @@
+H VINM940104
+D Normalized flexibility parameters (B-values) for each residue surrounded by 
+  two rigid neighbours (Vihinen et al., 1994)
+R PMID:8090708
+A Vihinen, M., Torkkila, E. and Riikonen, P.
+T Accuracy of protein flexibility predictions
+J Proteins 19, 141-149 (1994)
+C VINM940101    0.815  JANJ780103    0.811  MEIH800102    0.808
+  RACS770103    0.804  DESM900102   -0.803  CORJ870101   -0.805
+  ROSG850102   -0.809  CASG920101   -0.810
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.783   0.807   0.799   0.822   0.785   0.817   0.826   0.784   0.777   0.776
+   0.783   0.834   0.806   0.774   0.809   0.811   0.795   0.796   0.788   0.781
+//

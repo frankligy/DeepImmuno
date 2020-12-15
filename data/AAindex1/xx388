@@ -1,0 +1,20 @@
+H WOLR810101
+D Hydration potential (Wolfenden et al., 1981)
+R PMID:7213619
+A Wolfenden, R. andersson, L., Cullis, P.M. and Southgate, C.C.B.
+T Affinties of amino acid side chains for solvent water
+J Biochemistry 20, 849-855 (1981) (Pro 2.9)
+C WOLR790101    0.996  RADA880101    0.939  EISD840101    0.914
+  RADA880104    0.910  JACR890101    0.908  RADA880107    0.890
+  KYTJ820101    0.885  JURD980101    0.881  RADA880105    0.875
+  CHOC760103    0.873  OLSK800101    0.869  CHOC760104    0.868
+  JANJ780102    0.851  NADH010101    0.848  JANJ790102    0.828
+  JANJ780103   -0.822  GUYH850104   -0.826  ROSM880102   -0.829
+  CHOC760102   -0.840  OOBM770101   -0.847  JANJ780101   -0.864
+  VHEG790101   -0.867  ROSM880101   -0.884  ENGD860101   -0.887
+  PRAM900101   -0.887  KUHL950101   -0.898  FAUJ880109   -0.904
+  GUYH850105   -0.916
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.94  -19.92   -9.68  -10.95   -1.24   -9.38  -10.20    2.39  -10.27    2.15
+    2.28   -9.52   -1.48   -0.76   -3.68   -5.06   -4.88   -5.88   -6.11    1.99
+//

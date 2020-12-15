@@ -1,0 +1,11 @@
+H ARGP820102
+D Signal sequence helical potential (Argos et al., 1982)
+R PMID:7151796
+A Argos, P., Rao, J.K.M. and Hargrave, P.A.
+T Structural prediction of membrane-bound proteins
+J Eur. J. Biochem. 128, 565-575 (1982)
+C ARGP820103    0.961  KYTJ820101    0.803  JURD980101    0.802
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.18    0.20    0.23    0.05    1.89    0.72    0.11    0.49    0.31    1.45
+    3.23    0.06    2.67    1.96    0.76    0.97    0.84    0.77    0.39    1.08
+//

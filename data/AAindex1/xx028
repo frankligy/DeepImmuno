@@ -1,0 +1,18 @@
+H CHAM830106
+D The number of bonds in the longest chain (Charton-Charton, 1983)
+R PMID:6876837
+A Charton, M. and Charton, B.
+T The dependence of the Chou-Fasman parameters on amino acid side chain 
+  structure
+J J. Theor. Biol. 111, 447-450 (1983) (Pro !)
+C LEVM760102    0.962  LEVM760105    0.958  FASG760101    0.943
+  CHOC760101    0.937  FAUJ880103    0.927  RADA880106    0.922
+  PONJ960101    0.917  CHOC750101    0.906  CHAM820101    0.899
+  TSAJ990102    0.896  HARY940101    0.894  GRAR740103    0.890
+  TSAJ990101    0.889  KRIW790103    0.876  CHAM830105    0.874
+  BIGC670101    0.870  GOLD730102    0.869  OOBM770102    0.858
+  FAUJ880106    0.845  FAUJ880104    0.817  RADA880103   -0.901
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+      0.      5.      2.      2.      1.      3.      3.      0.      3.      2.
+      2.      4.      3.      4.      0.      1.      1.      5.      5.      1.
+//

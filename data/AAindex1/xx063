@@ -1,0 +1,19 @@
+H DAYM780101
+D Amino acid composition (Dayhoff et al., 1978a)
+R 
+A Dayhoff, M.O., Hunt, L.T. and Hurst-Calderone, S.
+T Composition of proteins
+J In "Atlas of Protein Sequence and Structure", Vol.5, Suppl.3 (Dayhoff, M.O., 
+  ed.), National Biomedical Research Foundation, Washington, D.C., p.363 (1978)
+C JUNJ780101    0.986  JUKT750101    0.975  CEDJ970101    0.970
+  JOND920101    0.954  CEDJ970104    0.952  CEDJ970102    0.945
+  NAKH900101    0.940  KUMS000102    0.925  FUKS010110    0.897
+  NAKH900102    0.883  FUKS010111    0.882  NAKH920101    0.882
+  KUMS000101    0.866  NAKH920107    0.861  FUKS010112    0.856
+  NAKH920106    0.856  NAKH920103    0.851  CEDJ970105    0.839
+  NAKH920104    0.819  CEDJ970103    0.807  NAKH920102    0.802
+  FUKS010109    0.801
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     8.6     4.9     4.3     5.5     2.9     3.9     6.0     8.4     2.0     4.5
+     7.4     6.6     1.7     3.6     5.2     7.0     6.1     1.3     3.4     6.6
+//

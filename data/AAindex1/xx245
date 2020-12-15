@@ -1,0 +1,17 @@
+H PONP800106
+D Surrounding hydrophobicity in turn (Ponnuswamy et al., 1980)
+R PMID:7397216
+A Ponnuswamy, P.K., Prabhakaran, M. and Manavalan, P.
+T Hydrophobic packing and spatial arrangement of amino acid residues in 
+  globular proteins
+J Biochim. Biophys. Acta 623, 301-316 (1980)
+C PONP800102    0.883  PONP800103    0.883  PONP800101    0.871
+  CORJ870104    0.842  RADA880108    0.835  CORJ870107    0.834
+  CORJ870103    0.821  MANP780101    0.813  MIYS850101    0.812
+  CORJ870106    0.807  ROSG850102    0.807  MIYS990103   -0.807
+  KARP850102   -0.820  FASG890101   -0.823  GUYH850101   -0.826
+  KRIW710101   -0.841  CORJ870108   -0.859
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   10.67   11.05   10.85   10.21   14.15   11.71   11.71   10.95   12.07   12.95
+   13.07    9.93   15.00   13.27   10.62   11.18   10.53   11.41   11.52   13.86
+//

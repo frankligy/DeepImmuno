@@ -1,0 +1,12 @@
+H BURA740102
+D Normalized frequency of extended structure (Burgess et al., 1974)
+R
+A Burgess, A.W., Ponnuswamy, P.K. and Scheraga, H.A.
+T Analysis of conformations of amino acid residues and prediction of backbone 
+  topography in proteins
+J Isr. J. Chem. 12, 239-286 (1974)
+C ROBB760105    0.821
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.288   0.362   0.229   0.271   0.533   0.327   0.262   0.312   0.200   0.411
+   0.400   0.265   0.375   0.318   0.340   0.354   0.388   0.231   0.429   0.495
+//

@@ -1,0 +1,13 @@
+H GEOR030105
+D Linker propensity from small dataset (linker length is less than six 
+  residues) (George-Heringa, 2003)
+R PMID:12538906
+A George, R.A. and Heringa, J.
+T An analysis of protein domain linkers: their classification and role in 
+  protein folding
+J Protein Eng. 15, 871-879 (2003)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   1.065   1.131   0.762   0.836   1.015   0.861   0.736   1.022   0.973   1.189
+   1.192   0.478   1.369   1.368   1.241   1.097   0.822   1.017   0.836    1.14
+//

@@ -1,0 +1,18 @@
+H GRAR740103
+D Volume (Grantham, 1974)
+R PMID:4843792
+A Grantham, R.
+T Amino acid difference formula to help explain protein evolution
+J Science 185, 862-864 (1974)
+C KRIW790103    0.989  BIGC670101    0.984  GOLD730102    0.984
+  TSAJ990101    0.979  TSAJ990102    0.978  CHOC750101    0.973
+  FAUJ880103    0.959  CHAM820101    0.951  HARY940101    0.946
+  CHOC760101    0.945  PONJ960101    0.937  ROSG850101    0.922
+  RADA880106    0.920  FASG760101    0.908  LEVM760105    0.900
+  CHAM830106    0.890  LEVM760102    0.885  ZHOH040102    0.872
+  DAWD720101    0.853  LEVM760106    0.846  LEVM760107    0.841
+  FAUJ880106    0.819  MCMT640101    0.817  RADA880103   -0.881
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     31.    124.     56.     54.     55.     85.     83.      3.     96.    111.
+    111.    119.    105.    132.    32.5     32.     61.    170.    136.     84.
+//

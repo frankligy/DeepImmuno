@@ -1,0 +1,12 @@
+H RACS820103
+D Average relative fractional occurrence in AL(i) (Rackovsky-Scheraga, 1982)
+R
+A Rackovsky, S. and Scheraga, H.A.
+T Differential geometry and polymer conformation. 4. Conformational and 
+  nucleation properties of individual amino acids
+J Macromolecules 15, 1340-1346 (1982)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.82    2.60    2.07    2.64    0.00    0.00    2.62    1.63    0.00    2.32
+    0.00    2.86    0.00    0.00    0.00    1.23    2.48    0.00    1.90    1.62
+//

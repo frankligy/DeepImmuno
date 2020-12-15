@@ -1,0 +1,22 @@
+H SUEM840101
+D Zimm-Bragg parameter s at 20 C (Sueki et al., 1984)
+R
+A Sueki, M., Lee, S., Powers, S.P., Denton, J.B., Konishi, Y. and Scheraga, 
+  H.A.
+T Helix-coil stability constants for the naturally occurring amino acids in 
+  water. 22. Histidine parameters from random 
+  poly{(hydroxybutyl)glutamine-co-L-histidine}
+J Macromolecules 17, 148-155 (1984) Charged state for Arg, His, Asp, and Glu 
+  (Cys Pro 0.100)
+C AURR980113    0.887  FINA770101    0.883  AURR980109    0.882
+  PTIO830101    0.877  AURR980114    0.845  KANM800103    0.820
+  QIAN880107    0.803  QIAN880131   -0.823  PALJ810106   -0.832
+  CHOP780101   -0.845  ISOY800103   -0.850  LEVM780103   -0.864
+  TANS770110   -0.864  PRAM900104   -0.865  CHOP780216   -0.874
+  GEIM800108   -0.875  LEVM780106   -0.878  QIAN880133   -0.879
+  QIAN880132   -0.880  GEIM800111   -0.885  CHAM830101   -0.891
+  CHOP780203   -0.892
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   1.071   1.033   0.784   0.680   0.922   0.977   0.970   0.591   0.850   1.140
+   1.140   0.939   1.200   1.086   0.659   0.760   0.817   1.107   1.020   0.950
+//

@@ -1,0 +1,15 @@
+H ZASB820101
+D Dependence of partition coefficient on ionic strength (Zaslavsky et al., 
+  1982)
+R
+A Zaslavsky, B.Yu, Mestechkina, N.M., Miheeva, L.M. and Rogozhin, S.V.
+T Measurement of relative hydrophobicity of amino acid side-chains by partition 
+  in an aqueous two-phase polymeric system: Hydrophobicity scale for non-polar 
+  and ionogenic side-chains
+J J. Chromatogr. 240, 21-28 (1982) (C H Y missing?)
+C WIMW960101    0.885  CIDH920102    0.809  SNEP660103    0.804
+  OOBM850102   -0.853
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  -0.152  -0.089  -0.203  -0.355      0.  -0.181  -0.411  -0.190      0.  -0.086
+  -0.102  -0.062  -0.107   0.001  -0.181  -0.203  -0.170   0.275      0.  -0.125
+//

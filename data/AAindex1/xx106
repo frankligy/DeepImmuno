@@ -1,0 +1,20 @@
+H GEIM800111
+D Aperiodic indices for alpha/beta-proteins (Geisow-Roberts, 1980)
+R
+A Geisow, M.J. and Roberts, R.D.B.
+T Amino acid preferences for secondary structure vary with protein class
+J Int. J. Biol. Macromol. 2, 387-389 (1980)
+C GEIM800108    0.967  CHOP780216    0.955  PRAM900104    0.954
+  LEVM780103    0.952  LEVM780106    0.951  QIAN880133    0.943
+  CHAM830101    0.938  CHOP780203    0.933  ISOY800103    0.929
+  QIAN880132    0.929  QIAN880134    0.919  QIAN880135    0.895
+  TANS770110    0.883  CHOP780101    0.878  CHOP780210    0.867
+  QIAN880131    0.857  GEIM800110    0.857  PALJ810105    0.855
+  PALJ810106    0.844  LIFS790101   -0.801  AVBF000101   -0.806
+  KANM800103   -0.812  AURR980109   -0.814  QIAN880120   -0.816
+  ROBB760103   -0.843  FAUJ880102   -0.873  PTIO830101   -0.876
+  SUEM840101   -0.885
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.93    1.01    1.36    1.22    0.92    0.83    1.05    1.45    0.96    0.58
+    0.59    0.91    0.60    0.71    1.67    1.25    1.08    0.68    0.98    0.62
+//

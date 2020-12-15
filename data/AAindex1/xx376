@@ -1,0 +1,12 @@
+H VASM830102
+D Relative population of conformational state C (Vasquez et al., 1983)
+R
+A Vasquez, M., Nemethy, G. and Scheraga, H.A.
+T Computed conformational states of the 20 naturally occurring amino acid 
+  residues and of the prototype residue alpha-aminobutyric acid
+J Macromolecules 16, 1043-1049 (1983)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.507   0.459   0.287   0.223   0.592   0.383   0.445   0.390   0.310   0.111
+   0.619   0.559   0.431   0.077   0.739   0.689   0.785   0.160   0.060   0.356
+//

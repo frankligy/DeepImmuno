@@ -1,0 +1,11 @@
+H LEWP710101
+D Frequency of occurrence in beta-bends (Lewis et al., 1971)
+R PMID:5289387
+A Lewis, P. N., Momany, F.A. and Scheraga, H.A.
+T Folding of polypeptide chains in proteins: A proposed mechanism for folding
+J Proc. Natl. Acad. Sci. USA 68, 2293-2297 (1971)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.22    0.28    0.42    0.73    0.20    0.26    0.08    0.58    0.14    0.22
+    0.19    0.27    0.38    0.08    0.46    0.55    0.49    0.43    0.46    0.08
+//

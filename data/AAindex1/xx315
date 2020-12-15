@@ -1,0 +1,20 @@
+H RADA880103
+D Transfer free energy from vap to chx (Radzicka-Wolfenden, 1988)
+R
+A Radzicka, A. and Wolfenden, R.
+T Comparing the polarities of the amino acids: Side-chain distribution 
+  coefficients between the vapor phase, cyclohexane, 1-octanol, and neutral 
+  aqueous solution
+J Biochemistry 27, 1664-1670 (1988) (Pro missing)
+C FAUJ880104   -0.806  CHAM830105   -0.808  HUTJ700102   -0.812
+  ROSG850101   -0.814  FAUJ880106   -0.823  MCMT640101   -0.833
+  HARY940101   -0.840  GOLD730102   -0.864  BIGC670101   -0.865
+  KRIW790103   -0.871  PONJ960101   -0.873  TSAJ990101   -0.875
+  TSAJ990102   -0.879  GRAR740103   -0.881  CHOC750101   -0.892
+  LEVM760105   -0.893  RADA880106   -0.895  CHAM830106   -0.901
+  CHAM820101   -0.912  LEVM760102   -0.913  FAUJ880103   -0.923
+  CHOC760101   -0.924  FASG760101   -0.954
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.13     -5.   -3.04   -2.23   -2.52   -3.84   -3.43    1.45   -5.61   -2.77
+   -2.64   -3.97   -3.83   -3.74      0.   -1.66   -2.31   -8.21   -5.97   -2.05
+//

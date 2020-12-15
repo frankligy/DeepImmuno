@@ -1,0 +1,12 @@
+H OOBM850102
+D Optimized propensity to form reverse turn (Oobatake et al., 1985)
+R
+A Oobatake, M., Kubota, Y. and Ooi, T.
+T Optimization of amino acid parameters for correspondence of sequence to 
+  tertiary structures of proteuins
+J Bull. Inst. Chem. Res., Kyoto Univ. 63, 82-94 (1985)
+C ZASB820101   -0.853  GARJ730101   -0.877
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.34    0.95    2.49    3.32    1.07    1.49    2.20    2.07    1.27    0.66
+    0.54    0.61    0.70    0.80    2.12    0.94    1.09   -4.65   -0.17    1.32
+//

@@ -1,0 +1,15 @@
+H NADH010106
+D Hydropathy scale based on self-information values in the two-state model (36% 
+  accessibility) (Naderi-Manesh et al., 2001)
+R PMID:11170200
+A Naderi-Manesh, H., Sadeghi, M., Arab, S. and Moosavi Movahedi, A.A.
+T Prediction of protein surface accessibility with information theory
+J Proteins 42, 452-459 (2001)
+C NADH010105    0.958  NADH010104    0.914  NADH010103    0.881
+  ZHOH040103    0.819  NADH010107    0.811  BAEK050101    0.809
+  NADH010102    0.808  PONP800103    0.803  VINM940103   -0.813
+  KRIW710101   -0.846  KRIW790101   -0.861
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+       5     -57     -77      45     224     -67      -8     -47     -50      83
+      82     -38      83     117    -103     -41      79     130      27     117
+//

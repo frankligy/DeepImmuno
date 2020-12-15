@@ -1,0 +1,13 @@
+H MAXF760105
+D Normalized frequency of zeta L (Maxfield-Scheraga, 1976)
+R PMID:990270
+A Maxfield, F.R. and Scheraga, H.A.
+T Status of empirical methods for the prediction of protein backbone topography
+J Biochemistry 15, 5138-5153 (1976) Recalculated by Kidera using a different 
+  set of proteins Reported values normalized by the total number
+C TANS770109    0.878  MAXF760104    0.850  ISOY800108    0.810
+  RICJ880115    0.802
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.13    0.48    1.11    1.18    0.38    0.41    1.02    3.84    0.30    0.40
+    0.65    1.13    0.00    0.45    0.00    0.81    0.71    0.93    0.38    0.48
+//

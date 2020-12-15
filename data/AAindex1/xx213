@@ -1,0 +1,13 @@
+H OOBM770102
+D Short and medium range non-bonded energy per atom (Oobatake-Ooi, 1977)
+R PMID:904331
+A Oobatake, M. and Ooi, T.
+T An analysis of non-bonded energy of proteins
+J J. Theor. Biol. 67, 567-584 (1977) Last two calcualted by Kidera; multiplied 
+  by the number of heavy atoms
+C LEVM760102    0.869  LEVM760105    0.868  CHAM830106    0.858
+  CHOC760101    0.824  FASG760101    0.821  FAUJ880103    0.801
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  -1.404  -0.921  -1.178  -1.162  -1.365  -1.116  -1.163  -1.364  -1.215  -1.189
+  -1.315  -1.074  -1.303  -1.135  -1.236  -1.297  -1.252  -1.030  -1.030  -1.254
+//

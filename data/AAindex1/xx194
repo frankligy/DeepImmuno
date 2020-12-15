@@ -1,0 +1,14 @@
+H NAKH900107
+D AA composition of mt-proteins from fungi and plant (Nakashima et al., 1990)
+R PMID:2235995
+A Nakashima, H., Nishikawa, K. and Ooi, T.
+T Distinct character in hydrophobicity of amino acid composition of 
+  mitochondrial proteins
+J Proteins 8, 173-178 (1990)
+C NAKH900103    0.927  NAKH900105    0.870  NAKH900112    0.850
+  FUKS010108    0.830  CEDJ970103    0.820  NAKH920108    0.816
+  NAKH920105    0.814
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    5.39    2.81    7.31    3.07    0.86    2.31    2.70    6.52    2.23    9.94
+   12.64    4.67    3.68    6.34    3.62    7.24    5.44    1.64    5.42    6.18
+//

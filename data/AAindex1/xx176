@@ -1,0 +1,15 @@
+H MCMT640101
+D Refractivity (McMeekin et al., 1964), Cited by Jones (1975)
+R 
+A McMeekin, T.L., Groves, M.L. and Hipp, N.J.
+T 
+J In "Amino Acids and Serum Proteins" (Stekol, J.A., ed.), American Chemical 
+  Society, Washington, D.C., p. 54 (1964)
+C CHAM820101    0.871  ROSG850101    0.857  FAUJ880103    0.847
+  FASG760101    0.845  CHOC750101    0.822  GRAR740103    0.817
+  BIGC670101    0.814  GOLD730102    0.814  KRIW790103    0.810
+  CHOC760101    0.809  FUKS010111   -0.806  RADA880103   -0.833
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    4.34   26.66   13.28   12.00   35.77   17.56   17.26    0.00   21.81   19.06
+   18.78   21.29   21.64   29.40   10.93    6.35   11.01   42.53   31.53   13.92
+//

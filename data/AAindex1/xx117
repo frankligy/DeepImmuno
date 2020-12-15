@@ -1,0 +1,14 @@
+H HUTJ700103
+D Entropy of formation (Hutchens, 1970)
+R 
+A Hutchens, J.O.
+T Heat capacities, absolute entropies, and entropies of formation of amino 
+  acids and related compounds
+J In "Handbook of Biochemistry", 2nd ed. (Sober, H.A., ed.), Chemical Rubber 
+  Co., Cleveland, Ohio, pp. B60-B61 (1970)
+C HUTJ700102    0.867  EISD860102    0.841  FAUJ880104    0.839
+  LEVM760105    0.834
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  154.33  341.01  207.90  194.91  219.79  235.51  223.16  127.90  242.54  233.21
+  232.30  300.46  202.65  204.74  179.93  174.06  205.80  237.01  229.15  207.60
+//

@@ -1,0 +1,22 @@
+H QIAN880134
+D Weights for coil at the window position of 1 (Qian-Sejnowski, 1988)
+R PMID:3172241
+A Qian, N. and Sejnowski, T.J.
+T Predicting the secondary structure of globular proteins using neural network 
+  models
+J J. Mol. Biol. 202, 865-884 (1988)
+C QIAN880135    0.961  QIAN880133    0.938  LEVM780103    0.935
+  PRAM900104    0.934  LEVM780106    0.932  GEIM800111    0.919
+  QIAN880132    0.909  CHOP780216    0.900  MUNV940105    0.899
+  MUNV940104    0.897  ISOY800104    0.893  GEIM800108    0.884
+  CHOP780213    0.870  MUNV940103    0.858  GEIM800110    0.853
+  CHAM830101    0.841  CHOP780203    0.838  TANS770104    0.837
+  QIAN880131    0.832  ISOY800103    0.828  ROBB760104   -0.802
+  LIFS790101   -0.804  AVBF000101   -0.822  BLAM930101   -0.836
+  QIAN880121   -0.838  QIAN880109   -0.841  QIAN880120   -0.842
+  QIAN880108   -0.845  FAUJ880102   -0.852  ROBB760103   -0.855
+  PTIO830101   -0.920
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -0.24   -0.04    0.45    0.65   -0.38    0.01    0.07    0.85   -0.21   -0.65
+   -0.80    0.17   -0.71   -0.61    2.27    0.33    0.13   -0.44   -0.49   -0.99
+//

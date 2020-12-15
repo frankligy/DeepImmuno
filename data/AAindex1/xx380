@@ -1,0 +1,18 @@
+H VHEG790101
+D Transfer free energy to lipophilic phase (von Heijne-Blomberg, 1979)
+R PMID:477664
+A von Heijne, G. and Blomberg, C.
+T Trans-membrane translocation of proteins: The direct transfer model
+J Eur. J. Biochem. 97, 175-181 (1979)
+C ENGD860101    0.909  PRAM900101    0.909  ROSM880101    0.883
+  PUNT030101    0.876  PUNT030102    0.873  KUHL950101    0.858
+  HOPT810101    0.849  GUYH850105    0.845  ROSM880102    0.828
+  LEVM760101    0.825  JURD980101   -0.814  RADA880102   -0.818
+  NADH010101   -0.827  WOLR790101   -0.844  BLAS910101   -0.847
+  NAKH900110   -0.848  EISD860101   -0.862  WOLR810101   -0.867
+  ROSM880105   -0.901  JACR890101   -0.903  EISD840101   -0.924
+  RADA880101   -0.925
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  -12.04   39.23    4.25   23.22    3.95    2.16   16.81   -7.85    6.28  -18.32
+  -17.79    9.71   -8.86  -21.98    5.82   -1.54   -4.15  -16.19   -1.51  -16.22
+//

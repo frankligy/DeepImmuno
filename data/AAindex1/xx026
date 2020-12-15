@@ -1,0 +1,12 @@
+H CHAM830104
+D The number of atoms in the side chain labelled 2+1 (Charton-Charton, 1983)
+R PMID:
+A Charton, M. and Charton, B.
+T The dependence of the Chou-Fasman parameters on amino acid side chain 
+  structure
+J J. Theor. Biol. 111, 447-450 (1983) (Pro !)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+      0.      1.      1.      1.      0.      1.      1.      0.      1.      1.
+      2.      1.      1.      1.      0.      0.      0.      1.      1.      0.
+//

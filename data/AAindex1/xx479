@@ -1,0 +1,13 @@
+H AVBF000108
+D Slopes dekapeptide, FDPB VFF neutral (Avbelj, 2000)
+R PMID:10903873
+A Avbelj, F.
+T Amino acid conformational preferences and solvation of polar backbone atoms 
+  in peptides and proteins
+J J. Mol. Biol. 300, 1335-1359 (2000) (Pro missing)
+C AVBF000103    0.868  AVBF000107    0.832  AVBF000104    0.819
+  AVBF000105    0.816  FAUJ880107    0.802
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  -0.623  -0.567  -0.619  -0.626  -0.571  -0.559  -0.572  -0.679  -0.508  -0.199
+  -0.527  -0.581  -0.571  -0.461      NA  -0.458  -0.233  -0.327  -0.451  -0.263
+//

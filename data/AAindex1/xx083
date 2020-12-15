@@ -1,0 +1,14 @@
+H FAUJ880107
+D N.m.r. chemical shift of alpha-carbon (Fauchere et al., 1988)
+R PMID:3209351
+A Fauchere, J.L., Charton, M., Kier, L.B., Verloop, A. and Pliska, V.
+T Amino acid side chain parameters for correlation studies in biology and 
+  pharmacology
+J Int. J. Peptide Protein Res. 32, 269-278 (1988) Original reference: Fauchere, 
+  J.L. and Lauterwein, J. Quant. Struct. Act. Rel. 4, 11-13 (1985)
+C AVBF000105    0.931  AVBF000107    0.884  AVBF000103    0.873
+  AVBF000106    0.853  AVBF000108    0.802
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     7.3    11.1     8.0     9.2    14.4    10.6    11.4     0.0    10.2    16.1
+    10.1    10.9    10.4    13.9    17.8    13.1    16.7    13.2    13.9    17.2
+//

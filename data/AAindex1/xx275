@@ -1,0 +1,23 @@
+H QIAN880119
+D Weights for beta-sheet at the window position of -1 (Qian-Sejnowski, 1988)
+R PMID:3172241
+A Qian, N. and Sejnowski, T.J.
+T Predicting the secondary structure of globular proteins using neural network 
+  models
+J J. Mol. Biol. 202, 865-884 (1988)
+C QIAN880120    0.959  LIFS790101    0.929  LEVM780105    0.903
+  ROBB760106    0.897  KANM800102    0.888  LIFS790103    0.877
+  PTIO830102    0.865  QIAN880121    0.862  PALJ810103    0.861
+  ROBB760105    0.859  AVBF000101    0.859  CHOP780202    0.855
+  KANM800104    0.841  PONP930101    0.836  PRAM900103    0.834
+  LEVM780102    0.834  GEIM800105    0.829  OOBM850101    0.825
+  PALJ810110    0.824  PALJ810104    0.822  QIAN880118    0.812
+  BEGF750102    0.811  CORJ870105    0.810  GEIM800107    0.807
+  CHOP780208    0.807  BASU050101    0.805  CORJ870106    0.803
+  LEVM780106   -0.810  GEIM800108   -0.810  CHOP780203   -0.814
+  QIAN880131   -0.830  QIAN880133   -0.849  GEIM800110   -0.853
+  QIAN880132   -0.858  MUNV940103   -0.927
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -0.10    0.19   -0.89   -0.89    0.13   -0.04   -0.34   -0.45   -0.34    0.95
+    0.32   -0.46    0.43    0.36   -0.91   -0.12    0.49    0.34    0.42    0.76
+//

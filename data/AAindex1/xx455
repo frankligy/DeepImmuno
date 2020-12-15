@@ -1,0 +1,18 @@
+H CEDJ970101
+D Composition of amino acids in extracellular proteins (percent) (Cedano et 
+  al., 1997)
+R PMID:9067612
+A Cedano, J., Aloy, P., Perez-Pons, J.A. and Querol, E.
+T Relation between amino acid composition and cellular location of proteins
+J J. Mol. Biol. 266, 594-600 (1997)
+C JUKT750101    0.973  DAYM780101    0.970  JOND920101    0.968
+  JUNJ780101    0.968  CEDJ970102    0.965  NAKH900101    0.954
+  CEDJ970104    0.944  KUMS000102    0.914  FUKS010110    0.889
+  CEDJ970103    0.889  FUKS010112    0.882  FUKS010111    0.878
+  NAKH900109    0.861  NAKH920107    0.860  NAKH920104    0.859
+  NAKH920101    0.850  NAKH920103    0.843  NAKH900102    0.832
+  KUMS000101    0.830  NAKH920106    0.826
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     8.6     4.2     4.6     4.9     2.9     4.0     5.1     7.8     2.1     4.6
+     8.8     6.3     2.5     3.7     4.9     7.3     6.0     1.4     3.6     6.7
+//

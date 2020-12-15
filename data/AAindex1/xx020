@@ -1,0 +1,11 @@
+H CHAM810101
+D Steric parameter (Charton, 1981)
+R PMID:7300379
+A Charton, M.
+T Protein folding and the genetic code: An alternative quantitative model
+J J. Theor. Biol. 91, 115-123 (1981) (Pro !)
+C FAUJ880102    0.881  LEVM760104   -0.818  KIMC930101   -0.848
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.52    0.68    0.76    0.76    0.62    0.68    0.68    0.00    0.70    1.02
+    0.98    0.68    0.78    0.70    0.36    0.53    0.50    0.70    0.70    0.76
+//

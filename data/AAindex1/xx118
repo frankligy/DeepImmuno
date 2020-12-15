@@ -1,0 +1,23 @@
+H ISOY800101
+D Normalized relative frequency of alpha-helix (Isogai et al., 1980)
+R PMID:7378550
+A Isogai, Y., Nemethy, G., Rackovsky, S., Leach, S.J. and Scheraga,H.A
+T Characterization of multiple bends in proteins
+J Biopolymers 19, 1183-1210 (1980) Recalculated by Kidera using a different set 
+  of proteins
+C MAXF760101    0.982  PALJ810102    0.965  KANM800101    0.963
+  CHOP780201    0.959  ROBB760101    0.957  KANM800103    0.931
+  LEVM780101    0.929  PRAM900102    0.929  TANS770101    0.906
+  LEVM780104    0.904  RACS820108    0.904  QIAN880106    0.903
+  GEIM800101    0.903  AURR980109    0.894  GEIM800104    0.891
+  QIAN880107    0.887  PALJ810101    0.882  PALJ810109    0.874
+  AURR980112    0.870  NAGK730101    0.862  AURR980114    0.857
+  AURR980108    0.856  AURR980110    0.855  AURR980115    0.844
+  ROBB760103    0.841  CRAJ730101    0.840  BURA740101    0.839
+  QIAN880105    0.828  AURR980113    0.815  AURR980111    0.801
+  CHAM830101   -0.815  NAGK730103   -0.821  MUNV940101   -0.875
+  MUNV940102   -0.877
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.53    1.17    0.60    1.00    0.89    1.27    1.63    0.44    1.03    1.07
+    1.32    1.26    1.66    1.22    0.25    0.65    0.86    1.05    0.70    0.93
+//

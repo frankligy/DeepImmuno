@@ -1,0 +1,18 @@
+H ONEK900102
+D Helix formation parameters (delta delta G) (O'Neil-DeGrado, 1990)
+R PMID:2237415
+A O'Neil, K.T. and DeGrado, W.F.
+T A thermodynamic scale for the helix-forming tendencies of the commonly 
+  occurring amino acids
+J Science 250, 646-651 (1990)
+C FINA910102    0.964  AVBF000104    0.919  GEOR030109    0.908
+  MUNV940105    0.876  MUNV940101    0.861  MUNV940102    0.860
+  RACS820114    0.855  MUNV940104    0.845  ISOY800104    0.828
+  TANS770104    0.826  QIAN880109   -0.800  PTIO830101   -0.830
+  FAUJ880113   -0.839  QIAN880108   -0.860  ROBB760104   -0.861
+  ROBB760103   -0.867  BUNA790101   -0.949  BLAM930101   -0.974
+  ONEK900101   -0.982
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -0.77   -0.68   -0.07   -0.15   -0.23   -0.33   -0.27    0.00   -0.06   -0.23
+   -0.62   -0.65   -0.50   -0.41       3   -0.35   -0.11   -0.45   -0.17   -0.14
+//

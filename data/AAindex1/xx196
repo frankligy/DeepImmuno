@@ -1,0 +1,17 @@
+H NAKH900109
+D AA composition of membrane proteins (Nakashima et al., 1990)
+R PMID:2235995
+A Nakashima, H., Nishikawa, K. and Ooi, T.
+T Distinct character in hydrophobicity of amino acid composition of 
+  mitochondrial proteins
+J Proteins 8, 173-178 (1990)
+C CEDJ970103    0.970  FUKS010106    0.927  FUKS010107    0.903
+  FUKS010105    0.892  NAKH900111    0.890  JOND920101    0.878
+  FUKS010108    0.872  NAKH900101    0.866  CEDJ970102    0.865
+  CEDJ970101    0.861  FUKS010110    0.853  KUMS000102    0.837
+  NAKH920105    0.823  CEDJ970104    0.821  JUKT750101    0.815
+  NAKH920108    0.811
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    9.25    3.96    3.71    3.89    1.07    3.17    4.80    8.51    1.88    6.47
+   10.94    3.50    3.14    6.36    4.36    6.26    5.66    2.22    3.28    7.55
+//

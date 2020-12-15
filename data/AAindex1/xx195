@@ -1,0 +1,12 @@
+H NAKH900108
+D Normalized composition from fungi and plant (Nakashima et al., 1990)
+R PMID:2235995
+A Nakashima, H., Nishikawa, K. and Ooi, T.
+T Distinct character in hydrophobicity of amino acid composition of 
+  mitochondrial proteins
+J Proteins 8, 173-178 (1990)
+C NAKH900104    0.849
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -0.70   -0.91    1.28   -0.93   -0.41   -0.71   -1.13   -0.12    0.04    1.77
+    1.02   -0.40    0.86    1.29   -0.42    0.14   -0.13    0.26    1.29   -0.19
+//

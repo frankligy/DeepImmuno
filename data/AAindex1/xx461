@@ -1,0 +1,19 @@
+H FUKS010102
+D Surface composition of amino acids in intracellular proteins of mesophiles 
+  (percent) (Fukuchi-Nishikawa, 2001)
+R PMID:11399062
+A Fukuchi, S. and Nishikawa, K.
+T Protein surface amino acid compositions distinctively differ between 
+  thermophilic and mesophilic bacteria
+J J. Mol. Biol. 309, 835-843 (2001)
+C FUKS010104    0.938  FUKS010101    0.932  VINM940101    0.876
+  PARS000102    0.868  HOPT810101    0.854  LEVM760101    0.837
+  WOEC730101    0.820  MIYS990104    0.818  MIYS990105    0.813
+  VINM940103    0.809  VINM940102    0.808  MIYS990103    0.803
+  WERD780101   -0.801  FAUJ830101   -0.805  WIMW960101   -0.808
+  BIOV880102   -0.810  RADA880108   -0.815  BIOV880101   -0.820
+  CASG920101   -0.831
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    6.77    6.87    5.50    8.57    0.31    5.24   12.93    7.95    2.80    2.72
+    4.43   10.20    1.87    1.92    4.79    5.41    5.36    0.54    2.26    3.57
+//

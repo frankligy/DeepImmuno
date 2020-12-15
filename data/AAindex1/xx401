@@ -1,0 +1,19 @@
+H ZIMJ680105
+D RF rank (Zimmerman et al., 1968)
+R PMID:5700434
+A Zimmerman, J.M., Eliezer, N. and Simha, R.
+T The characterization of amino acid sequences in proteins by statistical 
+  methods
+J J. Theor. Biol. 21, 170-201 (1968)
+C MEEJ800102    0.921  EISD860101    0.900  BROC820101    0.896
+  PLIV810101    0.875  BROC820102    0.865  ROSM880105    0.857
+  TAKK010101    0.856  BLAS910101    0.855  RADA880102    0.851
+  GUOD860101    0.850  MEEJ800101    0.842  NOZY710101    0.837
+  SWER830101    0.829  CORJ870102    0.828  GOLD730101    0.820
+  FAUJ830101    0.816  LAWE840101    0.809  SIMZ760101    0.805
+  MIYS990101   -0.801  HOPT810101   -0.816  LEVM760101   -0.844
+  BULH740101   -0.879  PARJ860101   -0.886  WOLS870101   -0.937
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     9.9     4.6     5.4     2.8     2.8     9.0     3.2     5.6     8.2    17.1
+    17.6     3.5    14.9    18.8    14.8     6.9     9.5    17.1    15.0    14.3
+//

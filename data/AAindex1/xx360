@@ -1,0 +1,11 @@
+H SNEP660103
+D Principal component III (Sneath, 1966)
+R PMID:4291386
+A Sneath, P.H.A.
+T Relations between chemical structure and biological activity in peptides
+J J. Theor. Biol. 12, 157-195 (1966)
+C LEVM760107    0.818  CHAM820101    0.808  ZASB820101    0.804
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  -0.110   0.079  -0.136  -0.285  -0.184  -0.067  -0.246  -0.073   0.320   0.001
+  -0.008   0.049  -0.041   0.438  -0.016  -0.153  -0.208   0.493   0.381  -0.155
+//

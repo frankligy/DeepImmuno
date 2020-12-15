@@ -1,0 +1,19 @@
+H FUKS010110
+D Entire chain composition of amino acids in intracellular proteins of 
+  mesophiles (percent) (Fukuchi-Nishikawa, 2001)
+R PMID:11399062
+A Fukuchi, S. and Nishikawa, K.
+T Protein surface amino acid compositions distinctively differ between 
+  thermophilic and mesophilic bacteria
+J J. Mol. Biol. 309, 835-843 (2001)
+C CEDJ970104    0.956  KUMS000101    0.947  NAKH900101    0.946
+  JOND920101    0.944  KUMS000102    0.943  FUKS010109    0.936
+  CEDJ970102    0.921  JUKT750101    0.908  FUKS010112    0.904
+  DAYM780101    0.897  CEDJ970101    0.889  JUNJ780101    0.868
+  KUMS000104    0.861  NAKH900109    0.853  CEDJ970103    0.848
+  NAKH920101    0.833  KUMS000103    0.827  NAKH920106    0.824
+  NAKH920107    0.810
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    9.07    4.90    4.05    5.73    0.95    3.63    7.77    7.69    2.47    6.56
+    9.00    6.01    2.54    3.59    4.04    5.15    5.46    0.95    2.96    7.47
+//

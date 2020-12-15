@@ -1,0 +1,19 @@
+H AVBF000101
+D Screening coefficients gamma, local (Avbelj, 2000)
+R PMID:10903873
+A Avbelj, F.
+T Amino acid conformational preferences and solvation of polar backbone atoms 
+  in peptides and proteins
+J J. Mol. Biol. 300, 1335-1359 (2000) (Pro missing)
+C QIAN880120    0.876  PTIO830102    0.861  KANM800102    0.859
+  QIAN880119    0.859  LIFS790101    0.857  QIAN880121    0.855
+  CHAM830103    0.843  ROBB760106    0.834  LEVM780105    0.824
+  PALJ810104    0.818  PALJ810110    0.816  PRAM900103    0.815
+  LEVM780102    0.815  LIFS790103    0.814  AVBF000102    0.805
+  LEVM780106   -0.805  GEIM800111   -0.806  QIAN880133   -0.807
+  QIAN880132   -0.809  KIMC930101   -0.814  MUNV940104   -0.821
+  QIAN880134   -0.822  GEIM800110   -0.825  MUNV940103   -0.917
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.163   0.220   0.124   0.212   0.316   0.274   0.212   0.080   0.315   0.474
+   0.315   0.255   0.356   0.410      NA   0.290   0.412   0.325   0.354   0.515
+//

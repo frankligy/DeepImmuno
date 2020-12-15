@@ -1,0 +1,16 @@
+H MUNV940105
+D Free energy in beta-strand region (Munoz-Serrano, 1994)
+R PMID:7731949
+A Munoz, V. and Serrano, L.
+T Intrinsic secondary structure propensities of the amino acids, using 
+  statistical phi-psi matrices: comparison with experimental scales
+J Proteins 20, 301-311 (1994)
+C MUNV940104    0.987  FINA910102    0.911  QIAN880134    0.899
+  ONEK900102    0.876  TANS770104    0.846  ISOY800104    0.844
+  RACS820110    0.833  QIAN880135    0.829  CHOP780213    0.826
+  PTIO830101   -0.833  ONEK900101   -0.839  ROBB760104   -0.859
+  BUNA790101   -0.874  BLAM930101   -0.925
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.40    1.23    1.61    1.89    1.14    1.33    1.42    2.06    1.25    1.02
+    1.33    1.34    1.12    1.07    3.90    1.20    0.99    1.10    0.98    0.87
+//

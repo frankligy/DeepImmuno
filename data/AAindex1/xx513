@@ -1,0 +1,18 @@
+H HARY940101
+D Mean volumes of residues buried in protein interiors (Harpaz et al., 1994)
+R PMID: 7922041
+A Harpaz, Y., Gerstein, M. and Chothia, C.
+T Volume changes on protein folding
+J Structure 2, 641-649 (1994) (Disulfide bonded cysteine, 103.5)
+C PONJ960101    0.989  TSAJ990102    0.965  TSAJ990101    0.964
+  CHOC750101    0.961  BIGC670101    0.960  GOLD730102    0.959
+  KRIW790103    0.956  FAUJ880103    0.951  CHOC760101    0.946
+  GRAR740103    0.946  CHAM820101    0.933  LEVM760105    0.919
+  FASG760101    0.910  FAUJ880106    0.909  LEVM760102    0.905
+  DAWD720101    0.900  CHAM830106    0.894  ROSG850101    0.869
+  RADA880106    0.846  ZHOH040102    0.830  LEVM760106    0.829
+  LEVM760107    0.815  RADA880103   -0.840
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    90.1   192.8   127.5   117.1   113.2   149.4   140.8    63.8   159.3   164.9
+   164.6   170.0   167.7   193.5   123.1    94.2   120.0   197.1   231.7   139.1
+//

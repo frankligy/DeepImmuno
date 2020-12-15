@@ -1,0 +1,23 @@
+H CHOP780201
+D Normalized frequency of alpha-helix (Chou-Fasman, 1978b)
+R PMID:364941
+A Chou, P.Y. and Fasman, G.D.
+T Prediction of the secondary structure of proteins from their amino acid 
+  sequence
+J Adv. Enzymol. 47, 45-148 (1978)
+C PALJ810102    0.981  ROBB760101    0.969  ISOY800101    0.959
+  MAXF760101    0.956  KANM800101    0.956  TANS770101    0.947
+  BURA740101    0.917  GEIM800101    0.912  KANM800103    0.912
+  NAGK730101    0.886  LEVM780104    0.886  PALJ810101    0.881
+  QIAN880106    0.874  PRAM900102    0.873  LEVM780101    0.873
+  GEIM800104    0.868  RACS820108    0.868  AURR980108    0.867
+  AURR980109    0.859  AURR980112    0.856  CRAJ730101    0.851
+  QIAN880107    0.843  BEGF750101    0.841  QIAN880105    0.835
+  AURR980114    0.828  AURR980115    0.816  AURR980110    0.814
+  PALJ810109    0.814  AURR980111    0.813  ROBB760103    0.806
+  MUNV940101   -0.802  CRAJ730103   -0.808  ROBB760113   -0.811
+  MUNV940102   -0.812  CHAM830101   -0.828  NAGK730103   -0.837
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.42    0.98    0.67    1.01    0.70    1.11    1.51    0.57    1.00    1.08
+    1.21    1.16    1.45    1.13    0.57    0.77    0.83    1.08    0.69    1.06
+//

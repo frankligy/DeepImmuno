@@ -1,0 +1,26 @@
+H RACS770103
+D Side chain orientational preference (Rackovsky-Scheraga, 1977)
+R PMID:271950
+A Rackovsky, S. and Scheraga, H.A.
+T Hydrophobicity, hydrophilicity, and the radial and orientational 
+  distributions of residues in native proteins
+J Proc. Natl. Acad. Sci. USA 74, 5248-5251 (1977) (Gly !) (Ratio of the numbers 
+  of occurrences in two orientations)
+C MEIH800102    0.903  RACS770102    0.889  KRIW790102    0.889
+  OOBM770101    0.871  MIYS990105    0.852  JANJ780103    0.847
+  FASG890101    0.842  MIYS990103    0.840  GUYH850104    0.839
+  MEIH800101    0.837  MIYS990104    0.833  VINM940101    0.830
+  PUNT030101    0.830  OOBM770103    0.823  GUYH850102    0.821
+  GUYH850101    0.816  VINM940104    0.804  RACS770101    0.801
+  CORJ870107   -0.808  PONP800102   -0.809  MIYS850101   -0.818
+  PONP800103   -0.819  CORJ870103   -0.827  JANJ780102   -0.828
+  NADH010104   -0.832  CORJ870101   -0.832  JANJ790102   -0.834
+  DESM900101   -0.837  NISK860101   -0.837  WERD780101   -0.846
+  CASG920101   -0.846  WARP780101   -0.848  NADH010103   -0.851
+  BIOV880101   -0.856  RADA880108   -0.863  DESM900102   -0.868
+  NADH010102   -0.876  ROSG850102   -0.901  BIOV880102   -0.906
+  MEIH800103   -0.919
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.16    1.72    1.97    2.66    0.50    3.87    2.40    1.63    0.86    0.57
+    0.51    3.90    0.40    0.43    2.04    1.61    1.48    0.75    1.72    0.59
+//

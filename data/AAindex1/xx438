@@ -1,0 +1,15 @@
+H PARS000102
+D p-Values of thermophilic proteins based on the distributions of B values 
+  (Parthasarathy-Murthy, 2000)
+R PMID:10679524
+A Parthasarathy, S. and Murthy, M.R.
+T Protein thermal stability: insights from atomic displacement parameters (B 
+  values)
+J Protein Eng. 13, 9-13 (2000)
+C VINM940101    0.877  FUKS010102    0.868  FUKS010104    0.850
+  VINM940103    0.808  VINM940102    0.803  NISK800101   -0.814
+  CORJ870101   -0.850  CASG920101   -0.859
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.320   0.327   0.384   0.424   0.198   0.436   0.514   0.374   0.299   0.306
+   0.340   0.446   0.313   0.314   0.354   0.376   0.339   0.291   0.287   0.294
+//

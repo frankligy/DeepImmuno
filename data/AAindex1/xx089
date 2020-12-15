@@ -1,0 +1,14 @@
+H FAUJ880113
+D pK-a(RCOOH) (Fauchere et al., 1988)
+R PMID:3209351
+A Fauchere, J.L., Charton, M., Kier, L.B., Verloop, A. and Pliska, V.
+T Amino acid side chain parameters for correlation studies in biology and 
+  pharmacology
+J Int. J. Peptide Protein Res. 32, 269-278 (1988) (Pro missing)
+C BLAM930101    0.839  ONEK900101    0.820  BUNA790101    0.818
+  ROBB760103    0.802  MUNV940102   -0.826  MUNV940101   -0.836
+  ONEK900102   -0.839  GEOR030109   -0.848
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    4.76    4.30    3.64    5.69    3.67    4.54    5.48    3.77    2.84    4.81
+    4.79    4.27    4.25    4.31      0.    3.83    3.87    4.75    4.30    4.86
+//

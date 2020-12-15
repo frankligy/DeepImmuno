@@ -1,0 +1,13 @@
+H KARS160112
+D Second smallest eigenvalue of the Laplacian matrix of the graph
+  (Karkbara-Knisley, 2016)
+R
+A Karkbara, S. and Knisley, D.
+T A graph-theoretic model of single point mutations in the cystic fibrosis
+  transmembrane conductance regulator
+J J. Adv. Biotechnol. Vol.6, No.1, 780-786 (2016)
+C
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    2.00  -2.590   0.528   0.528    2.00  -1.043  -0.538    0.00  -1.185  -1.517
+   1.052  -0.536   0.678  -1.672    4.00    2.00    3.00  -2.576  -2.054    3.00
+//

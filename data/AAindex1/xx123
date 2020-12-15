@@ -1,0 +1,12 @@
+H ISOY800106
+D Normalized relative frequency of helix end (Isogai et al., 1980)
+R PMID:7378550
+A Isogai, Y., Nemethy, G., Rackovsky, S., Leach, S.J. and Scheraga,H.A
+T Characterization of multiple bends in proteins
+J Biopolymers 19, 1183-1210 (1980) Recalculated by Kidera using a different set 
+  of proteins
+C MAXF760106    0.849
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.09    1.07    0.88    1.24    1.04    1.09    1.14    0.27    1.07    0.97
+    1.30    1.20    0.55    0.80    1.78    1.20    0.99    1.03    0.69    0.77
+//

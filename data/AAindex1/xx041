@@ -1,0 +1,12 @@
+H CHOP780205
+D Normalized frequency of C-terminal helix (Chou-Fasman, 1978b)
+R PMID:364941
+A Chou, P.Y. and Fasman, G.D.
+T Prediction of the secondary structure of proteins from their amino acid 
+  sequence
+J Adv. Enzymol. 47, 45-148 (1978)
+C ROBB760104    0.841  QIAN880109    0.806
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.20    1.25    0.59    0.61    1.11    1.22    1.24    0.42    1.77    0.98
+    1.13    1.83    1.57    1.10    0.00    0.96    0.75    0.40    0.73    1.25
+//

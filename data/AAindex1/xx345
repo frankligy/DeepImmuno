@@ -1,0 +1,13 @@
+H ROBB760108
+D Information measure for turn (Robson-Suzuki, 1976)
+R PMID:1003471
+A Robson, B. and Suzuki, E.
+T Conformational properties of amino acid residues in globular proteins
+J J. Mol. Biol. 107, 327-356 (1976)
+C ROBB760113    0.994  ROBB760110    0.960  BEGF750103    0.922
+  CRAJ730103    0.912  CHOP780101    0.887  PALJ810106    0.882
+  TANS770110    0.839  CHAM830101    0.812  BEGF750101   -0.819
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    -5.0     2.1     4.2     3.1     4.4     0.4    -4.7     5.7    -0.3    -4.6
+    -5.6     1.0    -4.8    -1.8     2.6     2.6     0.3     3.4     2.9    -6.0
+//

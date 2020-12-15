@@ -1,0 +1,20 @@
+H ROBB760101
+D Information measure for alpha-helix (Robson-Suzuki, 1976)
+R PMID:1003471
+A Robson, B. and Suzuki, E.
+T Conformational properties of amino acid residues in globular proteins
+J J. Mol. Biol. 107, 327-356 (1976)
+C CHOP780201    0.969  ISOY800101    0.957  MAXF760101    0.956
+  TANS770101    0.948  PALJ810102    0.946  KANM800101    0.945
+  PRAM900102    0.916  LEVM780101    0.916  PALJ810101    0.914
+  BURA740101    0.912  LEVM780104    0.911  NAGK730101    0.910
+  QIAN880106    0.904  GEIM800101    0.897  RACS820108    0.889
+  KANM800103    0.886  CRAJ730101    0.875  QIAN880105    0.874
+  QIAN880107    0.867  GEIM800104    0.855  AURR980108    0.814
+  AURR980109    0.810  ROBB760103    0.807  AURR980112    0.806
+  PALJ810109    0.805  MUNV940101   -0.822  MUNV940102   -0.827
+  CHAM830101   -0.828  NAGK730103   -0.861
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     6.5    -0.9    -5.1     0.5    -1.3     1.0     7.8    -8.6     1.2     0.6
+     3.2     2.3     5.3     1.6    -7.7    -3.9    -2.6     1.2    -4.5     1.4
+//

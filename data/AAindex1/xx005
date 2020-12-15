@@ -1,0 +1,16 @@
+H BEGF750102
+D Conformational parameter of beta-structure (Beghin-Dirkx, 1975)
+R PMID:50789
+A Beghin, F. and Dirkx, J.
+T Une methode statistique simple de prediction des conformations proteiques
+J Arch. Int. Physiol. Biochim. 83, 167-168 (1975)
+C CORJ870105    0.878  CORJ870106    0.853  PRAM900103    0.834
+  LEVM780102    0.834  PALJ810110    0.834  NAGK730102    0.833
+  CORJ870107    0.831  QIAN880120    0.829  QIAN880119    0.811
+  ROBB760106    0.809  PTIO830102    0.807  LIFS790101    0.807
+  MIYS850101    0.806  PONP800107    0.803  PALJ810104    0.801
+  CORJ870108   -0.825  MEIH800101   -0.832  RACS770101   -0.840
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.77    0.72    0.55    0.65    0.65    0.72    0.55    0.65    0.83    0.98
+    0.83    0.55    0.98    0.98    0.55    0.55    0.83    0.77    0.83    0.98
+//

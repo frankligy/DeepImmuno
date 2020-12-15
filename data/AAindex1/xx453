@@ -1,0 +1,11 @@
+H KOEP990101
+D Alpha-helix propensity derived from designed sequences (Koehl-Levitt, 1999)
+R PMID:10535955
+A Koehl, P. and Levitt, M.
+T Structure-based conformational preferences of amino acids
+J Proc Natl Acad Sci U S A. 96, 12524-12529 (1999) (Pro missing)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -0.04   -0.30    0.25    0.27    0.57   -0.02   -0.33    1.24   -0.11   -0.26
+   -0.38   -0.18   -0.09   -0.01      0.    0.15    0.39    0.21    0.05   -0.06
+//

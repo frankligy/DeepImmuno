@@ -1,0 +1,20 @@
+H WARP780101
+D Average interactions per side chain atom (Warme-Morgan, 1978)
+R PMID:633361
+A Warme, P.K. and Morgan, R.S.
+T A survey of amino acid side-chain interactions in 21 proteins
+J J. Mol. Biol. 118, 289-304 (1978) (Gly 0.81)
+C DESM900102    0.882  JANJ780102    0.878  JANJ790102    0.877
+  NADH010102    0.870  DESM900101    0.864  BIOV880102    0.853
+  KYTJ820101    0.845  MEIH800103    0.835  JURD980101    0.827
+  CHOC760103    0.824  ROSG850102    0.823  EISD860103    0.820
+  OLSK800101    0.818  CHOC760104    0.815  NADH010103    0.811
+  CORJ870101    0.800  ROSM880102   -0.801  KUHL950101   -0.811
+  PUNT030101   -0.814  ROSM880101   -0.816  MEIH800102   -0.826
+  PRAM900101   -0.827  ENGD860101   -0.827  RACS770103   -0.848
+  CHOC760102   -0.849  JANJ780101   -0.869  GUYH850104   -0.882
+  JANJ780103   -0.890  OOBM770101   -0.937
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   10.04    6.18    5.63    5.76    8.89    5.41    5.37    7.99    7.49    8.72
+    8.79    4.40    9.15    7.98    7.79    7.08    7.00    8.07    6.90    8.88
+//

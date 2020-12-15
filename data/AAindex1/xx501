@@ -1,0 +1,12 @@
+H GEOR030102
+D Linker propensity from 1-linker dataset (George-Heringa, 2003)
+R PMID:12538906
+A George, R.A. and Heringa, J.
+T An analysis of protein domain linkers: their classification and role in 
+  protein folding
+J Protein Eng. 15, 871-879 (2003)
+C GEOR030101    0.859  GEOR030107    0.815
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.974   1.129   0.988   0.892   0.972   1.092   1.054   0.845   0.949   0.928
+    1.11   0.946   0.923   1.122   1.362   0.932   1.023   0.879   0.902   0.923
+//

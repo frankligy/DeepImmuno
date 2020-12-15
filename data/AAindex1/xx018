@@ -1,0 +1,18 @@
+H BURA740101
+D Normalized frequency of alpha-helix (Burgess et al., 1974)
+R
+A Burgess, A.W., Ponnuswamy, P.K. and Scheraga, H.A.
+T Analysis of conformations of amino acid residues and prediction of backbone 
+  topography in proteins
+J Isr. J. Chem. 12, 239-286 (1974)
+C CHOP780201    0.917  TANS770101    0.917  ROBB760101    0.912
+  CRAJ730101    0.900  PALJ810102    0.900  NAGK730101    0.883
+  GEIM800101    0.858  KANM800101    0.855  MAXF760101    0.852
+  PALJ810101    0.850  ISOY800101    0.839  LEVM780104    0.833
+  GEIM800104    0.819  KANM800103    0.810  RACS820108    0.809
+  AURR980108    0.808  PRAM900102    0.805  LEVM780101    0.805
+  NAGK730103   -0.830
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.486   0.262   0.193   0.288   0.200   0.418   0.538   0.120   0.400   0.370
+   0.420   0.402   0.417   0.318   0.208   0.200   0.272   0.462   0.161   0.379
+//

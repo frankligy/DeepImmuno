@@ -1,0 +1,19 @@
+H TSAJ990102
+D Volumes not including the crystallographic waters using the ProtOr (Tsai et 
+  al., 1999)
+R PMID:10388571
+A Tsai, J., Taylor, R., Chothia, C. and Gerstein, M.
+T The packing density in proteins: standard radii and volumes
+J J. Mol. Biol. 290, 253-266 (1999) (Cyh 113.7)
+C TSAJ990101    1.000  CHOC750101    0.996  BIGC670101    0.992
+  GOLD730102    0.991  KRIW790103    0.987  FAUJ880103    0.985
+  GRAR740103    0.978  CHAM820101    0.978  CHOC760101    0.972
+  HARY940101    0.965  PONJ960101    0.962  FASG760101    0.940
+  LEVM760105    0.928  LEVM760102    0.918  ROSG850101    0.909
+  DAWD720101    0.905  CHAM830106    0.896  FAUJ880106    0.882
+  ZHOH040102    0.867  RADA880106    0.864  LEVM760107    0.861
+  LEVM760106    0.841  RADA880103   -0.879
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    90.0   194.0   124.7   117.3   103.3   149.4   142.2    64.9   160.0   163.9
+   164.0   167.3   167.0   191.9   122.9    95.4   121.5   228.2   197.0   139.0
+//

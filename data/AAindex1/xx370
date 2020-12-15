@@ -1,0 +1,13 @@
+H TANS770106
+D Normalized frequency of chain reversal D (Tanaka-Scheraga, 1977)
+R PMID:557155
+A Tanaka, S. and Scheraga, H.A.
+T Statistical mechanical treatment of protein conformation. 5. A multiphasic 
+  model for specific-sequence copolymers of amino acids
+J Macromolecules 10, 9-20 (1977) Recalculated by Kidera as normalized 
+  frequencies
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.937   1.725   1.080   1.640   1.004   1.078   0.679   0.901   1.085   0.178
+   0.808   1.254   0.886   0.803   0.748   1.145   1.487   0.803   1.227   0.625
+//

@@ -1,0 +1,15 @@
+H NAKH900102
+D SD of AA composition of total proteins (Nakashima et al., 1990)
+R PMID:2235995
+A Nakashima, H., Nishikawa, K. and Ooi, T.
+T Distinct character in hydrophobicity of amino acid composition of 
+  mitochondrial proteins
+J Proteins 8, 173-178 (1990)
+C CEDJ970105    0.903  DAYM780101    0.883  NAKH920106    0.872
+  CEDJ970104    0.860  NAKH900101    0.858  NAKH920101    0.854
+  JUNJ780101    0.853  JOND920101    0.846  CEDJ970102    0.841
+  CEDJ970101    0.832  RACS820105   -0.839
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    3.73    3.34    2.33    2.23    2.30    2.36      3.    3.36    1.55    2.52
+    3.40    3.36    1.37    1.94    3.18    2.83    2.63    1.15    1.76    2.53
+//

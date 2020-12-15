@@ -1,0 +1,11 @@
+H JOND920102
+D Relative mutability (Jones et al., 1992)
+R PMID:1633570
+A Jones, D.T., Taylor, W.R. and Thornton, J.M.
+T The rapid generation of mutation data matrices from protein sequences
+J CABIOS 8, 275-282 (1992)
+C DAYM780201    0.889
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    100.     83.    104.     86.     44.     84.     77.     50.     91.    103.
+     54.     72.     93.     51.     58.    117.    107.     25.     50.     98.
+//

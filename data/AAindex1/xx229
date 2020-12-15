@@ -1,0 +1,12 @@
+H PALJ810108
+D Normalized frequency of alpha-helix in alpha+beta class (Palau et al., 1981)
+R PMID:7118409
+A Palau, J., Argos, P. and Puigdomenech, P.
+T Protein secondary structure
+J Int. J. Peptide Protein Res. 19, 394-401 (1981) LG :a set of protein samples 
+  formed by 44 proteins. CF :a set of protein samples formed by 33 proteins.
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.34    0.91    0.83    1.06    1.27    1.13    1.69    0.47    1.11    0.84
+    1.39    1.08    0.90    1.02    0.48    1.05    0.74    0.64    0.73    1.18
+//

@@ -1,0 +1,15 @@
+H CEDJ970105
+D Composition of amino acids in nuclear proteins (percent) (Cedano et al., 
+  1997)
+R PMID:9067612
+A Cedano, J., Aloy, P., Perez-Pons, J.A. and Querol, E.
+T Relation between amino acid composition and cellular location of proteins
+J J. Mol. Biol. 266, 594-600 (1997)
+C NAKH920101    0.942  NAKH920106    0.930  NAKH900102    0.903
+  NAKH900101    0.860  CEDJ970104    0.852  NAKH920102    0.843
+  DAYM780101    0.839  CEDJ970102    0.835  JOND920101    0.834
+  JUNJ780101    0.803
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     8.3     8.7     3.7     4.7     1.6     4.7     6.5     6.3     2.1     3.7
+     7.4     7.9     2.3     2.7     6.9     8.8     5.1     0.7     2.4     5.3
+//

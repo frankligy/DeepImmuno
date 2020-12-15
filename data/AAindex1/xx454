@@ -1,0 +1,11 @@
+H KOEP990102
+D Beta-sheet propensity derived from designed sequences (Koehl-Levitt, 1999)
+R PMID:10535955
+A Koehl, P. and Levitt, M.
+T Structure-based conformational preferences of amino acids
+J Proc Natl Acad Sci U S A. 96, 12524-12529 (1999) (Pro!)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -0.12    0.34    1.05    1.12   -0.63    1.67    0.91    0.76    1.34   -0.77
+    0.15    0.29   -0.71   -0.67      0.    1.45   -0.70   -0.14   -0.49   -0.70
+//

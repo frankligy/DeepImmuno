@@ -1,0 +1,20 @@
+H WOLR790101
+D Hydrophobicity index (Wolfenden et al., 1979)
+R PMID:493962
+A Wolfenden, R.V., Cullis, P.M. and Southgate, C.C.F.
+T Water, protein folding, and the genetic code
+J Science 206, 575-577 (1979)
+C WOLR810101    0.996  RADA880101    0.933  RADA880104    0.926
+  EISD840101    0.909  JACR890101    0.906  RADA880107    0.905
+  RADA880105    0.903  KYTJ820101    0.869  JURD980101    0.864
+  OLSK800101    0.859  CHOC760103    0.857  CHOC760104    0.851
+  JANJ780102    0.833  NADH010101    0.826  JANJ790102    0.818
+  JANJ780103   -0.806  GUYH850104   -0.815  OOBM770101   -0.831
+  CHOC760102   -0.834  ROSM880102   -0.836  VHEG790101   -0.844
+  JANJ780101   -0.856  ENGD860101   -0.877  PRAM900101   -0.877
+  ROSM880101   -0.887  KUHL950101   -0.898  GUYH850105   -0.908
+  FAUJ880109   -0.920
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.12   -2.55   -0.83   -0.83    0.59   -0.78   -0.92    1.20   -0.93    1.16
+    1.18   -0.80    0.55    0.67    0.54   -0.05   -0.02   -0.19   -0.23    1.13
+//

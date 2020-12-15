@@ -1,0 +1,17 @@
+H CHOC760104
+D Proportion of residues 100% buried (Chothia, 1976)
+R PMID:994183
+A Chothia, C.
+T The nature of the accessible and buried surfaces in proteins
+J J. Mol. Biol. 105, 1-14 (1976) (normalized by the total number)
+C CHOC760103    0.907  JANJ780102    0.903  KYTJ820101    0.889
+  JANJ790101    0.886  OLSK800101    0.872  JURD980101    0.870
+  WOLR810101    0.868  WOLR790101    0.851  PONP800104    0.844
+  JANJ790102    0.835  DESM900102    0.824  NADH010102    0.817
+  WARP780101    0.815  NADH010101    0.804  GUYH850105   -0.822
+  CHOC760102   -0.845  GUYH850104   -0.845  JANJ780103   -0.851
+  JANJ780101   -0.854  OOBM770101   -0.857
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.20    0.00    0.03    0.04    0.22    0.01    0.03    0.18    0.02    0.19
+    0.16    0.00    0.11    0.14    0.04    0.08    0.08    0.04    0.03    0.18
+//

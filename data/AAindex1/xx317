@@ -1,0 +1,14 @@
+H RADA880105
+D Transfer free energy from vap to oct (Radzicka-Wolfenden, 1988)
+R
+A Radzicka, A. and Wolfenden, R.
+T Comparing the polarities of the amino acids: Side-chain distribution 
+  coefficients between the vapor phase, cyclohexane, 1-octanol, and neutral 
+  aqueous solution
+J Biochemistry 27, 1664-1670 (1988) (Pro Cys Asp missing)
+C RADA880104    0.918  WOLR790101    0.903  WOLR810101    0.875
+  RADA880107    0.846  GUYH850105   -0.809  FAUJ880109   -0.889
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.42  -18.60   -9.67      0.      0.   -9.31   -9.45    2.39  -11.22    0.11
+    0.52   -9.60   -2.80   -2.85      0.   -5.10   -5.15   -8.39   -7.74    0.81
+//

@@ -1,0 +1,21 @@
+H PALJ810106
+D Normalized frequency of turn from CF (Palau et al., 1981)
+R PMID:7118409
+A Palau, J., Argos, P. and Puigdomenech, P.
+T Protein secondary structure
+J Int. J. Peptide Protein Res. 19, 394-401 (1981) LG :a set of protein samples 
+  formed by 44 proteins. CF :a set of protein samples formed by 33 proteins.
+C CHOP780101    0.977  CHAM830101    0.939  TANS770110    0.925
+  CHOP780203    0.907  CHOP780210    0.905  CHOP780216    0.904
+  ROBB760113    0.895  CRAJ730103    0.884  ROBB760108    0.882
+  ROBB760110    0.864  GEIM800108    0.862  QIAN880133    0.860
+  BEGF750103    0.859  QIAN880132    0.859  LEVM780106    0.850
+  LEVM780103    0.848  GEIM800111    0.844  PRAM900104    0.844
+  QIAN880131    0.809  PALJ810105    0.809  ISOY800103    0.807
+  CHOP780212    0.801  QIAN880107   -0.821  SUEM840101   -0.832
+  KANM800103   -0.840  AURR980114   -0.842  AURR980109   -0.845
+  BEGF750101   -0.859
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.65    0.93    1.45    1.47    1.43    0.94    0.75    1.53    0.96    0.57
+    0.56    0.95    0.71    0.72    1.51    1.46    0.96    0.90    1.12    0.55
+//

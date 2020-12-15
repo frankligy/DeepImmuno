@@ -1,0 +1,13 @@
+H KARS160114
+D Average weighted eccentricity based on the the atomic number
+  (Karkbara-Knisley, 2016)
+R
+A Karkbara, S. and Knisley, D.
+T A graph-theoretic model of single point mutations in the cystic fibrosis
+  transmembrane conductance regulator
+J J. Adv. Biotechnol. Vol.6, No.1, 780-786 (2016)
+C
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    6.00  31.444    16.50  16.40  16.670  21.167   21.00    3.50    23.10  15.60
+   15.60   24.50    27.20  23.25   12.00   13.33   12.40   27.50    27.78  10.50
+//

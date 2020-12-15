@@ -1,0 +1,12 @@
+H ZIMJ680104
+D Isoelectric point (Zimmerman et al., 1968)
+R PMID:5700434
+A Zimmerman, J.M., Eliezer, N. and Simha, R.
+T The characterization of amino acid sequences in proteins by statistical 
+  methods
+J J. Theor. Biol. 21, 170-201 (1968)
+C KLEP840101    0.941  FAUJ880111    0.813  FINA910103    0.805
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    6.00   10.76    5.41    2.77    5.05    5.65    3.22    5.97    7.59    6.02
+    5.98    9.74    5.74    5.48    6.30    5.68    5.66    5.89    5.66    5.96
+//

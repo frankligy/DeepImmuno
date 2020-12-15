@@ -1,0 +1,12 @@
+H ROSM880103
+D Loss of Side chain hydropathy by helix formation (Roseman, 1988)
+R PMID:3398047
+A Roseman, M.A.
+T Hydrophilicity of polar amino acid side-chains is markedly reduced by 
+  flanking peptide bonds
+J J. Mol. Biol. 200, 513-522 (1988)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     0.4     0.3     0.9     0.8     0.5     0.7     1.3     0.0     1.0     0.4
+     0.6     0.4     0.3     0.7     0.9     0.4     0.4     0.6     1.2     0.4
+//

@@ -1,0 +1,12 @@
+H RICJ880109
+D Relative preference value at Mid (Richardson-Richardson, 1988)
+R PMID:3381086
+A Richardson, J.S. and Richardson, D.C.
+T Amino acid preferences for specific locations at the ends of alpha helices
+J Science 240, 1648-1652 (1988)
+C QIAN880106    0.834  ROBB760103    0.831  KANM800103    0.829
+  AURR980109    0.828  AURR980113    0.808  CHAM830101   -0.826
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     1.8     1.3     0.9      1.     0.7     1.3     0.8     0.5      1.     1.2
+     1.2     1.1     1.5     1.3     0.3     0.6      1.     1.5     0.8     1.2
+//

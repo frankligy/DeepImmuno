@@ -1,0 +1,13 @@
+H BEGF750103
+D Conformational parameter of beta-turn (Beghin-Dirkx, 1975)
+R PMID:50789
+A Beghin, F. and Dirkx, J.
+T Une methode statistique simple de prediction des conformations proteiques
+J Arch. Int. Physiol. Biochim. 83, 167-168 (1975)
+C ROBB760113    0.924  ROBB760108    0.922  ROBB760110    0.903
+  CHOP780101    0.885  CRAJ730103    0.874  PALJ810106    0.859
+  TANS770110    0.834
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.37    0.84    0.97    0.97    0.84    0.64    0.53    0.97    0.75    0.37
+    0.53    0.75    0.64    0.53    0.97    0.84    0.75    0.97    0.84    0.37
+//

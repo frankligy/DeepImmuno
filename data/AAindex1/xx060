@@ -1,0 +1,13 @@
+H CRAJ730102
+D Normalized frequency of beta-sheet (Crawford et al., 1973)
+R PMID:4510294
+A Crawford, J.L., Lipscomb, W.N. and Schellman, C.G.
+T The reverse turn as a polypeptide conformation in globular proteins
+J Proc. Natl. Acad. Sci. USA 70, 538-542 (1973) Reported values normalized by 
+  the total percentage
+C ROBB760106    0.865  PTIO830102    0.820  PALJ810104    0.817
+  NAGK730102    0.815
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.00    0.74    0.75    0.89    0.99    0.87    0.37    0.56    0.36    1.75
+    1.53    1.18    1.40    1.26    0.36    0.65    1.15    0.84    1.41    1.61
+//

@@ -1,0 +1,12 @@
+H KLEP840101
+D Net charge (Klein et al., 1984)
+R PMID:6547351
+A Klein, P., Kanehisa, M. and DeLisi, C.
+T Prediction of protein function from sequence properties: Discriminant 
+  analysis of a data base
+J Biochim. Biophys. Acta 787, 221-226 (1984)
+C ZIMJ680104    0.941
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+      0.      1.      0.     -1.      0.      0.     -1.      0.      0.      0.
+      0.      1.      0.      0.      0.      0.      0.      0.      0.      0.
+//

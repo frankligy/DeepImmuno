@@ -1,0 +1,13 @@
+H COSI940101
+D Electron-ion interaction potential values (Cosic, 1994)
+R PMID:7851912
+A Cosic, I.
+T Macromolecular bioactivity: is it resonant interaction between 
+  macromolecules?--Theory and applications
+J IEEE Trans Biomed Eng. 41, 1101-1114 (1994) (values are cited from Protein 
+  Eng. 15:193-203)
+C VELV850101    1.000
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  0.0373  0.0959  0.0036  0.1263  0.0829  0.0761  0.0058  0.0050  0.0242  0.0000
+  0.0000  0.0371  0.0823  0.0946  0.0198  0.0829  0.0941  0.0548  0.0516  0.0057
+//

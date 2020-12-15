@@ -1,0 +1,13 @@
+H ZIMJ680103
+D Polarity (Zimmerman et al., 1968)
+R PMID:5700434
+A Zimmerman, J.M., Eliezer, N. and Simha, R.
+T The characterization of amino acid sequences in proteins by statistical 
+  methods
+J J. Theor. Biol. 21, 170-201 (1968)
+C PRAM900101    0.854  ENGD860101    0.854  HOPA770101    0.815
+  JACR890101   -0.835
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.00   52.00    3.38   49.70    1.48    3.53   49.90    0.00   51.60    0.13
+    0.13   49.50    1.43    0.35    1.58    1.67    1.66    2.10    1.61    0.13
+//

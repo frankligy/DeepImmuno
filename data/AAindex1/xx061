@@ -1,0 +1,15 @@
+H CRAJ730103
+D Normalized frequency of turn (Crawford et al., 1973)
+R PMID:4510294
+A Crawford, J.L., Lipscomb, W.N. and Schellman, C.G.
+T The reverse turn as a polypeptide conformation in globular proteins
+J Proc. Natl. Acad. Sci. USA 70, 538-542 (1973) Reported values normalized by 
+  the total percentage
+C ROBB760113    0.916  ROBB760108    0.912  ROBB760110    0.887
+  PALJ810106    0.884  CHOP780101    0.882  BEGF750103    0.874
+  TANS770110    0.859  CHAM830101    0.821  CHOP780201   -0.808
+  PALJ810102   -0.809  BEGF750101   -0.812  QIAN880107   -0.840
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.60    0.79    1.42    1.24    1.29    0.92    0.64    1.38    0.95    0.67
+    0.70    1.10    0.67    1.05    1.47    1.26    1.05    1.23    1.35    0.48
+//

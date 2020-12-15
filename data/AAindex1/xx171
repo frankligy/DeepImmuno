@@ -1,0 +1,13 @@
+H MAXF760102
+D Normalized frequency of extended structure (Maxfield-Scheraga, 1976)
+R PMID:990270
+A Maxfield, F.R. and Scheraga, H.A.
+T Status of empirical methods for the prediction of protein backbone topography
+J Biochemistry 15, 5138-5153 (1976) Recalculated by Kidera using a different 
+  set of proteins Reported values normalized by the total number
+C ISOY800102    0.931  TANS770103    0.891  GEIM800105    0.819
+  RACS820111    0.815  WOEC730101   -0.842
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.86    0.94    0.74    0.72    1.17    0.89    0.62    0.97    1.06    1.24
+    0.98    0.79    1.08    1.16    1.22    1.04    1.18    1.07    1.25    1.33
+//

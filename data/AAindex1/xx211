@@ -1,0 +1,23 @@
+H NOZY710101
+D Transfer energy, organic solvent/water (Nozaki-Tanford, 1971)
+R PMID:5555568
+A Nozaki, Y. and Tanford, C.
+T The solubility of amino acids and two glycine peptides in aqueous ethanol and 
+  dioxane solutions
+J J. Biol. Chem. 246, 2211-2217 (1971) Missing values filled with zeros
+C ZHOH040101    0.932  RADA880102    0.917  MEEJ810102    0.899
+  VENT840101    0.897  ZHOH040102    0.897  MEEJ800102    0.895
+  CIDH920102    0.889  TAKK010101    0.884  GUOD860101    0.884
+  MEEJ810101    0.882  CIDH920105    0.857  ROSM880104    0.847
+  BASU050102    0.847  LEVM760107    0.845  ZHOH040103    0.842
+  PLIV810101    0.839  CORJ870102    0.838  ZIMJ680105    0.837
+  SWER830101    0.836  ROSG850101    0.834  BROC820101    0.829
+  EISD860101    0.822  GARJ730101    0.821  WIMW960101    0.818
+  MIYS850101    0.810  SIMZ760101    0.807  FAUJ830101    0.803
+  ARGP820101    0.800  MIYS990102   -0.819  MIYS990101   -0.821
+  OOBM770103   -0.828  PARS000101   -0.829  WOLS870101   -0.874
+  WEBA780101   -0.890  BULH740101   -0.892  PARJ860101   -0.900
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     0.5     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.5     1.8
+     1.8     0.0     1.3     2.5     0.0     0.0     0.4     3.4     2.3     1.5
+//

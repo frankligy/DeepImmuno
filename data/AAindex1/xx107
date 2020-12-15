@@ -1,0 +1,19 @@
+H GOLD730101
+D Hydrophobicity factor (Goldsack-Chalifoux, 1973)
+R PMID:4354159
+A Goldsack, D.E. and Chalifoux, R.C.
+T Contribution of the free energy of mixing of hydrophobic side chains to the 
+  stability of the tertiary structure
+J J. Theor. Biol. 39, 645-651 (1973) (Asn Gln !)
+C SIMZ760101    0.939  ARGP820101    0.936  JOND750101    0.935
+  TAKK010101    0.872  MEEJ800102    0.866  LAWE840101    0.829
+  CIDH920102    0.829  LEVM760106    0.827  BULH740102    0.825
+  MEEJ810101    0.824  BLAS910101    0.821  ZIMJ680105    0.820
+  CIDH920105    0.820  ZIMJ680102    0.818  ZHOH040101    0.817
+  ROSM880104    0.808  MEEJ800101    0.808  MEEJ810102    0.806
+  VENT840101    0.802  PARJ860101   -0.827  WOLS870101   -0.854
+  BULH740101   -0.874
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.75    0.75    0.69    0.00    1.00    0.59    0.00    0.00    0.00    2.95
+    2.40    1.50    1.30    2.65    2.60    0.00    0.45    3.00    2.85    1.70
+//

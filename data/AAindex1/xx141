@@ -1,0 +1,18 @@
+H KARP850101
+D Flexibility parameter for no rigid neighbors (Karplus-Schulz, 1985)
+R
+A Karplus, P.A. and Schulz, G.E.
+T Prediction of chain flexibility in proteins
+J Naturwiss. 72, 212-213 (1985)
+C VINM940102    0.874  VINM940103    0.837  RACS770101    0.837
+  FUKS010103    0.834  MEIH800101    0.832  MIYS990104    0.822
+  VINM940101    0.821  PARS000101    0.816  GUYH850102    0.811
+  CIDH920104   -0.801  BIOV880102   -0.804  RADA880108   -0.804
+  ROSG850101   -0.807  MIYS850101   -0.811  MEEJ810101   -0.818
+  BASU050102   -0.819  BIOV880101   -0.825  NISK860101   -0.828
+  ZHOH040101   -0.833  WERD780101   -0.842  ZHOH040103   -0.846
+  CIDH920101   -0.864  CIDH920105   -0.866  CIDH920102   -0.873
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   1.041   1.038   1.117   1.033   0.960   1.165   1.094   1.142   0.982   1.002
+   0.967   1.093   0.947   0.930   1.055   1.169   1.073   0.925   0.961   0.982
+//

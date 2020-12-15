@@ -1,0 +1,12 @@
+H OOBM850103
+D Optimized transfer energy parameter (Oobatake et al., 1985)
+R
+A Oobatake, M., Kubota, Y. and Ooi, T.
+T Optimization of amino acid parameters for correspondence of sequence to 
+  tertiary structures of proteuins
+J Bull. Inst. Chem. Res., Kyoto Univ. 63, 82-94 (1985)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.46   -1.54    1.31   -0.33    0.20   -1.12    0.48    0.64   -1.31    3.28
+    0.43   -1.71    0.15    0.52   -0.58   -0.83   -1.52    1.25   -2.21    0.54
+//

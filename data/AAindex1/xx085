@@ -1,0 +1,20 @@
+H FAUJ880109
+D Number of hydrogen bond donors (Fauchere et al., 1988)
+R PMID:3209351
+A Fauchere, J.L., Charton, M., Kier, L.B., Verloop, A. and Pliska, V.
+T Amino acid side chain parameters for correlation studies in biology and 
+  pharmacology
+J Int. J. Peptide Protein Res. 32, 269-278 (1988) Original reference of these 
+  two data: IUPAC-IUB Joint Commission on Biochemical Nomenclature Eur. J. 
+  Biochem. 138, 9-37 (1984)
+C GUYH850105    0.927  CHOC760102    0.872  JANJ780101    0.850
+  ROSM880101    0.846  EISD860102    0.841  KUHL950101    0.827
+  ROSM880102    0.824  PRAM900101    0.815  ENGD860101    0.814
+  GUYH850104    0.812  CHOC760103   -0.806  OLSK800101   -0.821
+  JANJ790102   -0.822  RADA880101   -0.873  JACR890101   -0.889
+  RADA880105   -0.889  EISD840101   -0.890  WOLR810101   -0.904
+  WOLR790101   -0.920  RADA880104   -0.926  RADA880107   -0.957
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+      0.      4.      2.      1.      0.      2.      1.      0.      1.      0.
+      0.      2.      0.      0.      0.      1.      1.      1.      1.      0.
+//

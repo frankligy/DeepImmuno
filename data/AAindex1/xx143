@@ -1,0 +1,11 @@
+H KARP850103
+D Flexibility parameter for two rigid neighbors (Karplus-Schulz, 1985)
+R
+A Karplus, P.A. and Schulz, G.E.
+T Prediction of chain flexibility in proteins
+J Naturwiss. 72, 212-213 (1985)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.892   0.901   0.930   0.932   0.925   0.885   0.933   0.923   0.894   0.872
+   0.921   1.057   0.804   0.914   0.932   0.923   0.934   0.803   0.837   0.913
+//

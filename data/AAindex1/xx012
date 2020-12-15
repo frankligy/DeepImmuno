@@ -1,0 +1,13 @@
+H BROC820102
+D Retention coefficient in HFBA (Browne et al., 1982)
+R PMID:7125223
+A Browne, C.A., Bennett, H.P.J. and Solomon, S.
+T The isolation of peptides by high-performance liquid chromatography using 
+  predicted elution positions
+J Anal. Biochem. 124, 201-208 (1982)
+C BROC820101    0.925  ZIMJ680105    0.865  MEEJ800102    0.857
+  MEEJ800101    0.840  TAKK010101    0.839
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     3.9     3.2    -2.8    -2.8   -14.3     1.8    -7.5    -2.3     2.0    11.0
+    15.0    -2.5     4.1    14.7     5.6    -3.5     1.1    17.8     3.8     2.1
+//

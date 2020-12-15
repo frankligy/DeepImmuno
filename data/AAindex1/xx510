@@ -1,0 +1,22 @@
+H ZHOH040102
+D The relative stability scale extracted from mutation experiments (Zhou-Zhou, 
+  2004)
+R PMID:14696193
+A Zhou, H. and Zhou, Y.
+T Quantifying the effect of burial of amino acid residues on protein stability
+J Proteins 54, 315-322 (2004)
+C ROSG850101    0.930  ZHOH040101    0.910  LEVM760106    0.905
+  NOZY710101    0.897  BIGC670101    0.884  KRIW790103    0.884
+  GOLD730102    0.882  ZIMJ680102    0.878  TSAJ990101    0.874
+  TAKK010101    0.874  GRAR740103    0.872  TSAJ990102    0.867
+  CIDH920102    0.862  CHOC750101    0.856  LEVM760107    0.843
+  VENT840101    0.831  HARY940101    0.830  CHAM820101    0.826
+  PONJ960101    0.823  CIDH920105    0.818  FAUJ880103    0.816
+  SIMZ760101    0.814  GUOD860101    0.812  CIDH920101    0.811
+  PLIV810101    0.809  MEEJ800102    0.808  BASU050102    0.808
+  MEEJ810101    0.804  WEBA780101   -0.807  PARJ860101   -0.854
+  BULH740101   -0.860
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.79    3.20    2.83    2.33    2.22    2.37    2.52    0.70    3.06    4.59
+    4.72    2.50    3.91    4.84    2.45    1.82    2.45    5.64    4.46    3.67
+//

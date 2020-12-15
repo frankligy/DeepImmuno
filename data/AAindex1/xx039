@@ -1,0 +1,19 @@
+H CHOP780203
+D Normalized frequency of beta-turn (Chou-Fasman, 1978b)
+R PMID:364941
+A Chou, P.Y. and Fasman, G.D.
+T Prediction of the secondary structure of proteins from their amino acid 
+  sequence
+J Adv. Enzymol. 47, 45-148 (1978)
+C CHOP780216    0.979  CHOP780101    0.940  TANS770110    0.940
+  LEVM780106    0.935  GEIM800111    0.933  ISOY800103    0.933
+  CHAM830101    0.931  PRAM900104    0.928  QIAN880132    0.928
+  LEVM780103    0.927  GEIM800108    0.925  CHOP780210    0.918
+  QIAN880133    0.915  PALJ810106    0.907  PALJ810105    0.878
+  QIAN880131    0.861  QIAN880134    0.838  RACS770101    0.827
+  QIAN880135    0.811  CORJ870106   -0.813  QIAN880119   -0.814
+  CORJ870105   -0.815  PONP800107   -0.818  SUEM840101   -0.892
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.74    1.01    1.46    1.52    0.96    0.96    0.95    1.56    0.95    0.47
+    0.50    1.19    0.60    0.66    1.56    1.43    0.98    0.60    1.14    0.59
+//

@@ -1,0 +1,22 @@
+H PALJ810102
+D Normalized frequency of alpha-helix from CF (Palau et al., 1981)
+R PMID:7118409
+A Palau, J., Argos, P. and Puigdomenech, P.
+T Protein secondary structure
+J Int. J. Peptide Protein Res. 19, 394-401 (1981) LG :a set of protein samples 
+  formed by 44 proteins. CF :a set of protein samples formed by 33 proteins.
+C CHOP780201    0.981  ISOY800101    0.965  KANM800101    0.962
+  MAXF760101    0.959  ROBB760101    0.946  TANS770101    0.923
+  KANM800103    0.916  GEIM800101    0.910  LEVM780104    0.906
+  PRAM900102    0.902  LEVM780101    0.902  BURA740101    0.900
+  PALJ810101    0.889  AURR980112    0.888  GEIM800104    0.886
+  RACS820108    0.881  AURR980109    0.877  NAGK730101    0.876
+  CRAJ730101    0.872  AURR980108    0.871  QIAN880106    0.871
+  PALJ810109    0.864  QIAN880107    0.856  AURR980114    0.848
+  AURR980111    0.830  AURR980115    0.827  AURR980110    0.812
+  BEGF750101    0.811  CHAM830101   -0.808  CRAJ730103   -0.809
+  MUNV940101   -0.815  NAGK730103   -0.818  MUNV940102   -0.824
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.32    1.04    0.74    0.97    0.70    1.25    1.48    0.59    1.06    1.01
+    1.22    1.13    1.47    1.10    0.57    0.77    0.86    1.02    0.72    1.05
+//

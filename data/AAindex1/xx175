@@ -1,0 +1,12 @@
+H MAXF760106
+D Normalized frequency of alpha region (Maxfield-Scheraga, 1976)
+R PMID:990270
+A Maxfield, F.R. and Scheraga, H.A.
+T Status of empirical methods for the prediction of protein backbone topography
+J Biochemistry 15, 5138-5153 (1976) Recalculated by Kidera using a different 
+  set of proteins Reported values normalized by the total number
+C ISOY800106    0.849
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.00    1.18    0.87    1.39    1.09    1.13    1.04    0.46    0.71    0.68
+    1.01    1.05    0.36    0.65    1.95    1.56    1.23    1.10    0.87    0.58
+//

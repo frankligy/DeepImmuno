@@ -1,0 +1,16 @@
+H AURR980110
+D Normalized positional residue frequency at helix termini N5 (Aurora-Rose, 
+  1998)
+R PMID:9514257
+A Aurora, R. and Rose, G.
+T Helix capping
+J Protein Science 7, 21-38 (1998)
+C AURR980115    0.907  AURR980111    0.867  MAXF760101    0.860
+  ISOY800101    0.855  KANM800101    0.830  AURR980109    0.817
+  AURR980112    0.816  QIAN880107    0.815  CHOP780201    0.814
+  PALJ810102    0.812  AURR980114    0.811  GEOR030108    0.804
+  QIAN880106    0.804  MUNV940101   -0.822  MUNV940102   -0.846
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.80    1.73    0.73    0.90    0.55    0.97    1.73    0.32    0.46    1.09
+    1.47    1.24    1.64    0.96    0.15    0.67    0.70    0.68    0.91    0.81
+//

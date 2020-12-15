@@ -1,0 +1,18 @@
+H JOND920101
+D Relative frequency of occurrence (Jones et al., 1992)
+R PMID:1633570
+A Jones, D.T., Taylor, W.R. and Thornton, J.M.
+T The rapid generation of mutation data matrices from protein sequences
+J CABIOS 8, 275-282 (1992)
+C CEDJ970102    0.995  NAKH900101    0.993  CEDJ970104    0.983
+  CEDJ970101    0.968  DAYM780101    0.954  JUKT750101    0.953
+  FUKS010110    0.944  FUKS010112    0.943  JUNJ780101    0.932
+  CEDJ970103    0.911  KUMS000102    0.909  NAKH920101    0.900
+  NAKH920107    0.893  NAKH920106    0.889  NAKH920104    0.887
+  NAKH920103    0.881  NAKH900109    0.878  KUMS000101    0.863
+  FUKS010109    0.861  NAKH900102    0.846  CEDJ970105    0.834
+  FUKS010111    0.832
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.077   0.051   0.043   0.052   0.020   0.041   0.062   0.074   0.023   0.053
+   0.091   0.059   0.024   0.040   0.051   0.069   0.059   0.014   0.032   0.066
+//

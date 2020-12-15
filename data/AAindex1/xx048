@@ -1,0 +1,12 @@
+H CHOP780212
+D Frequency of the 1st residue in turn (Chou-Fasman, 1978b)
+R PMID:364941
+A Chou, P.Y. and Fasman, G.D.
+T Prediction of the secondary structure of proteins from their amino acid 
+  sequence
+J Adv. Enzymol. 47, 45-148 (1978)
+C PALJ810106    0.801
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.060   0.070   0.161   0.147   0.149   0.074   0.056   0.102   0.140   0.043
+   0.061   0.055   0.068   0.059   0.102   0.120   0.086   0.077   0.082   0.062
+//

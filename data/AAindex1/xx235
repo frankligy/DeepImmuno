@@ -1,0 +1,13 @@
+H PALJ810114
+D Normalized frequency of turn in all-beta class (Palau et al., 1981)
+R PMID:7118409
+A Palau, J., Argos, P. and Puigdomenech, P.
+T Protein secondary structure
+J Int. J. Peptide Protein Res. 19, 394-401 (1981) LG :a set of protein samples 
+  formed by 44 proteins. CF :a set of protein samples formed by 33 proteins. 
+  (Met missing)
+C ISOY800103    0.809
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.87    1.30    1.36    1.24    0.83    1.06    0.91    1.69    0.91    0.27
+    0.67    0.66      0.    0.47    1.54    1.08    1.12    1.24    0.54    0.69
+//

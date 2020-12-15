@@ -1,0 +1,19 @@
+H CHOC760101
+D Residue accessible surface area in tripeptide (Chothia, 1976)
+R PMID:994183
+A Chothia, C.
+T The nature of the accessible and buried surfaces in proteins
+J J. Mol. Biol. 105, 1-14 (1976)
+C FAUJ880103    0.985  CHOC750101    0.981  FASG760101    0.978
+  LEVM760102    0.972  TSAJ990102    0.972  LEVM760105    0.968
+  TSAJ990101    0.968  CHAM820101    0.966  PONJ960101    0.961
+  GOLD730102    0.960  BIGC670101    0.960  KRIW790103    0.948
+  HARY940101    0.946  GRAR740103    0.945  CHAM830106    0.937
+  DAWD720101    0.901  FAUJ880106    0.898  RADA880106    0.875
+  WOLS870102    0.845  ROSG850101    0.842  FAUJ880104    0.835
+  CHAM830105    0.833  OOBM770102    0.824  HUTJ700102    0.819
+  MCMT640101    0.809  LEVM760107    0.807  RADA880103   -0.924
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    115.    225.    160.    150.    135.    180.    190.     75.    195.    175.
+    170.    200.    185.    210.    145.    115.    140.    255.    230.    155.
+//

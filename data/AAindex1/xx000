@@ -1,0 +1,12 @@
+H ANDN920101
+D alpha-CH chemical shifts (Andersen et al., 1992)
+R PMID:1575719
+A Andersen, N.H., Cao, B. and Chen, C.
+T Peptide/protein structure analysis using the chemical shift index method: 
+  upfield alpha-CH values reveal dynamic helices and aL sites
+J Biochem. and Biophys. Res. Comm. 184, 1008-1014 (1992)
+C BUNA790102    0.949
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    4.35    4.38    4.75    4.76    4.65    4.37    4.29    3.97    4.63    3.95
+    4.17    4.36    4.52    4.66    4.44    4.50    4.35    4.70    4.60    3.95
+//

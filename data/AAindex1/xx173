@@ -1,0 +1,14 @@
+H MAXF760104
+D Normalized frequency of left-handed alpha-helix (Maxfield-Scheraga, 1976)
+R PMID:990270
+A Maxfield, F.R. and Scheraga, H.A.
+T Status of empirical methods for the prediction of protein backbone topography
+J Biochemistry 15, 5138-5153 (1976) Recalculated by Kidera using a different 
+  set of proteins Reported values normalized by the total number
+C ISOY800108    0.945  RICJ880115    0.919  TANS770107    0.913
+  MAXF760105    0.850  AURR980117    0.849  RACS820109    0.844
+  TANS770109    0.821
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.17    0.76    2.62    1.08    0.95    0.91    0.28    5.02    0.57    0.26
+    0.21    1.17    0.00    0.28    0.12    0.57    0.23    0.00    0.97    0.24
+//

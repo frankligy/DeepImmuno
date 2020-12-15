@@ -1,0 +1,20 @@
+H TAKK010101
+D Side-chain contribution to protein stability (kJ/mol) (Takano-Yutani, 2001)
+R PMID:11579219
+A Takano, K., Yutani, K.
+T A new scale for side-chain contribution to protein stability based on the 
+  empirical stability analysis of mutant proteins
+J Protein Eng. 14, 525-528 (2001)
+C SIMZ760101    0.936  ARGP820101    0.906  JOND750101    0.906
+  MEEJ800102    0.891  NOZY710101    0.884  ZHOH040102    0.874
+  GOLD730101    0.872  CIDH920102    0.859  ZIMJ680105    0.856
+  ZHOH040101    0.846  LEVM760106    0.841  ZIMJ680102    0.840
+  CIDH920105    0.840  ROSM880104    0.840  BROC820102    0.839
+  BROC820101    0.836  MEEJ810101    0.836  RADA880102    0.830
+  PLIV810101    0.822  MEEJ810102    0.819  LEVM760107    0.819
+  VENT840101    0.812  WOLS870101   -0.858  BULH740101   -0.865
+  PARJ860101   -0.870
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+     9.8     7.3     3.6     4.9     3.0     2.4     4.4       0    11.9    17.2
+    17.0    10.5    11.9    23.0    15.0     2.6     6.9    24.2    17.2    15.3
+//

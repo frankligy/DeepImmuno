@@ -1,0 +1,23 @@
+H GUYH850105
+D Apparent partition energies calculated from Chothia index (Guy, 1985)
+R PMID:3978191
+A Guy, H.R.
+T Amino acid side-chain partition energies and distribution of residues in 
+  soluble proteins
+J Biophys. J. 47, 61-70 (1985)
+C CHOC760102    0.946  FAUJ880109    0.927  JANJ780101    0.923
+  GUYH850104    0.908  JANJ780103    0.885  OOBM770101    0.874
+  ROSM880102    0.874  PRAM900101    0.867  ENGD860101    0.867
+  PUNT030101    0.858  KUHL950101    0.850  ROSM880101    0.849
+  VHEG790101    0.845  GUYH850101    0.843  MEIH800102    0.811
+  RADA880105   -0.809  EISD860103   -0.812  NADH010103   -0.815
+  DESM900102   -0.818  CHOC760104   -0.822  YUTK870101   -0.841
+  NADH010101   -0.847  NADH010102   -0.867  KYTJ820101   -0.883
+  JACR890101   -0.887  JANJ780102   -0.898  RADA880104   -0.899
+  RADA880101   -0.899  JURD980101   -0.900  WOLR790101   -0.908
+  JANJ790102   -0.913  WOLR810101   -0.916  OLSK800101   -0.927
+  CHOC760103   -0.933  EISD840101   -0.951  RADA880107   -0.953
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -0.27    2.00    0.61    0.50   -0.23    1.00    0.33   -0.22    0.37   -0.80
+   -0.44    1.17   -0.31   -0.55    0.36    0.17    0.18    0.05    0.48   -0.65
+//

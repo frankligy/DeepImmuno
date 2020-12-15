@@ -1,0 +1,17 @@
+H NAKH920106
+D AA composition of CYT of multi-spanning proteins (Nakashima-Nishikawa, 1992)
+R PMID:1607012
+A Nakashima, H. and Nishikawa, K.
+T The amino acid composition is different between the cytoplasmic and 
+  extracellular sides in membrane proteins
+J FEBS Lett. 303, 141-146 (1992)
+C CEDJ970105    0.930  NAKH920101    0.929  CEDJ970104    0.923
+  FUKS010112    0.921  NAKH900101    0.900  JOND920101    0.889
+  CEDJ970102    0.886  NAKH900102    0.872  DAYM780101    0.856
+  NAKH920102    0.832  JUKT750101    0.831  NAKH920104    0.829
+  JUNJ780101    0.829  CEDJ970101    0.826  FUKS010110    0.824
+  FUKS010104    0.818  FUKS010109    0.814  NAKH920103    0.809
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    6.69    6.65    4.49    4.97    1.70    5.39    7.76    6.32    2.11    4.51
+    8.23    8.36    2.46    3.59    5.20    7.40    5.18    1.06    2.75    5.27
+//

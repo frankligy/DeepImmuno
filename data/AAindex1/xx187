@@ -1,0 +1,18 @@
+H NAGK730103
+D Normalized frequency of coil (Nagano, 1973)
+R PMID:4728695
+A Nagano, K.
+T Local analysis of the mechanism of protein folding. I. Prediction of helices, 
+  loops, and beta-structures from primary structure
+J J. Mol. Biol. 75, 401-420 (1973)
+C CHAM830101    0.857  CHOP780101    0.827  CHOP780216    0.819
+  CHOP780210    0.814  ROBB760113    0.811  PALJ810105    0.804
+  TANS770101   -0.800  MAXF760101   -0.801  PALJ810101   -0.808
+  LEVM780101   -0.809  PRAM900102   -0.809  PALJ810102   -0.818
+  ISOY800101   -0.821  BURA740101   -0.830  CHOP780201   -0.837
+  KANM800103   -0.847  CRAJ730101   -0.850  ROBB760101   -0.861
+  NAGK730101   -0.870
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.72    1.33    1.38    1.04    1.01    0.81    0.75    1.35    0.76    0.80
+    0.63    0.84    0.62    0.58    1.43    1.34    1.03    0.87    1.35    0.83
+//

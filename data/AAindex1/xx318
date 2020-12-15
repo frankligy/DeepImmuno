@@ -1,0 +1,18 @@
+H RADA880106
+D Accessible surface area (Radzicka-Wolfenden, 1988)
+R
+A Radzicka, A. and Wolfenden, R.
+T Comparing the polarities of the amino acids: Side-chain distribution 
+  coefficients between the vapor phase, cyclohexane, 1-octanol, and neutral 
+  aqueous solution
+J Biochemistry 27, 1664-1670 (1988) (Pro missing)
+C CHAM830106    0.922  GRAR740103    0.920  KRIW790103    0.883
+  CHOC760101    0.875  LEVM760102    0.871  LEVM760105    0.871
+  FASG760101    0.870  FAUJ880103    0.869  CHOC750101    0.867
+  TSAJ990102    0.864  TSAJ990101    0.861  PONJ960101    0.860
+  BIGC670101    0.856  GOLD730102    0.854  CHAM820101    0.847
+  HARY940101    0.846  ROSG850101    0.814  RADA880103   -0.895
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    93.7   250.4   146.3   142.6   135.2   177.7   182.9    52.6   188.1   182.2
+   173.7   215.2   197.6   228.6      0.   109.5   142.1   271.6   239.9   157.2
+//

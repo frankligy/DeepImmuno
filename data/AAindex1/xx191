@@ -1,0 +1,12 @@
+H NAKH900104
+D Normalized composition of mt-proteins (Nakashima et al., 1990)
+R PMID:2235995
+A Nakashima, H., Nishikawa, K. and Ooi, T.
+T Distinct character in hydrophobicity of amino acid composition of 
+  mitochondrial proteins
+J Proteins 8, 173-178 (1990)
+C NAKH900106    0.986  NAKH900108    0.849  EISD860101    0.812
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -0.60   -1.18    0.39   -1.36   -0.34   -0.71   -1.16   -0.37    0.08    1.44
+    1.82   -0.84    2.04    1.38   -0.05    0.25    0.66    1.02    0.53   -0.60
+//

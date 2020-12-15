@@ -1,0 +1,14 @@
+H NAKH900112
+D Transmembrane regions of mt-proteins (Nakashima et al., 1990)
+R PMID:2235995
+A Nakashima, H., Nishikawa, K. and Ooi, T.
+T Distinct character in hydrophobicity of amino acid composition of 
+  mitochondrial proteins
+J Proteins 8, 173-178 (1990)
+C NAKH900105    0.974  NAKH900103    0.966  FUKS010108    0.896
+  NAKH920105    0.881  NAKH920108    0.879  NAKH900111    0.878
+  NAKH900107    0.850
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    6.61    0.41    1.84    0.59    0.83    1.20    1.63    4.88    1.14   12.91
+   21.66    1.15    7.17    7.76    3.51    6.84    8.89    2.11    2.57    6.30
+//

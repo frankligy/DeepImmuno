@@ -1,0 +1,13 @@
+H YUTK870103
+D Activation Gibbs energy of unfolding, pH7.0 (Yutani et al., 1987)
+R PMID:3299367
+A Yutani, K., Ogasahara, K., Tsujita, T. and Sugino, Y.
+T Dependence of conformational stability on hydrophobicity of the amino acid 
+  residue in a series of variant proteins substituted at a unique position of 
+  tryptophan synthase alpha subunit
+J Proc. Natl. Acad. Sci. USA 84, 4441-4444 (1987) (Arg missing)
+C YUTK870104    0.997  EISD860102   -0.839
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   18.08      0.   17.47   17.36   18.17   17.93   18.16   18.24   18.49   18.62
+   18.60   17.96   18.11   17.30   18.16   17.57   17.54   17.19   17.99   18.30
+//

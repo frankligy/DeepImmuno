@@ -1,0 +1,32 @@
+H GUOD860101
+D Retention coefficient at pH 2 (Guo et al., 1986)
+R 
+A Guo, D., Mant, C.T., Taneja, A.K., Parker, J.M. and Hodges, R.S.
+T Prediction of peptide retention times in reversed-phase high-performance 
+  liquid chromatography; I. determination of retention coefficients of amino 
+  acid residues of model synthetic peptides
+J J Chromatogr. 359, 499-517 (1986)
+C MEEJ810102    0.949  PLIV810101    0.943  MEEJ810101    0.931
+  COWR900101    0.920  MIYS850101    0.908  FAUJ830101    0.900
+  WILM950101    0.893  ZHOH040103    0.889  ZHOH040101    0.884
+  NOZY710101    0.884  BASU050102    0.868  ROSM880104    0.868
+  BLAS910101    0.866  MEEJ800102    0.866  CIDH920104    0.860
+  CIDH920105    0.858  PONP800107    0.854  SWER830101    0.853
+  CORJ870102    0.852  ZIMJ680105    0.850  VENT840101    0.848
+  BASU050101    0.847  CIDH920103    0.845  NISK860101    0.840
+  EISD860101    0.839  BIOV880101    0.839  BASU050103    0.833
+  BROC820101    0.832  CIDH920102    0.831  RADA880102    0.829
+  ROSM880105    0.826  BIOV880102    0.817  MANP780101    0.815
+  ROBB790101    0.815  RADA880108    0.812  ZHOH040102    0.812
+  NAKH900110    0.805  NADH010104    0.803  NADH010103    0.803
+  PONP930101    0.802  FASG890101   -0.801  RACS770101   -0.805
+  PUNT030101   -0.810  PUNT030102   -0.813  GUYH850103   -0.819
+  MIYS990103   -0.828  KIDA850101   -0.828  ROSM880102   -0.829
+  MEIH800101   -0.833  OOBM770103   -0.838  MIYS990105   -0.846
+  MIYS990104   -0.846  GRAR740102   -0.855  MIYS990102   -0.916
+  MIYS990101   -0.917  BULH740101   -0.922  PARJ860101   -0.925
+  WOLS870101   -0.955
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+      25      -7      -7       2      32       0      14      -2     -26      91
+     100     -26      68     100      25      -2       7     109      56      62
+//

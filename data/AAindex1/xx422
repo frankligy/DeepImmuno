@@ -1,0 +1,18 @@
+H ONEK900101
+D Delta G values for the peptides extrapolated to 0 M urea (O'Neil-DeGrado, 
+  1990)
+R PMID:2237415
+A O'Neil, K.T. and DeGrado, W.F.
+T A thermodynamic scale for the helix-forming tendencies of the commonly 
+  occurring amino acids
+J Science 250, 646-651 (1990)
+C BLAM930101    0.965  BUNA790101    0.902  ROBB760103    0.878
+  QIAN880108    0.866  PTIO830101    0.847  ROBB760104    0.844
+  QIAN880109    0.824  FAUJ880113    0.820  MUNV940105   -0.839
+  RACS820114   -0.880  GEOR030109   -0.884  MUNV940101   -0.890
+  AVBF000104   -0.899  MUNV940102   -0.910  FINA910102   -0.920
+  ONEK900102   -0.982
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    13.4    13.3    12.0    11.7    11.6    12.8    12.2    11.3    11.6    12.0
+    13.0    13.0    12.8    12.1     6.5    12.2    11.7    12.4    12.1    11.9
+//

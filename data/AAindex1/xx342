@@ -1,0 +1,21 @@
+H ROBB760105
+D Information measure for extended (Robson-Suzuki, 1976)
+R PMID:1003471
+A Robson, B. and Suzuki, E.
+T Conformational properties of amino acid residues in globular proteins
+J J. Mol. Biol. 107, 327-356 (1976)
+C ROBB760106    0.949  KANM800102    0.898  KANM800104    0.885
+  CHOP780202    0.885  PTIO830102    0.878  GEIM800105    0.877
+  TANS770103    0.871  PALJ810103    0.869  LIFS790101    0.867
+  QIAN880120    0.860  QIAN880119    0.859  BASU050101    0.853
+  ISOY800102    0.847  LEVM780105    0.842  BASU050103    0.839
+  GEIM800107    0.836  PALJ810104    0.835  QIAN880121    0.834
+  PONP930101    0.829  PONP800102    0.828  PONP800101    0.823
+  PONP800103    0.823  BURA740102    0.821  PONP800108    0.820
+  NAGK730102    0.815  CORJ870101    0.809  MANP780101    0.805
+  PALJ810110    0.804  CORJ870104    0.803  RACS820111    0.803
+  CORJ870107    0.800  CORJ870108   -0.811  MUNV940103   -0.832
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    -2.3     0.4    -4.1    -4.4     4.4     1.2    -5.0    -4.2    -2.5     6.7
+     2.3    -3.3     2.3     2.6    -1.8    -1.7     1.3    -1.0     4.0     6.8
+//

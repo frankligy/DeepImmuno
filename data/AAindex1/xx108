@@ -1,0 +1,19 @@
+H GOLD730102
+D Residue volume (Goldsack-Chalifoux, 1973)
+R PMID:4354159
+A Goldsack, D.E. and Chalifoux, R.C.
+T Contribution of the free energy of mixing of hydrophobic side chains to the 
+  stability of the tertiary structure
+J J. Theor. Biol. 39, 645-651 (1973) (Asn Gln 8.8)
+C BIGC670101    1.000  KRIW790103    0.994  TSAJ990101    0.993
+  TSAJ990102    0.991  CHOC750101    0.989  GRAR740103    0.984
+  FAUJ880103    0.972  CHAM820101    0.967  CHOC760101    0.960
+  HARY940101    0.959  PONJ960101    0.947  FASG760101    0.918
+  LEVM760105    0.911  ROSG850101    0.909  DAWD720101    0.904
+  LEVM760102    0.893  ZHOH040102    0.882  LEVM760106    0.875
+  CHAM830106    0.869  LEVM760107    0.865  FAUJ880106    0.857
+  RADA880106    0.854  MCMT640101    0.814  RADA880103   -0.864
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    88.3   181.2   125.1   110.8   112.4   148.7   140.5    60.0   152.6   168.5
+   168.5   175.6   162.2   189.0   122.2    88.7   118.2   227.0   193.0   141.4
+//

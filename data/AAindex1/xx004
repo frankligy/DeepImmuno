@@ -1,0 +1,16 @@
+H BEGF750101
+D Conformational parameter of inner helix (Beghin-Dirkx, 1975)
+R PMID:50789
+A Beghin, F. and Dirkx, J.
+T Une methode statistique simple de prediction des conformations proteiques
+J Arch. Int. Physiol. Biochim. 83, 167-168 (1975)
+C KANM800103    0.893  AURR980113    0.857  ROBB760103    0.852
+  CHOP780201    0.841  QIAN880105    0.833  AURR980109    0.821
+  QIAN880107    0.815  PALJ810102    0.811  AURR980108    0.810
+  CHOP780101   -0.803  CHOP780210   -0.804  CRAJ730103   -0.812
+  ROBB760108   -0.819  ROBB760113   -0.826  CHAM830101   -0.854
+  PALJ810106   -0.859
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+      1.    0.52    0.35    0.44    0.06    0.44    0.73    0.35    0.60    0.73
+      1.    0.60      1.    0.60    0.06    0.35    0.44    0.73    0.44    0.82
+//

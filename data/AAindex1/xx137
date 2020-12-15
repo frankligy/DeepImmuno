@@ -1,0 +1,20 @@
+H KANM800101
+D Average relative probability of helix (Kanehisa-Tsong, 1980)
+R PMID:7426680
+A Kanehisa, M.I. and Tsong, T.Y.
+T Local hydrophobicity stabilizes secondary structures in proteins
+J Biopolymers 19, 1617-1628 (1980)
+C ISOY800101    0.963  PALJ810102    0.962  LEVM780104    0.958
+  CHOP780201    0.956  MAXF760101    0.950  ROBB760101    0.945
+  GEIM800101    0.942  LEVM780101    0.942  PRAM900102    0.942
+  PALJ810101    0.928  TANS770101    0.927  GEIM800104    0.916
+  RACS820108    0.914  KANM800103    0.912  NAGK730101    0.883
+  AURR980115    0.858  BURA740101    0.855  QIAN880106    0.854
+  QIAN880107    0.854  AURR980109    0.852  AURR980114    0.852
+  PALJ810109    0.849  AURR980112    0.847  CRAJ730101    0.842
+  AURR980110    0.830  QIAN880105    0.827  MUNV940102   -0.843
+  MUNV940101   -0.846
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.36    1.00    0.89    1.04    0.82    1.14    1.48    0.63    1.11    1.08
+    1.21    1.22    1.45    1.05    0.52    0.74    0.81    0.97    0.79    0.94
+//

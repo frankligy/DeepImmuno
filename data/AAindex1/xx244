@@ -1,0 +1,12 @@
+H PONP800105
+D Surrounding hydrophobicity in beta-sheet (Ponnuswamy et al., 1980)
+R PMID:7397216
+A Ponnuswamy, P.K., Prabhakaran, M. and Manavalan, P.
+T Hydrophobic packing and spatial arrangement of amino acid residues in 
+  globular proteins
+J Biochim. Biophys. Acta 623, 301-316 (1980)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   14.60   13.24   11.79   13.78   15.90   12.02   13.59   14.18   15.35   14.10
+   16.49   13.28   16.23   14.18   14.10   13.36   14.50   13.90   14.76   16.30
+//

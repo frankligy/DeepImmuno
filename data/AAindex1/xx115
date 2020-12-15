@@ -1,0 +1,13 @@
+H HUTJ700101
+D Heat capacity (Hutchens, 1970)
+R 
+A Hutchens, J.O.
+T Heat capacities, absolute entropies, and entropies of formation of amino 
+  acids and related compounds
+J In "Handbook of Biochemistry", 2nd ed. (Sober, H.A., ed.), Chemical Rubber 
+  Co., Cleveland, Ohio, pp. B60-B61 (1970)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   29.22   26.37   38.30   37.09   50.70   44.02   41.84   23.71   59.64   45.00
+   48.03   57.10   69.32   48.52   36.13   32.40   35.20   56.92   51.73   40.35
+//

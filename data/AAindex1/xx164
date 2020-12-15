@@ -1,0 +1,20 @@
+H LEVM780106
+D Normalized frequency of reverse turn, unweighted (Levitt, 1978)
+R PMID:708713
+A Levitt, M.
+T Conformational preferences of amino acids in globular proteins
+J Biochemistry 17, 4277-4285 (1978)
+C LEVM780103    0.984  PRAM900104    0.983  QIAN880133    0.971
+  CHOP780216    0.953  GEIM800111    0.951  QIAN880132    0.943
+  ISOY800103    0.941  CHOP780203    0.935  QIAN880134    0.932
+  GEIM800108    0.932  QIAN880135    0.902  PALJ810105    0.902
+  CHAM830101    0.900  TANS770110    0.892  CHOP780101    0.890
+  PALJ810106    0.850  MUNV940103    0.815  CHOP780210    0.812
+  GEIM800110    0.809  AVBF000101   -0.805  LIFS790101   -0.806
+  QIAN880119   -0.810  QIAN880107   -0.813  QIAN880109   -0.815
+  QIAN880120   -0.831  PTIO830101   -0.854  AVBF000102   -0.860
+  FAUJ880102   -0.865  SUEM840101   -0.878
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.79    0.90    1.25    1.47    0.79    0.92    1.02    1.67    0.81    0.50
+    0.57    0.99    0.51    0.77    1.78    1.30    0.97    0.79    0.93    0.46
+//

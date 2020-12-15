@@ -1,0 +1,11 @@
+H CHAM820102
+D Free energy of solution in water, kcal/mole (Charton-Charton, 1982)
+R PMID:7183857
+A Charton, M. and Charton, B.I.
+T The structural dependence of amino acid hydrophobicity parameters
+J J. Theor. Biol. 99, 629-644 (1982) (Asn His Lys Thr !)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+  -0.368   -1.03      0.    2.06    4.53   0.731    1.77  -0.525      0.   0.791
+    1.07      0.   0.656    1.06   -2.24  -0.524      0.    1.60    4.91   0.401
+//

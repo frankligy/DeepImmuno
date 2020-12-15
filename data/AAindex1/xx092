@@ -1,0 +1,18 @@
+H FINA910102
+D Helix initiation parameter at posision i,i+1,i+2 (Finkelstein et al., 1991)
+R PMID:1946339
+A Finkelstein, A.V., Badretdinov, A.Y. and Ptitsyn, O.B.
+T Physical reasons for secondary structure stability: alpha-helices in short 
+  peptides
+J Proteins 10, 287-299 (1991) In these four data, each of Arg, Asp, Glu, His 
+  and Lys has two value. See comment lines. Arg pH < 12 ( 1 when pH > 12 ) Asp 
+  pH > 4 ( 1 when pH < 4 ) Glu pH > 4.3 ( 1 when pH < 4.3 ) His pH > 6.3 ( 0.7 
+  when pH < 6.3 ) Lys pH < 10.5 ( 1 when pH > 10.5 ) (Pro !)
+C ONEK900102    0.964  MUNV940105    0.911  AVBF000104    0.901
+  MUNV940104    0.896  GEOR030109    0.890  TANS770104    0.876
+  ISOY800104    0.844  CHOP780213    0.832  ROBB760104   -0.844
+  ONEK900101   -0.920  BLAM930101   -0.961  BUNA790101   -0.992
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+      1.    0.70      1.    1.70      1.      1.    1.70    1.30      1.      1.
+      1.    0.70      1.      1.     13.      1.      1.      1.      1.      1.
+//

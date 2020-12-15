@@ -1,0 +1,12 @@
+H OOBM850104
+D Optimized average non-bonded energy per atom (Oobatake et al., 1985)
+R
+A Oobatake, M., Kubota, Y. and Ooi, T.
+T Optimization of amino acid parameters for correspondence of sequence to 
+  tertiary structures of proteuins
+J Bull. Inst. Chem. Res., Kyoto Univ. 63, 82-94 (1985)
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -2.49    2.55    2.27    8.86   -3.13    1.79    4.04   -0.56    4.22  -10.87
+   -7.16   -9.97   -4.96   -6.64    5.19   -1.60   -4.75  -17.84    9.25   -3.97
+//

@@ -1,0 +1,21 @@
+H JACR890101
+D Weights from the IFH scale (Jacobs-White, 1989)
+R PMID:2742845
+A Jacobs, R. and White, S.H.
+T The nature of the hydrophobic bonding of small peptides at the bilayer 
+  interface: implications for the insertion of transbilayer helices
+J Biochemistry 28, 3421-3437 (1989)
+C EISD840101    0.938  RADA880101    0.936  WOLR810101    0.908
+  WOLR790101    0.906  RADA880107    0.895  RADA880104    0.868
+  ROSM880105    0.863  JANJ790102    0.840  EISD860101    0.827
+  BLAS910101    0.819  CHOC760102   -0.803  JANJ780103   -0.809
+  PUNT030101   -0.812  OOBM770101   -0.812  HOPT810101   -0.816
+  GUYH850104   -0.827  LEVM760101   -0.832  ZIMJ680103   -0.835
+  KIDA850101   -0.836  ROSM880102   -0.837  KUHL950101   -0.864
+  JANJ780101   -0.865  EISD860102   -0.871  GUYH850105   -0.887
+  FAUJ880109   -0.889  ROSM880101   -0.892  VHEG790101   -0.903
+  ENGD860101   -0.948  PRAM900101   -0.948
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.18   -5.40   -1.30   -2.36    0.27   -1.22   -2.10    0.09   -1.48    0.37
+    0.41   -2.53    0.44    0.50   -0.20   -0.40   -0.34   -0.01   -0.08    0.32
+//

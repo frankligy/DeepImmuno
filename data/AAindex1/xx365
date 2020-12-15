@@ -1,0 +1,20 @@
+H TANS770101
+D Normalized frequency of alpha-helix (Tanaka-Scheraga, 1977)
+R PMID:557155
+A Tanaka, S. and Scheraga, H.A.
+T Statistical mechanical treatment of protein conformation. 5. A multiphasic 
+  model for specific-sequence copolymers of amino acids
+J Macromolecules 10, 9-20 (1977) Recalculated by Kidera as normalized 
+  frequencies
+C ROBB760101    0.948  CHOP780201    0.947  MAXF760101    0.930
+  KANM800101    0.927  NAGK730101    0.925  PALJ810102    0.923
+  GEIM800101    0.918  PALJ810101    0.918  BURA740101    0.917
+  LEVM780104    0.908  ISOY800101    0.906  PRAM900102    0.854
+  LEVM780101    0.854  RACS820108    0.845  KANM800103    0.843
+  CRAJ730101    0.843  GEIM800104    0.841  AURR980115    0.834
+  QIAN880106    0.819  AURR980111    0.817  QIAN880107    0.804
+  AURR980114    0.800  NAGK730103   -0.800
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    1.42    1.06    0.71    1.01    0.73    1.02    1.63    0.50    1.20    1.12
+    1.29    1.24    1.21    1.16    0.65    0.71    0.78    1.05    0.67    0.99
+//

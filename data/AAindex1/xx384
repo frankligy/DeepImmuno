@@ -1,0 +1,13 @@
+H WERD780102
+D Free energy change of epsilon(i) to epsilon(ex) (Wertz-Scheraga, 1978)
+R PMID:621952
+A Wertz, D.H. and Scheraga, H.A.
+T Influence of water on protein structure. An analysis of the preferences of 
+  amino acid residues for the inside or outside and for specific conformations 
+  in a protein molecule
+J Macromolecules 11, 9-15 (1978) Adjusted values
+C 
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    0.16   -0.20    1.03   -0.24   -0.12   -0.55   -0.45   -0.16   -0.18   -0.19
+   -0.44   -0.12   -0.79   -0.25   -0.59   -0.01    0.05   -0.33   -0.42   -0.46
+//

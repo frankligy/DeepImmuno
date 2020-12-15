@@ -1,0 +1,12 @@
+H LAWE840101
+D Transfer free energy, CHP/water (Lawson et al., 1984)
+R PMID:6699000
+A Lawson, E.Q., Sadler, A.J., Harmatz, D., Brandau, D.T., Micanovic, R. 
+  MacElroy, R.D. and Middaught, C.R.
+T A simple experimental model for hydrophobic interactions in proteins
+J J. Biol. Chem. 259, 2910-2912 (1984)
+C GOLD730101    0.829  SIMZ760101    0.815  ZIMJ680105    0.809
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   -0.48   -0.06   -0.87   -0.75   -0.32   -0.32   -0.71    0.00   -0.51    0.81
+    1.02   -0.09    0.81    1.03    2.03    0.05   -0.35    0.66    1.24    0.56
+//

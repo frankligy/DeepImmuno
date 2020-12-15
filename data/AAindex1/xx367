@@ -1,0 +1,15 @@
+H TANS770103
+D Normalized frequency of extended structure (Tanaka-Scheraga, 1977)
+R PMID:557155
+A Tanaka, S. and Scheraga, H.A.
+T Statistical mechanical treatment of protein conformation. 5. A multiphasic 
+  model for specific-sequence copolymers of amino acids
+J Macromolecules 10, 9-20 (1977) Recalculated by Kidera as normalized 
+  frequencies
+C ISOY800102    0.929  MAXF760102    0.891  ROBB760105    0.871
+  GEIM800105    0.850  RACS820111    0.841  PALJ810103    0.824
+  WOEC730101   -0.806
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.790   1.087   0.832   0.530   1.268   1.038   0.643   0.725   0.864   1.361
+   1.111   0.735   1.092   1.052   1.249   1.093   1.214   1.114   1.340   1.428
+//

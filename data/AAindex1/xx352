@@ -1,0 +1,20 @@
+H ROSG850101
+D Mean area buried on transfer (Rose et al., 1985)
+R PMID:4023714
+A Rose, G.D., Geselowitz, A.R., Lesser, G.J., Lee, R.H. and Zehfus, M.H.
+T Hydrophobicity of amino acid residues in globular proteins
+J Science 229, 834-838 (1985)
+C ZHOH040102    0.930  GRAR740103    0.922  KRIW790103    0.920
+  CHAM820101    0.917  TSAJ990101    0.914  BIGC670101    0.910
+  GOLD730102    0.909  TSAJ990102    0.909  CHOC750101    0.908
+  ZHOH040101    0.904  LEVM760106    0.896  FAUJ880103    0.892
+  HARY940101    0.869  CIDH920102    0.866  PONJ960101    0.862
+  MCMT640101    0.857  LEVM760107    0.852  CHOC760101    0.842
+  FASG760101    0.838  NOZY710101    0.834  CIDH920101    0.831
+  RADA880106    0.814  PARS000101   -0.805  KARP850101   -0.807
+  VINM940102   -0.810  RADA880103   -0.814  WEBA780101   -0.817
+  FUKS010103   -0.819
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+    86.6   162.2   103.3    97.8   132.3   119.2   113.9    62.9   155.8   158.0
+   164.1   115.5   172.9   194.1    92.9    85.6   106.5   224.6   177.7   141.0
+//

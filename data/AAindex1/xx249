@@ -1,0 +1,12 @@
+H PRAM820102
+D Slope in regression analysis x 1.0E1 (Prabhakaran-Ponnuswamy, 1982)
+R
+A Prabhakaran, M. and Ponnuswamy, P.K.
+T Shape and surface features of globular proteins
+J Macromolecules 15, 314-320 (1982) Regression analysis of solvent contact area 
+  and spatial position
+C LEVM760104    0.812  PRAM820103    0.802
+I    A/L     R/K     N/M     D/F     C/P     Q/S     E/T     G/W     H/Y     I/V
+   0.175   0.083   0.090   0.140   0.074   0.093   0.135   0.201   0.125   0.100
+   0.104   0.058   0.054   0.104   0.136   0.155   0.152   0.092   0.081   0.096
+//
