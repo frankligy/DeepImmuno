@@ -7,9 +7,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 import numpy as np
 import pandas as pd
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-from matplotlib.colors import ListedColormap
 import argparse
 import os
 
@@ -126,6 +123,16 @@ class real_dataset_class(torch.utils.data.Dataset):
 
 # auxiliary function during training GAN
 def sample_generator(batch_size):
+    batch_size = 64
+    lr = 0.0001
+    num_epochs = 100
+    seq_len = 10
+    hidden = 128
+    n_chars = 21
+    d_steps = 10
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    G = Generator(hidden,seq_len,n_chars,batch_size).to(device)
+    G.load_state_dict(torch.load('./models/wassGAN_G.pth'))
     noise = torch.randn(batch_size, 128).to(device)  # [N, 128]
     generated_data = G(noise)  # [N, seq_len, n_chars]
     return generated_data
@@ -285,6 +292,7 @@ def inverse_transform(hard):  # [N,seq_len]
 def main(args):
     #batch= args.batch
     outdir = args.outdir
+    print("outdir is {}".format(outdir))
     generation = sample_generator(64).detach().cpu().numpy()  # [N,seq_len,n_chars]
     hard = np.argmax(generation, axis=2)  # [N,seq_len]
     pseudo = inverse_transform(hard)

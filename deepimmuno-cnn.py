@@ -10,8 +10,6 @@ import tensorflow.keras as keras
 from tensorflow.keras import layers
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn.metrics import auc,precision_recall_curve,roc_curve,confusion_matrix
 import argparse
 import os
 
@@ -138,7 +136,7 @@ def rescue_unknown_hla(hla, dic_inventory):
 
 
 
-def hla_data_aaindex(hla_dic,hla_type,after_pca):    # return numpy array [34,12,1]
+def hla_data_aaindex(hla_dic,hla_type,after_pca,dic_inventory):    # return numpy array [46,12,1]
     try:
         seq = hla_dic[hla_type]
     except KeyError:
@@ -148,7 +146,7 @@ def hla_data_aaindex(hla_dic,hla_type,after_pca):    # return numpy array [34,12
     encode = encode.reshape(encode.shape[0], encode.shape[1], -1)
     return encode
 
-def construct_aaindex(ori,hla_dic,after_pca):
+def construct_aaindex(ori,hla_dic,after_pca,dic_inventory):
     series = []
     for i in range(ori.shape[0]):
         peptide = ori['peptide'].iloc[i]
@@ -157,7 +155,7 @@ def construct_aaindex(ori,hla_dic,after_pca):
 
         encode_pep = peptide_data_aaindex(peptide,after_pca)    # [10,12]
 
-        encode_hla = hla_data_aaindex(hla_dic,hla_type,after_pca)   # [46,12]
+        encode_hla = hla_data_aaindex(hla_dic,hla_type,after_pca,dic_inventory)   # [46,12]
         series.append((encode_pep, encode_hla, immuno))
     return series
 
@@ -167,6 +165,7 @@ def hla_df_to_dic(hla):
         col1 = hla['HLA'].iloc[i]  # HLA allele
         col2 = hla['pseudo'].iloc[i]  # pseudo sequence
         dic[col1] = col2
+    return dic
 
 
 
@@ -217,13 +216,19 @@ def file_process(upload,download):
 def main(args):
     mode = args.mode
     if mode == 'single':
+        print("mode is single")
         epitope = args.epitope
+        print("queried epitope is {}".format(epitope))
         hla= args.hla
+        print("queried epitope is {}".format(hla))
         score = computing_s(epitope,hla)
         print(score)
     elif mode == 'multiple':
+        print("mode is multiple")
         intFile = args.intdir
+        print("input file is {}".format(intFile))
         outFolder = args.outdir
+        print("output will be in {}".format(outFolder))
         file_process(intFile,outFolder)
 
 
