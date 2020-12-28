@@ -204,7 +204,6 @@ def file_process(upload,download):
     ori_score = pd.read_csv(upload, sep=',', header=None)
     ori_score.columns = ['peptide', 'HLA']
     ori_score['immunogenicity'] = ['0'] * ori_score.shape[0]
-    ori_score.to_csv(download, sep='\t', index=None)
     dataset_score = construct_aaindex(ori_score, hla_dic, after_pca, dic_inventory)
 
     input1_score = pull_peptide_aaindex(dataset_score)
