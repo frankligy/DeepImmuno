@@ -13,6 +13,10 @@ Enjoy and don't hesitate to ask me questions (contact at the bottom), I will be 
 If you find that tool useful in your research, please consider citing our preprint:
 https://www.biorxiv.org/content/10.1101/2020.12.24.424262v1
 
+## FAQ
+1. **Why I get zero immunogenicity score when running on deepimmno webserver?**
+Currently, Deepimmuno-CNN only supports peptides in the length of 9 and 10. We are working on adding support to peptides of other length and it will be available in the future version. But for now, it is advisable to filter to your queried peptides to 9mer and 10mer. 
+
 ## DeepImmuno-CNN
 
 #### Dependencies
