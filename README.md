@@ -15,6 +15,9 @@ Enjoy and don't hesitate to ask me questions (contact at the bottom), I will be 
 If you find that tool useful in your research, please consider citing our preprint:
 https://www.biorxiv.org/content/10.1101/2020.12.24.424262v1
 
+## Reproduce
+All the codes for reproducing figures in the manucript can be accessed in `/reproduce/fig`
+
 ## FAQ
 1. **Why I get zero immunogenicity score when running on deepimmno webserver?**
 Currently, Deepimmuno-CNN only supports peptides in the length of 9 and 10. We are working on adding support to peptides of other length and it will be available in the future version. But for now, it is advisable to filter to your queried peptides to 9mer and 10mer. 
@@ -56,7 +59,7 @@ Then you run:
 python3 deepimmuno-cnn.py --mode "multiple" --intdir "/path/to/above/file" --outdir "/path/to/output/folder"
 ```
 
-- *Please note, when you specify the output dir, don't include the forward slash at the end, for example, use "~/Desktop" instead "~/Desktop/"*
+- *Please note, when you specify the output dir, don't include the forward slash at the end, for example, use "/Desktop" instead "/Desktop/"*
 
 - *PLease note, if python3 doesn't work, you can replace python3 to python, it depends your installed python interpreter*
 
@@ -114,7 +117,7 @@ optional arguments:
   --outdir OUTDIR  specifying your output folder
 ```
 
-- *Please note, when you specify the output dir, don't include the forward slash at the end, for example, use "~/Desktop" instead "~/Desktop/"*
+- *Please note, when you specify the output dir, don't include the forward slash at the end, for example, use "/Desktop" instead "/Desktop/"*
 
 - *PLease note, if python3 doesn't work, you can replace python3 to python, it depends your installed python interpreter*
 
