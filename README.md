@@ -16,7 +16,7 @@ If you find that tool useful in your research, please consider citing our prepri
 https://www.biorxiv.org/content/10.1101/2020.12.24.424262v1
 
 ## Reproduce
-All the codes for reproducing figures in the manucript can be accessed in `/reproduce/fig`
+All the codes for reproducing figures in the manucript can be accessed in [`/reproduce/fig`](https://github.com/frankligy/DeepImmuno/tree/main/reproduce/fig)
 
 ## FAQ
 1. **Why I get zero immunogenicity score when running on deepimmno webserver?**
