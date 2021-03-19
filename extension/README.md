@@ -41,7 +41,7 @@ The examples can be found in `./gan_result` folder
 
 - In addtion to the basic dependencies shown in main [README.md](https://github.com/frankligy/DeepImmuno) file, you probably need `matplotlib` as well to draw the diagnostic plots.
 
-- We hard-coded the `batch_size=64`, so we hope your training data is at least more than 64 instances. Having said that, you can change this setting at your will.
+- We hard-coded the `batch_size=64`, so we hope your training data is at least more than 64 instances. Having said that, [you can change this setting at your will](https://github.com/frankligy/DeepImmuno/blob/main/extension/deepimmuno-gan-train.py/#L390).
 
 - we advise to set the `epoch` as 100 or more to assure a good training performance.
 

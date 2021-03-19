@@ -9,7 +9,7 @@ The repository for building the DeepImmuno web server: https://github.com/frankl
 
 - Please refer to [DeepImmuno-GAN](#deepimmuno-gan) if you want to generate immunogenic peptide
 
-- Please refer to [Train your own GAN]() if you want to generate peptides with customized features/properties.
+- Please refer to [Train your own GAN](https://github.com/frankligy/DeepImmuno/tree/main/extension) if you want to generate peptides with customized features/properties.
 
 Enjoy and don't hesitate to ask me questions (contact at the bottom), I will be responsive! Feel free to raise an issue on github page!
 
