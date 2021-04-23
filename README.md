@@ -58,7 +58,7 @@ DDDDDDDDD,HLA-C*0702
 Then you run:
 
 ```shell
-python3 deepimmuno-cnn.py --mode "multiple" --intdir "/path/to/above/file" --outdir "/path/to/output/folder"
+python3 deepimmuno-cnn.py --mode "multiple" --intdir "/path/to/above/file" --outdir "/path/to/output/folder --outname "outname.txt"
 ```
 
 - *Please note, when you specify the output dir, don't include the forward slash at the end, for example, use "/Desktop" instead "/Desktop/"*
@@ -69,7 +69,7 @@ A full help prompt is as below:
 
 ```
 usage: deepimmuno-cnn.py [-h] [--mode MODE] [--epitope EPITOPE] [--hla HLA]
-                         [--intdir INTDIR] [--outdir OUTDIR]
+                         [--intdir INTDIR] [--outdir OUTDIR] [--outname OUTNAME]
 
 DeepImmuno-CNN command line
 
@@ -80,6 +80,7 @@ optional arguments:
   --hla HLA          if single mode, specifying your HLA allele
   --intdir INTDIR    if multiple mode, specifying the path to your input file
   --outdir OUTDIR    if multiple mode, specifying the path to your output folder
+  --outname OUTNAME  if multiple mode, specifying the name of the output file
 ```
 
 ## DeepImmuno-GAN
