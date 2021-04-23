@@ -177,7 +177,7 @@ def computing_s(peptide,mhc):
     inventory = list(hla_dic.keys())
     dic_inventory = dict_inventory(inventory)
     cnn_model = seperateCNN()
-    cnn_model.save_weights('./models/cnn_model_331_3_7/')
+    cnn_model.load_weights('./models/cnn_model_331_3_7/')
     peptide_score = [peptide]
     hla_score = [mhc]
     immuno_score = ['0']
@@ -198,7 +198,7 @@ def file_process(upload,download):
     inventory = list(hla_dic.keys())
     dic_inventory = dict_inventory(inventory)
     cnn_model = seperateCNN()
-    cnn_model.save_weights('./models/cnn_model_331_3_7/')
+    cnn_model.load_weights('./models/cnn_model_331_3_7/')
 
     ori_score = pd.read_csv(upload, sep=',', header=None)
     ori_score.columns = ['peptide', 'HLA']
