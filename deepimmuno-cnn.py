@@ -190,7 +190,7 @@ def computing_s(peptide,mhc):
     return float(scoring)
 
 
-def file_process(upload,download):
+def file_process(upload,download,result_file='deepimmuno-cnn-result.txt'):
 
     after_pca = np.loadtxt('./data/after_pca.txt')
     hla = pd.read_csv('./data/hla2paratopeTable_aligned.txt',sep='\t')
@@ -211,7 +211,7 @@ def file_process(upload,download):
     scoring = cnn_model.predict(x=[input1_score, input2_score])
     scoring = cnn_model.predict(x=[input1_score, input2_score])
     ori_score['immunogenicity'] = scoring
-    ori_score.to_csv(os.path.join(download,'deepimmuno-cnn-result.txt'), sep='\t', index=None)
+    ori_score.to_csv(os.path.join(download,result_file), sep='\t', index=None)
 
 def main(args):
     mode = args.mode
@@ -229,7 +229,9 @@ def main(args):
         print("input file is {}".format(intFile))
         outFolder = args.outdir
         print("output will be in {}".format(outFolder))
-        file_process(intFile,outFolder)
+        outName = args.outname
+        print("output name will be {}".format(outName))
+        file_process(intFile,outFolder,outName)
 
 
 if __name__ == '__main__':
@@ -239,5 +241,6 @@ if __name__ == '__main__':
     parser.add_argument('--hla',type=str,default=None,help='if single mode, specifying your HLA allele')
     parser.add_argument('--intdir',type=str,default=None,help='if multiple mode, specifying the path to your input file')
     parser.add_argument('--outdir',type=str,default=None,help='if multiple mode, specifying the path to your output folder')
+    parser.add_argument('--outname',type=str,default='deepimmuno-cnn-result.txt',help='specify the name of the output txt file. Default: deepimmuno-cnn-result.txt')
     args = parser.parse_args()
     main(args)
