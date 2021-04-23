@@ -58,7 +58,7 @@ DDDDDDDDD,HLA-C*0702
 Then you run:
 
 ```shell
-python3 deepimmuno-cnn.py --mode "multiple" --intdir "/path/to/above/file" --outdir "/path/to/output/folder --outname "outname.txt"
+python3 deepimmuno-cnn.py --mode "multiple" --intdir "/path/to/above/file" --outdir "/path/to/output/folder" --outname "outname.txt"
 ```
 
 - *Please note, when you specify the output dir, don't include the forward slash at the end, for example, use "/Desktop" instead "/Desktop/"*
