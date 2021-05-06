@@ -15,6 +15,7 @@ Enjoy and don't hesitate to ask me questions (contact at the bottom), I will be 
 
 ## Citation
 If you find that tool useful in your research, please consider citing our paper:
+
 *DeepImmuno: deep learning-empowered prediction and generation of immunogenic peptides for T-cell immunity*, Briefings in Bioinformatics, May 03 2021 (https://doi.org/10.1093/bib/bbab160)
 
 ## Reproduce
