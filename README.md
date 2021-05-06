@@ -14,8 +14,8 @@ The repository for building the DeepImmuno web server: https://github.com/frankl
 Enjoy and don't hesitate to ask me questions (contact at the bottom), I will be responsive! Feel free to raise an issue on github page!
 
 ## Citation
-If you find that tool useful in your research, please consider citing our preprint:
-https://www.biorxiv.org/content/10.1101/2020.12.24.424262v1
+If you find that tool useful in your research, please consider citing our paper:
+*DeepImmuno: deep learning-empowered prediction and generation of immunogenic peptides for T-cell immunity*, Briefings in Bioinformatics, May 03 2021 (https://doi.org/10.1093/bib/bbab160)
 
 ## Reproduce
 All the codes for reproducing figures in the manucript can be accessed in [`/reproduce/fig`](https://github.com/frankligy/DeepImmuno/tree/main/reproduce/fig)
