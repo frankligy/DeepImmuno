@@ -1,7 +1,7 @@
 # DeepImmuno
 Deep-learning empowered prediction and generation of immunogenic epitopes for T cell immunity. 
 
-We recommend to try out our web application for that: https://deepimmuno.herokuapp.com/
+We recommend to try out our web application for that: https://deepimmuno.research.cchmc.org
 
 The repository for building the DeepImmuno web server: https://github.com/frankligy/DeepImmuno-web
 
