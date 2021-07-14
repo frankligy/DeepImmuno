@@ -135,7 +135,7 @@ def calculate_gradient_penalty(real_data,fake_data,lambda_=10):
     interpolates = torch.autograd.Variable(interpolates,requires_grad=True)
     disc_interpolates = D(interpolates)
     # below, grad function will return a tuple with length one, so only take [0], it will be a tensor of shape inputs, gradient wrt each input
-    gradients = torch.autograd.grad(outputs=disc_interpolates,inputs=interpolates,grad_outputs=torch.ones(disc_interpolates.size()),create_graph=True,retain_graph=True)[0]
+    gradients = torch.autograd.grad(outputs=disc_interpolates,inputs=interpolates,grad_outputs=torch.ones(disc_interpolates.size()).to(device),create_graph=True,retain_graph=True)[0]
     gradients = gradients.contiguous().view(batch_size,-1)  # [N, seq_len*n_chars]
     gradients_norm = torch.sqrt(torch.sum(gradients ** 2, dim=1) + 1e-12)  # [N,]
     gradient_penalty = lambda_* ((gradients_norm - 1) ** 2).mean()     # []
@@ -143,6 +143,7 @@ def calculate_gradient_penalty(real_data,fake_data,lambda_=10):
 
 
 def discriminator_train(real_data):
+    real_data = real_data.to(device)
     D_optimizer.zero_grad()
     fake_data = sample_generator(batch_size)   # generate a mini-batch of fake data
     d_fake_pred = D(fake_data)    # what's the prediction you get via discriminator
