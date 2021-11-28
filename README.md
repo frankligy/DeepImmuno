@@ -28,6 +28,9 @@ All the codes for reproducing figures in the manucript can be accessed in [`/rep
 1. **Why I get zero immunogenicity score when running on deepimmno webserver?**
 Currently, Deepimmuno-CNN only supports peptides in the length of 9 and 10. We are working on adding support to peptides of other length and it will be available in the future version. But for now, it is advisable to filter to your queried peptides to 9mer and 10mer. 
 
+2. **How did I obtain the paratope information to encode the HLA?**
+I compile a [README.md](./new_imgt_scraping/README.md) file for all the detailed steps, feel free to contact me if you have any confusions.
+
 ## DeepImmuno-CNN
 
 #### Dependencies
