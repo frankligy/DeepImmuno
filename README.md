@@ -33,6 +33,11 @@ Currently, Deepimmuno-CNN only supports peptides in the length of 9 and 10. We a
 
 I compile a [README.md](./new_imgt_scraping/README.md) file for all the detailed steps, feel free to contact me if you have any confusions.
 
+3. **Can I retrain the CNN model?**
+
+Please refer to [cnn_retrain.ipynb](./reproduce/cnn_retrain.ipynb) for the instructions. Feel free to reach out if I can help with anything!
+
+
 ## DeepImmuno-CNN
 
 #### Dependencies
