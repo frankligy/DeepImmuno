@@ -35,7 +35,7 @@ I compile a [README.md](./new_imgt_scraping/README.md) file for all the detailed
 
 3. **Can I retrain the CNN model?**
 
-Please refer to [cnn_retrain.ipynb](./reproduce/cnn_retrain.ipynb) for the instructions. Feel free to reach out if I can help with anything!
+Please refer to [cnn_retrain_notebook.ipynb](./reproduce/cnn_retrain_notebook.ipynb) for the instructions. Feel free to reach out if I can help with anything!
 
 
 ## DeepImmuno-CNN
