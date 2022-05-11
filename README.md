@@ -37,6 +37,12 @@ I compile a [README.md](./new_imgt_scraping/README.md) file for all the detailed
 
 Please refer to [cnn_retrain_notebook.ipynb](./reproduce/cnn_retrain_notebook.ipynb) for the instructions. Feel free to reach out if I can help with anything!
 
+4. **How to derive immunogenicity potential?**
+
+Imagine we have a dataframe named `data`, each row is a peptide-MHC complex, it has two column, one is `test`, another is `respond`, which records number of times
+the pMHC was tested and the number of times the immunogenicity response was observed. With that, you can refer to function `assign_posterior` in [here](https://github.com/frankligy/DeepImmuno/blob/main/src/immuno3_3.py#L17-L43) to derive immunogenicity
+potential.
+
 
 ## DeepImmuno-CNN
 
