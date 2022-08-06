@@ -43,7 +43,7 @@ Imagine we have a dataframe named `data`, each row is a peptide-MHC complex, it 
 the pMHC was tested and the number of times the immunogenicity response was observed. With that, you can refer to function `assign_posterior` in [here](https://github.com/frankligy/DeepImmuno/blob/main/src/immuno3_3.py#L17-L43) to derive immunogenicity
 potential.
 
-5. **Could you an useable graph neural net codebase?**
+5. **Could you provide an useable graph neural net codebase?**
 
 I added a [notebook](./reproduce/reproduce_gcn.ipynb) to run GCN model, however, as we illustrated in the paper, the GCN model in this case, doesn't achieve a good performance which we 
 attribute to the "short-cut" learning. If you want to improve the model, I may suggest to start thinking how to better encode the HLA-peptide interaction as a graph, what would be the proper
