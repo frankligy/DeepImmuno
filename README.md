@@ -49,6 +49,10 @@ I added a [notebook](./reproduce/reproduce_gcn.ipynb) to run GCN model, however,
 attribute to the "short-cut" learning. If you want to improve the model, I may suggest to start thinking how to better encode the HLA-peptide interaction as a graph, what would be the proper
 edge weight. Hoping that could be helpful.
 
+6. **How Does the placehoder amino acid's embedding be calculated?**
+
+After reading the AAindex for the 20 amino acid, we have a matrix of the shape 20 * 566, then we take the mean of these 20 amino acid to serve as the embedding of the 21st amino acid "X" to arrive at the final matrix of the shape 21 * 566. The code is available [here](https://github.com/frankligy/DeepImmuno/blob/8d0d14900cd9f183d0795ab4b1b4f8dcb89a85e2/src/utils_get_afterpca.py#L177).
+
 
 ## DeepImmuno-CNN
 
