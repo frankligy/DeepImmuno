@@ -53,6 +53,22 @@ edge weight. Hoping that could be helpful.
 
 After reading the AAindex for the 20 amino acid, we have a matrix of the shape 20 * 566, then we take the mean of these 20 amino acid to serve as the embedding of the 21st amino acid "X" to arrive at the final matrix of the shape 21 * 566. The code is available [here](https://github.com/frankligy/DeepImmuno/blob/8d0d14900cd9f183d0795ab4b1b4f8dcb89a85e2/src/utils_get_afterpca.py#L177).
 
+7. **Where can I find the training and testing dataset?**
+
+* [Training dataset](https://github.com/frankligy/DeepImmuno/blob/main/reproduce/data/remove0123_sample100.csv)
+
+This dataset was downloaded from IEDB, immunogenicity is based on the submitter's annotation, and we collected the number of samples tested, and the number of samples that responded to derive the immunogenicity potential for training the regression model (detail can be found in the paper and supplemental methods)
+
+* [Dengue dataset](https://github.com/frankligy/DeepImmuno/blob/main/reproduce/data/dengue_test.csv)
+
+* [TESLA Tumor Neoantigen dataset](https://github.com/frankligy/DeepImmuno/blob/main/reproduce/data/ori_test_cells.csv)
+
+The first four columns are the original data information
+
+* [SARS-CoV-2 dataset](https://github.com/frankligy/DeepImmuno/blob/main/reproduce/data/sars_cov_2_result.csv)
+
+Immunogenicity-con and immunogenicity-un represent whether the test is conducted in convalescent or unexposed subjects.
+
 
 ## DeepImmuno-CNN
 
